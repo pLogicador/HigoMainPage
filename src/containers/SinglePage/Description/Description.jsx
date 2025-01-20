@@ -42,7 +42,7 @@ const Description = ({
         </RatingMeta>
         <Text content={content} {...contentStyle} />
         <TextButton>
-          <Button>Saiba mais</Button>
+          {/* <Button>Saiba mais</Button> */}
         </TextButton>
       </DescriptionWrapper>
     </Element>

@@ -29,7 +29,7 @@ const CommentBox = (props) => {
           </Fragment>
         );
       })
-    : 'No Review Found';
+    : 'Sem avaliações';
 };
 
 const Review = (props) => {
@@ -82,7 +82,7 @@ const Review = (props) => {
         <HeaderSection>
           <RatingStatus>
             <Heading
-              content={`${ratingCount} Reviews`}
+              content={`${ratingCount} Avaliações`}
               {...statusHeadingStyle}
             />
             <IoIosStar />
@@ -93,11 +93,11 @@ const Review = (props) => {
           </RatingStatus>
           <RatingSearch>
             <Search
-              placeholder="Search reviews"
+              placeholder="Buscar avaliações"
               onSearch={(value) => console.log(value)}
             />
             <Button type="primary" onClick={() => handleModalOpen('review')}>
-              Write a Review
+              Avalie
             </Button>
             <Modal
               open={state.review}
@@ -107,7 +107,7 @@ const Review = (props) => {
               style={{ backgroundColor: 'rgba(255, 255, 255, 0.9)' }}
               wrapClassName="review_modal"
             >
-              <ModalTitle>Write your review here</ModalTitle>
+              <ModalTitle>Escreva sua avaliação aqui:</ModalTitle>
               <ReviewForm />
             </Modal>
           </RatingSearch>
@@ -262,7 +262,7 @@ const Review = (props) => {
             {/* End of Filter Element */}
 
             <TextButton onClick={() => handleModalOpen('language')}>
-              More Language <IoIosArrowDown />
+              Mais linguagens <IoIosArrowDown />
             </TextButton>
 
             <Modal
