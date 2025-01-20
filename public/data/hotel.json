@@ -1,0 +1,771 @@
+[
+	{
+		"id": 63288,
+		"agentId": 38076,
+		"title": "Hotel Fasano Rio de Janeiro",
+		"slug": "hotel-fasano-rio-de-janeiro",
+		"content": "O Hotel Fasano Rio de Janeiro, localizado na icônica praia de Ipanema, é um dos hotéis de luxo mais renomados do Brasil. Com uma vista deslumbrante para o mar e a cidade, o hotel oferece uma experiência única de conforto e sofisticação. Com um serviço impecável e um ambiente elegante, é o lugar ideal para aqueles que buscam exclusividade e qualidade em sua estadia.",
+		"status": "publish",
+		"price": "500.00",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 150,
+		"contactNumber": "+55 21 3202-4000",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": true
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 90096,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+		},
+		"location": {
+			"id": 67404,
+			"lat": -22.9812,
+			"lng": -43.1900,
+			"formattedAddress": "Avenida Vieira Souto, 80, Ipanema",
+			"zipcode": "22420-000",
+			"city": "Rio de Janeiro",
+			"state_long": "Rio de Janeiro",
+			"state_short": "RJ",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},
+		"gallery": [
+			{
+				"id": 11287,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-2_thumb.jpg"
+			},
+			{
+				"id": 51759,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3_thumb.jpg"
+			},
+			{
+				"id": 1888,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-4_thumb.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 10656,
+		"agentId": 22344,
+		"title": "The Ritz-Carlton, New York",
+		"slug": "the-ritz-carlton-new-york",
+		"content": "O The Ritz-Carlton, New York é um hotel de luxo em pleno coração de Manhattan, oferecendo uma experiência inigualável de sofisticação e conforto. Localizado perto de pontos turísticos icônicos como Central Park e a Quinta Avenida, o hotel combina tradição e modernidade com um serviço impecável. Com uma ampla gama de comodidades de luxo, é a escolha perfeita para uma estadia de classe mundial em Nova York.",
+		"status": "publish",
+		"price": "1200.00",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 320,
+		"contactNumber": "+1 212-308-9100",
+		"amenities": [
+			{
+				"id": 23592,
+				"guestRoom": 2
+			},
+			{
+				"id": 7393,
+				"bedRoom": 8
+			},
+			{
+				"id": 43675,
+				"wifiAvailability": true
+			},
+			{
+				"id": 19250,
+				"parkingAvailability": true
+			},
+			{
+				"id": 4504,
+				"poolAvailability": true
+			},
+			{
+				"id": 25986,
+				"airCondition": true
+			},
+			{
+				"id": 75036,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 25738,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7_thumb.jpg"
+		},
+		"location": {
+			"id": 57557,
+			"lat": 40.7614,
+			"lng": -73.9741,
+			"formattedAddress": "2 West 55th Street at 5th Avenue",
+			"zipcode": "10019",
+			"city": "New York",
+			"state_long": "New York",
+			"state_short": "NY",
+			"country_long": "United States of America",
+			"country_short": "US"
+		},
+		"gallery": [
+			{
+				"id": 64454,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-8_thumb.jpg"
+			},
+			{
+				"id": 21253,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10_thumb.jpg"
+			},
+			{
+				"id": 46809,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9_thumb.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 34842,
+		"agentId": 66343,
+		"title": "Mandarin Oriental, Bangkok",
+		"slug": "mandarin-oriental-bangkok",
+		"content": "O Mandarin Oriental, Bangkok é um dos hotéis mais luxuosos e renomados do mundo. Localizado às margens do rio Chao Phraya, oferece uma vista espetacular e uma experiência de hospitalidade tailandesa incomparável. Com quartos e suítes elegantes, restaurantes premiados e um spa de classe mundial, o hotel é a escolha ideal para quem busca luxo e tranquilidade no coração de Bangkok.",
+		"status": "publish",
+		"price": "890.00",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 210,
+		"contactNumber": "+66 2 659 9000",
+		"amenities": [
+			{
+				"id": 35106,
+				"guestRoom": 2
+			},
+			{
+				"id": 23084,
+				"bedRoom": 2
+			},
+			{
+				"id": 62049,
+				"wifiAvailability": true
+			},
+			{
+				"id": 69839,
+				"parkingAvailability": true
+			},
+			{
+				"id": 51897,
+				"poolAvailability": true
+			},
+			{
+				"id": 3389,
+				"airCondition": true
+			},
+			{
+				"id": 90560,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 42681,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13_thumb.jpg"
+		},
+		"location": {
+			"id": 45160,
+			"lat": 13.7307,
+			"lng": 100.5164,
+			"formattedAddress": "48 Oriental Avenue, Bangkok 10500",
+			"zipcode": "10500",
+			"city": "Bangkok",
+			"state_long": "Bangkok",
+			"state_short": "BKK",
+			"country_long": "Thailand",
+			"country_short": "TH"
+		},
+		"gallery": [
+			{
+				"id": 37686,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14_thumb.jpg"
+			},
+			{
+				"id": 15249,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15_thumb.jpg"
+			},
+			{
+				"id": 23724,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-16_thumb.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 13858,
+		"agentId": 62059,
+		"title": "Hotel de Crillon, Paris",
+		"slug": "hotel-de-crillon-paris",
+		"content": "O Hotel de Crillon é um dos hotéis mais emblemáticos de Paris, conhecido por seu luxo e localização privilegiada na Place de la Concorde. Com uma rica história e decoração sofisticada, oferece uma experiência incomparável em Paris. Seus quartos são elegantes e seu serviço é de alto nível, tornando-o uma escolha ideal para quem busca exclusividade e conforto na capital francesa.",
+		"status": "publish",
+		"price": "1620.00",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 4.9,
+		"ratingCount": 185,
+		"contactNumber": "+33 1 44 71 15 00",
+		"amenities": [
+			{
+				"id": 43258,
+				"guestRoom": 3
+			},
+			{
+				"id": 44033,
+				"bedRoom": 4
+			},
+			{
+				"id": 33164,
+				"wifiAvailability": true
+			},
+			{
+				"id": 9369,
+				"parkingAvailability": true
+			},
+			{
+				"id": 73172,
+				"poolAvailability": true
+			},
+			{
+				"id": 60056,
+				"airCondition": true
+			},
+			{
+				"id": 79307,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 87047,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19_thumb.jpg"
+		},
+		"location": {
+			"id": 27125,
+			"lat": 48.8696,
+			"lng": 2.3272,
+			"formattedAddress": "10 Place de la Concorde, 75008 Paris, France",
+			"zipcode": "75008",
+			"city": "Paris",
+			"state_long": "Île-de-France",
+			"state_short": "IDF",
+			"country_long": "France",
+			"country_short": "FR"
+		},
+		"gallery": [
+			{
+				"id": 62073,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20_thumb.jpg"
+			},
+			{
+				"id": 94501,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			},
+			{
+				"id": 11548,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-2_thumb.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 75801,
+		"agentId": 28419,
+		"title": "The Peninsula, Hong Kong",
+		"slug": "the-peninsula-hong-kong",
+		"content": "The Peninsula Hong Kong é um ícone de luxo e sofisticação. Localizado no coração de Tsim Sha Tsui, este hotel é famoso pela sua elegância clássica, oferecendo acomodações de alto padrão, restaurantes premiados e um serviço excepcional. É a escolha perfeita para quem busca uma experiência única em Hong Kong, combinando conforto, tradição e inovação.",
+		"status": "publish",
+		"price": "1800.00",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 4.9,
+		"ratingCount": 320,
+		"contactNumber": "+852 2920 2888",
+		"amenities": [
+			{
+				"id": 91599,
+				"guestRoom": 10
+			},
+			{
+				"id": 54794,
+				"bedRoom": 5
+			},
+			{
+				"id": 23246,
+				"wifiAvailability": true
+			},
+			{
+				"id": 81884,
+				"parkingAvailability": true
+			},
+			{
+				"id": 10766,
+				"poolAvailability": true
+			},
+			{
+				"id": 84257,
+				"airCondition": true
+			},
+			{
+				"id": 83346,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 32194,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5_thumb.jpg"
+		},
+		"location": {
+			"id": 33715,
+			"lat": 22.2855,
+			"lng": 114.1486,
+			"formattedAddress": "Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong",
+			"zipcode": "999077",
+			"city": "Hong Kong",
+			"state_long": "Hong Kong",
+			"state_short": "HK",
+			"country_long": "China",
+			"country_short": "CN"
+		},
+		"gallery": [
+			{
+				"id": 51437,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6_thumb.jpg"
+			},
+			{
+				"id": 62903,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7_thumb.jpg"
+			},
+			{
+				"id": 69198,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-8_thumb.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 63811,
+		"agentId": 22353,
+		"title": "Four Seasons Hotel London at Park Lane",
+		"slug": "four-seasons-hotel-london-park-lane",
+		"content": "O Four Seasons Hotel London at Park Lane é um símbolo de luxo e sofisticação. Localizado no coração de Mayfair, oferece uma experiência única com acomodações requintadas, gastronomia de alto nível e um spa exclusivo. A localização central permite fácil acesso a atrações de Londres, tornando-o a escolha ideal para viagens de negócios ou lazer.",
+		"status": "publish",
+		"price": "2000.00",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 4.8,
+		"ratingCount": 250,
+		"contactNumber": "+44 20 7319 5050",
+		"amenities": [
+			{
+				"id": 17643,
+				"guestRoom": 10
+			},
+			{
+				"id": 23712,
+				"bedRoom": 5
+			},
+			{
+				"id": 47458,
+				"wifiAvailability": true
+			},
+			{
+				"id": 82666,
+				"parkingAvailability": true
+			},
+			{
+				"id": 46037,
+				"poolAvailability": true
+			},
+			{
+				"id": 20784,
+				"airCondition": true
+			},
+			{
+				"id": 63472,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 52861,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11_thumb.jpg"
+		},
+		"location": {
+			"id": 23076,
+			"lat": 51.5055,
+			"lng": -0.1473,
+			"formattedAddress": "Park Lane, Mayfair, London W1K 7TN, United Kingdom",
+			"zipcode": "W1K 7TN",
+			"city": "London",
+			"state_long": "England",
+			"state_short": "ENG",
+			"country_long": "United Kingdom",
+			"country_short": "GB"
+		},
+		"gallery": [
+			{
+				"id": 98348,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12_thumb.jpg"
+			},
+			{
+				"id": 10832,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13_thumb.jpg"
+			},
+			{
+				"id": 70635,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14_thumb.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 35137,
+		"agentId": 63123,
+		"title": "Badrutt's Palace Hotel",
+		"slug": "badrutts-palace-hotel-st-moritz",
+		"content": "Badrutt's Palace Hotel é um ícone de luxo e estilo na região dos Alpes suíços. Localizado em St. Moritz, o hotel oferece uma experiência única de hospitalidade de classe mundial com vistas deslumbrantes, gastronomia refinada e um spa exclusivo. Acomodação impecável e serviço de primeira linha fazem deste hotel o destino perfeito para quem busca luxo e tranquilidade.",
+		"status": "publish",
+		"price": "1200.00",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 4.9,
+		"ratingCount": 325,
+		"contactNumber": "+41 81 837 10 00",
+		"amenities": [
+			{
+				"id": 42547,
+				"guestRoom": 10
+			},
+			{
+				"id": 59276,
+				"bedRoom": 5
+			},
+			{
+				"id": 26908,
+				"wifiAvailability": true
+			},
+			{
+				"id": 48314,
+				"parkingAvailability": true
+			},
+			{
+				"id": 15833,
+				"poolAvailability": true
+			},
+			{
+				"id": 12431,
+				"airCondition": true
+			},
+			{
+				"id": 59575,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 91141,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17_thumb.jpg"
+		},
+		"location": {
+			"id": 10393,
+			"lat": 46.4983,
+			"lng": 9.8375,
+			"formattedAddress": "Via Serlas 27, 7500 St. Moritz, Switzerland",
+			"zipcode": "7500",
+			"city": "St. Moritz",
+			"state_long": "Graubünden",
+			"state_short": "GR",
+			"country_long": "Switzerland",
+			"country_short": "CH"
+		},
+		"gallery": [
+			{
+				"id": 99115,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-18_thumb.jpg"
+			},
+			{
+				"id": 27188,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19_thumb.jpg"
+			},
+			{
+				"id": 33855,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20_thumb.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 91552,
+		"agentId": 9488,
+		"title": "Shangri-La Hotel, Sydney",
+		"slug": "shangri-la-hotel-sydney",
+		"content": "O Shangri-La Hotel, localizado em Sydney, Austrália, é um destino luxuoso que oferece vistas deslumbrantes da cidade e da icônica Opera House. Com uma combinação de elegância moderna e hospitalidade impecável, o hotel oferece um serviço de alta qualidade, excelente gastronomia e acomodações sofisticadas, garantindo uma experiência única em Sydney.",
+		"status": "publish",
+		"price": "650.00",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 4.7,
+		"ratingCount": 265,
+		"contactNumber": "+61 2 9250 6000",
+		"amenities": [
+			{
+				"id": 43134,
+				"guestRoom": 15
+			},
+			{
+				"id": 44490,
+				"bedRoom": 7
+			},
+			{
+				"id": 43432,
+				"wifiAvailability": true
+			},
+			{
+				"id": 60072,
+				"parkingAvailability": true
+			},
+			{
+				"id": 80885,
+				"poolAvailability": true
+			},
+			{
+				"id": 39788,
+				"airCondition": true
+			},
+			{
+				"id": 28924,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 14297,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3_thumb.jpg"
+		},
+		"location": {
+			"id": 93702,
+			"lat": -33.8688,
+			"lng": 151.2093,
+			"formattedAddress": "176 Cumberland St, The Rocks, Sydney, NSW 2000, Australia",
+			"zipcode": "2000",
+			"city": "Sydney",
+			"state_long": "New South Wales",
+			"state_short": "NSW",
+			"country_long": "Australia",
+			"country_short": "AU"
+		},
+		"gallery": [
+			{
+				"id": 35180,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-4_thumb.jpg"
+			},
+			{
+				"id": 27573,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5_thumb.jpg"
+			},
+			{
+				"id": 68402,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6_thumb.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 26601,
+		"agentId": 61604,
+		"title": "InterContinental, Tokyo Bay",
+		"slug": "intercontinental-tokyo-bay",
+		"content": "O InterContinental Tokyo Bay é um hotel de luxo à beira-mar, oferecendo vistas panorâmicas da Baía de Tóquio. Com uma mistura de design moderno e tradições japonesas, o hotel proporciona uma experiência de conforto e sofisticação, ideal para aqueles que buscam uma estadia luxuosa em Tóquio.",
+		"status": "publish",
+		"price": "180.00",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 4.8,
+		"ratingCount": 320,
+		"contactNumber": "+81 3-5404-3898",
+		"amenities": [
+			{
+				"id": 70472,
+				"guestRoom": 10
+			},
+			{
+				"id": 88236,
+				"bedRoom": 5
+			},
+			{
+				"id": 29649,
+				"wifiAvailability": true
+			},
+			{
+				"id": 70319,
+				"parkingAvailability": true
+			},
+			{
+				"id": 78746,
+				"poolAvailability": true
+			},
+			{
+				"id": 78269,
+				"airCondition": true
+			},
+			{
+				"id": 95269,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 22340,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9_thumb.jpg"
+		},
+		"location": {
+			"id": 81726,
+			"lat": 35.6328,
+			"lng": 139.7749,
+			"formattedAddress": "1-16-2 Kaigan, Minato City, Tokyo 105-8576, Japan",
+			"zipcode": "105-8576",
+			"city": "Tokyo",
+			"state_long": "Tokyo",
+			"state_short": "TK",
+			"country_long": "Japan",
+			"country_short": "JP"
+		},
+		"gallery": [
+			{
+				"id": 70509,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10_thumb.jpg"
+			},
+			{
+				"id": 32412,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11_thumb.jpg"
+			},
+			{
+				"id": 12967,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12_thumb.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 13498,
+		"agentId": 52252,
+		"title": "Aman Tokyo",
+		"slug": "aman-tokyo",
+		"content": "Aman Tokyo é um refúgio luxuoso no coração da cidade, oferecendo uma experiência de tranquilidade e sofisticação. Com vistas espetaculares da cidade e um design que mistura modernidade com elementos tradicionais japoneses, o Aman Tokyo é o local perfeito para relaxamento e conforto.",
+		"status": "publish",
+		"price": "195.00",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 8,
+		"contactNumber": "+81 3-5226-3333",
+		"amenities": [
+			{
+				"id": 76686,
+				"guestRoom": 6
+			},
+			{
+				"id": 18771,
+				"bedRoom": 8
+			},
+			{
+				"id": 54155,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22192,
+				"parkingAvailability": true
+			},
+			{
+				"id": 5566,
+				"poolAvailability": false
+			},
+			{
+				"id": 48604,
+				"airCondition": false
+			},
+			{
+				"id": 15424,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 60214,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15.jpg",
+			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15_thumb.jpg"
+		},
+		"location": {
+			"id": 82805,
+			"lat": 35.6695,
+			"lng": 139.7405,
+			"formattedAddress": "Aman Tokyo, 1-5-6 Otemachi, Chiyoda City, Tokyo 100-0004, Japan",
+			"zipcode": "100-0004",
+			"city": "Tokyo",
+			"state_long": "Tokyo",
+			"state_short": "TK",
+			"country_long": "Japan",
+			"country_short": "JP"
+		},
+		"gallery": [
+			{
+				"id": 7788,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-16_thumb.jpg"
+			},
+			{
+				"id": 21707,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17_thumb.jpg"
+			},
+			{
+				"id": 7459,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-18_thumb.jpg"
+			}
+		]
+	}
+]

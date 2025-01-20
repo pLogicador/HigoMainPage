@@ -1,0 +1,904 @@
+[
+	{
+		"id": 63811,
+		"agentId": 22353,
+		"title": "Morro de São Paulo",
+		"slug": "morro-de-sao-paulo",
+		"content": "150.000 pontos para 50% desconto com acompanhante.",
+		"status": "available",
+		"price": "1.290",
+		"isNegotiable": false,
+		"propertyType": "Resort",
+		"condition": "Excellent",
+		"rating": 4.8,
+		"ratingCount": 256,
+		"contactNumber": "+55 71 91234-5678",
+		"amenities": [
+			{
+				"id": 17643,
+				"guestRoom": 50
+			},
+			{
+				"id": 23712,
+				"bedRoom": 2
+			},
+			{
+				"id": 47458,
+				"wifiAvailability": true
+			},
+			{
+				"id": 82666,
+				"parkingAvailability": true
+			},
+			{
+				"id": 46037,
+				"poolAvailability": true
+			},
+			{
+				"id": 20784,
+				"airCondition": true
+			},
+			{
+				"id": 63472,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 52861,
+			"url": "/images/morro-de-sao-paulo.png"
+		},
+		"location": {
+			"id": 23076,
+			"lat": -13.3758,
+			"lng": -38.9122,
+			"formattedAddress": "150.000 pontos para 50% desconto com acompanhante.",
+			"zipcode": "45420-000",
+			"city": "Morro de São Paulo",
+			"state_long": "Bahia",
+			"state_short": "BA",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},
+		"gallery": [
+			{
+				"id": 98348,
+				"url": "/images/morro-de-sao-paulo.jpg"
+			},
+			{
+				"id": 10832,
+				"url": "/images/morro-de-sao-paulo.jpg"
+			},
+			{
+				"id": 70635,
+				"url": "/images/morro-de-sao-paulo.jpg"
+			}
+		]
+	},
+	{
+		"id": 35137,
+		"agentId": 63123,
+		"title": "Fortaleza",
+		"slug": "fortaleza",
+		"content": "Fortaleza, a capital do Ceará, é conhecida por suas belas praias, como a Praia do Futuro e Iracema, além de sua rica cultura e gastronomia nordestina. É um destino turístico vibrante, perfeito para quem busca lazer e diversão.",
+		"status": "available",
+		"price": "1.465",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 4.7,
+		"ratingCount": 325,
+		"contactNumber": "+55 85 98765-4321",
+		"amenities": [
+			{
+				"id": 42547,
+				"guestRoom": 25
+			},
+			{
+				"id": 59276,
+				"bedRoom": 2
+			},
+			{
+				"id": 26908,
+				"wifiAvailability": true
+			},
+			{
+				"id": 48314,
+				"parkingAvailability": true
+			},
+			{
+				"id": 15833,
+				"poolAvailability": true
+			},
+			{
+				"id": 12431,
+				"airCondition": true
+			},
+			{
+				"id": 59575,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 91141,
+			"url": "/images/fortaleza.jpg"
+		},
+		"location": {
+			"id": 10393,
+			"lat": -3.7172,
+			"lng": -38.5433,
+			"formattedAddress": "150.000 pontos para 50% desconto com acompanhante.",
+			"zipcode": "60125-000",
+			"city": "Fortaleza",
+			"state_long": "Ceará",
+			"state_short": "CE",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},
+		"gallery": [
+			{
+				"id": 99115,
+				"url": "/images/fortaleza.jpg"
+			},
+			{
+				"id": 27188,
+				"url": "/images/fortaleza.jpg"
+			},
+			{
+				"id": 33855,
+				"url": "/images/fortaleza.jpg"
+			}
+		]
+	},	
+	{
+		"id": 91552,
+		"agentId": 9488,
+		"title": "Rio de Janeiro",
+		"slug": "rio-de-janeiro",
+		"content": "Descubra a Cidade Maravilhosa! Hospede-se com conforto e aproveite o melhor que o Rio de Janeiro tem a oferecer: praias deslumbrantes, cultura vibrante e uma paisagem de tirar o fôlego.",
+		"status": "publish",
+		"price": "879",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 4.7,
+		"ratingCount": 125,
+		"contactNumber": "+55 21 99999-0000",
+		"amenities": [
+			{
+				"id": 43134,
+				"guestRoom": 10
+			},
+			{
+				"id": 44490,
+				"bedRoom": 5
+			},
+			{
+				"id": 43432,
+				"wifiAvailability": true
+			},
+			{
+				"id": 60072,
+				"parkingAvailability": true
+			},
+			{
+				"id": 80885,
+				"poolAvailability": true
+			},
+			{
+				"id": 39788,
+				"airCondition": true
+			},
+			{
+				"id": 28924,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 14297,
+			"url": "/images/rio-de-janeiro.jpg"
+		},
+		"location": {
+			"id": 93702,
+			"lat": -22.9068,
+			"lng": -43.1729,
+			"formattedAddress": "100.000 pontos para 50% de desconto com acompanhante",
+			"zipcode": "20000-000",
+			"city": "Rio de Janeiro",
+			"state_long": "Rio de Janeiro",
+			"state_short": "RJ",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},
+		"gallery": [
+			{
+				"id": 35180,
+				"url": "/images/rio-de-janeiro.jpg"
+			},
+			{
+				"id": 27573,
+				"url": "/images/rio-de-janeiro.jpg"
+			},
+			{
+				"id": 68402,
+				"url": "/images/rio-de-janeiro.jpg"
+			}
+		]
+	},
+	{
+		"id": 26601,
+		"agentId": 61604,
+		"title": "Gramado",
+		"slug": "Gramado",
+		"content": "Descubra a tranquilidade e beleza de uma estadia em Gramado. Esta incrível villa oferece conforto e sofisticação em um dos destinos turísticos mais charmosos do Brasil. Ideal para quem procura relaxar e aproveitar as paisagens únicas da Serra Gaúcha.",
+		"status": "draft",
+		"price": "2.182",
+		"isNegotiable": false,
+		"propertyType": "Villa",
+		"condition": "Average",
+		"rating": 4.5,
+		"ratingCount": 5,
+		"contactNumber": "150.663.2821",
+		"amenities": [
+			{
+				"id": 70472,
+				"guestRoom": 6
+			},
+			{
+				"id": 88236,
+				"bedRoom": 6
+			},
+			{
+				"id": 29649,
+				"wifiAvailability": true
+			},
+			{
+				"id": 70319,
+				"parkingAvailability": true
+			},
+			{
+				"id": 78746,
+				"poolAvailability": false
+			},
+			{
+				"id": 78269,
+				"airCondition": true
+			},
+			{
+				"id": 95269,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 22340,
+			"url": "/images/gramado.jpg"
+		},
+		"location": {
+			"id": 81726,
+			"lat": -29.3731,
+			"lng": -50.8761,
+			"formattedAddress": "190.000 pontos para 50% desconto com acompanhante.",
+			"zipcode": "95670-000",
+			"city": "Gramado",
+			"state_long": "Rio Grande do Sul",
+			"state_short": "RS",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},
+		"gallery": [
+			{
+				"id": 70509,
+				"url": "/images/gramado.jpg"
+			},
+			{
+				"id": 32412,
+				"url": "/images/gramado.jpg"
+			},
+			{
+				"id": 12967,
+				"url": "/images/gramado.jpg"
+			}
+		]
+	},
+	{
+		"id": 13498,
+		"agentId": 52252,
+		"title": "Porto Seguro",
+		"slug": "porto-seguro-viagem",
+		"content": "Pontos 150.000 para 50% desconto com acompanhante.",
+		"status": "publish",
+		"price": "1.179",
+		"isNegotiable": false,
+		"propertyType": "Pacote de Viagem",
+		"condition": "Novo",
+		"rating": 4.8,
+		"ratingCount": 22,
+		"contactNumber": "492.701.7429 x567",
+		"amenities": [
+			{
+				"id": 76686,
+				"guestRoom": 0
+			},
+			{
+				"id": 18771,
+				"bedRoom": 0
+			},
+			{
+				"id": 54155,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22192,
+				"parkingAvailability": true
+			},
+			{
+				"id": 5566,
+				"poolAvailability": true
+			},
+			{
+				"id": 48604,
+				"airCondition": true
+			},
+			{
+				"id": 15424,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 60214,
+			"url": "/images/porto-seguro.jpg"
+		},
+		"location": {
+			"id": 82805,
+			"lat": -16.4413,
+			"lng": -39.0707,
+			"formattedAddress": "150.000 pontos para 50% desconto com acompanhante.",
+			"zipcode": "45810-000",
+			"city": "Porto Seguro",
+			"state_long": "Bahia",
+			"state_short": "BA",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},
+		"gallery": [
+			{
+				"id": 7788,
+				"url": "/images/porto-seguro.jpg"
+			},
+			{
+				"id": 21707,
+				"url": "/images/porto-seguro.jpg"
+			},
+			{
+				"id": 7459,
+				"url": "/images/porto-seguro.jpg"
+			}
+		]
+	},
+	{
+		"id": 14892,
+		"agentId": 75549,
+		"title": "Florianópolis",
+		"slug": "florianopolis-viagem",
+		"content": "Explore as belezas de Florianópolis com um pacote completo. Praias, cultura, gastronomia e aventura esperam por você.",
+		"status": "publish",
+		"price": "1.294",
+		"isNegotiable": false,
+		"propertyType": "Pacote de Viagem",
+		"condition": "Novo",
+		"rating": 4.7,
+		"ratingCount": 19,
+		"contactNumber": "1-062-144-6412 x477",
+		"amenities": [
+			{
+				"id": 60999,
+				"guestRoom": 0
+			},
+			{
+				"id": 11328,
+				"bedRoom": 0
+			},
+			{
+				"id": 41566,
+				"wifiAvailability": true
+			},
+			{
+				"id": 27551,
+				"parkingAvailability": true
+			},
+			{
+				"id": 65154,
+				"poolAvailability": true
+			},
+			{
+				"id": 42131,
+				"airCondition": true
+			},
+			{
+				"id": 88250,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 26144,
+			"url": "/images/florianopolis.jpg"
+		},
+		"location": {
+			"id": 84050,
+			"lat": -27.5954,
+			"lng": -48.5480,
+			"formattedAddress": "155.000 pontos para 50% desconto com acompanhante.",
+			"zipcode": "88010-001",
+			"city": "Florianópolis",
+			"state_long": "Santa Catarina",
+			"state_short": "SC",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},
+		"gallery": [
+			{
+				"id": 44332,
+				"url": "/images/florianopolis.jpg"
+			},
+			{
+				"id": 34700,
+				"url": "/images/florianopolis.jpg"
+			},
+			{
+				"id": 99806,
+				"url": "/images/florianopolis.jpg"
+			}
+		]
+	},
+	{
+		"id": 84557,
+		"agentId": 1634,
+		"title": "Natal",
+		"slug": "natal-viagem",
+		"content": "Venha desfrutar do sol, das praias e da cultura de Natal com um pacote especial. Uma experiência única que combina lazer e aventura.",
+		"status": "publish",
+		"price": "1.490",
+		"isNegotiable": false,
+		"propertyType": "Pacote de Viagem",
+		"condition": "Novo",
+		"rating": 4.8,
+		"ratingCount": 12,
+		"contactNumber": "(324) 731-4990 x405",
+		"amenities": [
+			{
+				"id": 17360,
+				"guestRoom": 0
+			},
+			{
+				"id": 19945,
+				"bedRoom": 0
+			},
+			{
+				"id": 4297,
+				"wifiAvailability": true
+			},
+			{
+				"id": 77928,
+				"parkingAvailability": true
+			},
+			{
+				"id": 78700,
+				"poolAvailability": true
+			},
+			{
+				"id": 1477,
+				"airCondition": true
+			},
+			{
+				"id": 84627,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 49595,
+			"url": "/images/natal.jpg"
+		},
+		"location": {
+			"id": 74790,
+			"lat": -5.7945,
+			"lng": -35.2110,
+			"formattedAddress": "160.000 pontos para 50% desconto com acompanhante.",
+			"zipcode": "59000-000",
+			"city": "Natal",
+			"state_long": "Rio Grande do Norte",
+			"state_short": "RN",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},
+		"gallery": [
+			{
+				"id": 58613,
+				"url": "/images/natal.jpg"
+			},
+			{
+				"id": 44236,
+				"url": "/images/natal.jpg"
+			},
+			{
+				"id": 21946,
+				"url": "/images/natal.jpg"
+			}
+		]
+	},
+	{
+		"id": 3897,
+		"agentId": 11936,
+		"title": "Maceió",
+		"slug": "maceio-viagem",
+		"content": "Explore as belas praias de Maceió e desfrute de um pacote exclusivo com acomodações e passeios. Viva a experiência de um destino paradisíaco.",
+		"status": "publish",
+		"price": "1.679",
+		"isNegotiable": false,
+		"propertyType": "Pacote de Viagem",
+		"condition": "Novo",
+		"rating": 4.6,
+		"ratingCount": 15,
+		"contactNumber": "(324) 731-4990 x405",
+		"amenities": [
+			{
+				"id": 48116,
+				"guestRoom": 0
+			},
+			{
+				"id": 24715,
+				"bedRoom": 0
+			},
+			{
+				"id": 69933,
+				"wifiAvailability": true
+			},
+			{
+				"id": 9822,
+				"parkingAvailability": true
+			},
+			{
+				"id": 70076,
+				"poolAvailability": true
+			},
+			{
+				"id": 261,
+				"airCondition": true
+			},
+			{
+				"id": 6100,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 1719,
+			"url": "/images/maceio.jpg"
+		},
+		"location": {
+			"id": 34339,
+			"lat": -9.6658,
+			"lng": -35.7350,
+			"formattedAddress": "180.000 pontos para 50% desconto com acompanhante.",
+			"zipcode": "57030-180",
+			"city": "Maceió",
+			"state_long": "Alagoas",
+			"state_short": "AL",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},
+		"gallery": [
+			{
+				"id": 14495,
+				"url": "/images/maceio.jpg"
+			},
+			{
+				"id": 83768,
+				"url": "/images/maceio.jpg"
+			},
+			{
+				"id": 57361,
+				"url": "/images/maceio.jpg"
+			}
+		]
+	},
+	{
+		"id": 7388,
+		"agentId": 4595,
+		"title": "Cancun",
+		"slug": "cancun-viagem",
+		"content": "Desfrute de uma experiência incrível em Cancun! Aproveite praias paradisíacas, resorts luxuosos e passeios exclusivos. Um destino perfeito para relaxar e se divertir.",
+		"status": "publish",
+		"price": "4.165",
+		"isNegotiable": false,
+		"propertyType": "Pacote de Viagem",
+		"condition": "Novo",
+		"rating": 4.8,
+		"ratingCount": 20,
+		"contactNumber": "(324) 731-4990 x405",
+		"amenities": [
+			{
+				"id": 88544,
+				"guestRoom": 0
+			},
+			{
+				"id": 56516,
+				"bedRoom": 0
+			},
+			{
+				"id": 23819,
+				"wifiAvailability": true
+			},
+			{
+				"id": 67601,
+				"parkingAvailability": true
+			},
+			{
+				"id": 65113,
+				"poolAvailability": true
+			},
+			{
+				"id": 53269,
+				"airCondition": true
+			},
+			{
+				"id": 37509,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 66682,
+			"url": "/images/cancun.jpg"
+		},
+		"location": {
+			"id": 28501,
+			"lat": 21.1743,
+			"lng": -86.8466,
+			"formattedAddress": "4165.000 pontos para 50% desconto com acompanhante.",
+			"zipcode": "77710",
+			"city": "Cancun",
+			"state_long": "Quintana Roo",
+			"state_short": "QR",
+			"country_long": "México",
+			"country_short": "MX"
+		},
+		"gallery": [
+			{
+				"id": 83511,
+				"url": "/images/cancun.jpg"
+			},
+			{
+				"id": 96769,
+				"url": "/images/cancun.jpg"
+			},
+			{
+				"id": 71739,
+				"url": "/images/cancun.jpg"
+			}
+		]
+	},
+	{
+		"id": 12433,
+		"agentId": 39329,
+		"title": "Bariloche",
+		"slug": "bariloche-viagem",
+		"content": "Aproveite as belezas naturais de Bariloche, com seus lagos cristalinos, montanhas e neve no inverno. Ideal para quem ama esportes de inverno ou simplesmente relaxar em um cenário deslumbrante.",
+		"status": "publish",
+		"price": "4.469",
+		"isNegotiable": false,
+		"propertyType": "Pacote de Viagem",
+		"condition": "Novo",
+		"rating": 4.7,
+		"ratingCount": 15,
+		"contactNumber": "(294) 545-6789",
+		"amenities": [
+			{
+				"id": 2337,
+				"guestRoom": 0
+			},
+			{
+				"id": 94096,
+				"bedRoom": 0
+			},
+			{
+				"id": 39287,
+				"wifiAvailability": true
+			},
+			{
+				"id": 57957,
+				"parkingAvailability": true
+			},
+			{
+				"id": 98548,
+				"poolAvailability": false
+			},
+			{
+				"id": 12989,
+				"airCondition": false
+			},
+			{
+				"id": 66177,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 27169,
+			"url": "/images/bariloche.jpg"
+		},
+		"location": {
+			"id": 52689,
+			"lat": -41.2967,
+			"lng": -71.3127,
+			"formattedAddress": "240.000 pontos para 50% desconto com acompanhante.o",
+			"zipcode": "8400",
+			"city": "Bariloche",
+			"state_long": "Río Negro",
+			"state_short": "RN",
+			"country_long": "Argentina",
+			"country_short": "AR"
+		},
+		"gallery": [
+			{
+				"id": 21583,
+				"url": "/images/bariloche.jpg"
+			},
+			{
+				"id": 6406,
+				"url": "/images/bariloche.jpg"
+			},
+			{
+				"id": 68447,
+				"url": "/images/bariloche.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 22861,
+		"agentId": 52548,
+		"title": "Buenos Aires",
+		"slug": "buenos-aires-viagem",
+		"content": "Explore as encantadoras ruas de Buenos Aires, com sua rica cultura, gastronomia e vida noturna vibrante. Perfeito para quem deseja conhecer a cidade do tango e desfrutar de uma experiência única.",
+		"status": "publish",
+		"price": "2.449",
+		"isNegotiable": true,
+		"propertyType": "Pacote de Viagem",
+		"condition": "Novo",
+		"rating": 4.3,
+		"ratingCount": 10,
+		"contactNumber": "(11) 4512-3456",
+		"amenities": [
+			{
+				"id": 59784,
+				"guestRoom": 0
+			},
+			{
+				"id": 38653,
+				"bedRoom": 0
+			},
+			{
+				"id": 58546,
+				"wifiAvailability": true
+			},
+			{
+				"id": 88866,
+				"parkingAvailability": true
+			},
+			{
+				"id": 18664,
+				"poolAvailability": false
+			},
+			{
+				"id": 44998,
+				"airCondition": true
+			},
+			{
+				"id": 53306,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 83800,
+			"url": "/images/buenos-aires.jpg"
+		},
+		"location": {
+			"id": 90805,
+			"lat": -34.6037,
+			"lng": -58.3816,
+			"formattedAddress": "220.000 pontos para 50% desconto com acompanhante.",
+			"zipcode": "C1001",
+			"city": "Buenos Aires",
+			"state_long": "Buenos Aires",
+			"state_short": "CABA",
+			"country_long": "Argentina",
+			"country_short": "AR"
+		},
+		"gallery": [
+			{
+				"id": 42616,
+				"url": "/images/buenos-aires.jpg"
+			},
+			{
+				"id": 28382,
+				"url": "/images/buenos-aires.jpg"
+			},
+			{
+				"id": 55505,
+				"url": "/images/buenos-aires.jpg"
+			}
+		]
+	}
+	,
+	{
+		"id": 92902,
+		"agentId": 8425,
+		"title": "Handcrafted Granite Pants",
+		"slug": "earum-ratione-totam",
+		"content": "Nihil ut deserunt omnis reiciendis sequi totam voluptates aperiam doloribus. Repellendus harum ut qui ducimus qui qui quasi et. Odit reiciendis dolorem repellendus qui modi tenetur velit. Qui ut dicta debitis adipisci ullam veniam unde magni sint. At qui magni doloremque enim.",
+		"status": "draft",
+		"price": "366",
+		"isNegotiable": true,
+		"propertyType": "Villa",
+		"condition": "Average",
+		"rating": 3,
+		"ratingCount": 15,
+		"contactNumber": "(991) 901-7574 x363",
+		"amenities": [
+			{
+				"id": 28424,
+				"guestRoom": 7
+			},
+			{
+				"id": 81380,
+				"bedRoom": 8
+			},
+			{
+				"id": 40428,
+				"wifiAvailability": true
+			},
+			{
+				"id": 55025,
+				"parkingAvailability": false
+			},
+			{
+				"id": 47543,
+				"poolAvailability": false
+			},
+			{
+				"id": 61874,
+				"airCondition": true
+			},
+			{
+				"id": 99023,
+				"extraBedFacility": false
+			}
+		],
+		"image": {
+			"id": 81248,
+			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-18.jpg"
+		},
+		"location": {
+			"id": 56947,
+			"lat": 40.7788,
+			"lng": -76.9741,
+			"formattedAddress": "150.000 pontos para 50% desconto com acompanhante.",
+			"zipcode": "21660",
+			"city": "Lake Nayeli",
+			"state_long": "South Dakota",
+			"state_short": "PA",
+			"country_long": "Maldives",
+			"country_short": "AO"
+		},
+		"gallery": [
+			{
+				"id": 43904,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17_thumb.jpg"
+			},
+			{
+				"id": 37243,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20_thumb.jpg"
+			},
+			{
+				"id": 76234,
+				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19_thumb.jpg"
+			}
+		]
+	}
+]
