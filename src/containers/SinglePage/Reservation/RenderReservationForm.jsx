@@ -51,7 +51,7 @@ const RenderReservationForm = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     alert(
-      `Data inicil: ${formState.startDate}\nData final: ${formState.endDate}\nQuartos: ${formState.room}\nHospedes: ${formState.guest}`,
+      `Data inicial: ${formState.startDate}\nData final: ${formState.endDate}\nQuartos: ${formState.room}\nHospedes: ${formState.guest}`,
     );
   };
 

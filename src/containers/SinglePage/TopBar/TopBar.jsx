@@ -13,19 +13,19 @@ import { TobBarWrapper, ButtonGroup } from '../SinglePageView.style';
 
 const topBarMenu = [
   {
-    name: 'Geral',
+    // name: 'Geral',
     target: 'overview',
   },
   {
-    name: 'Comodidades',
+    // name: 'Comodidades',
     target: 'amenities',
   },
   {
-    name: 'Localização',
+    // name: 'Localização',
     target: 'location',
   },
   {
-    name: 'Comentários',
+    // name: 'Comentários',
     target: 'reviews',
   },
 ];
@@ -33,7 +33,7 @@ const topBarMenu = [
 const SideButtons = (props) => {
   return (
     <ButtonGroup>
-      <Favorite className="ant-btn" content="Salvar" />
+      {/* <Favorite className="ant-btn" content="Salvar" /> */}
       <Dropdown
         placement="bottomRight"
         menu={{

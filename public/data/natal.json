@@ -2,9 +2,9 @@
 	{
 		"id": 65362,
 		"agentId": 2125,
-		"title": "natal",
+		"title": "Natal",
 		"slug": "natal",
-		"content": "No South Williamsburg, a apenas alguns quarteirões do East River, Marlo & Sons é um refúgio rústico com bons vinhos, bons coquetéis e excelentes petiscos, como ostras, queijos locais e tortilha de batata. Mas há mais: saladas e sopas sazonais, o famoso frango na tijela, um espaço à luz de velas decorado com vários tipos de madeira (afinal, este é um restaurante Andrew Tarlow). De muitas maneiras.",
+		"content": "Natal é uma cidade encantadora, localizada no Rio Grande do Norte, famosa por suas praias de águas claras, dunas e o clima tropical. Com uma excelente infraestrutura para turismo, Natal oferece uma mistura de atrações naturais e culturais, como o Forte dos Reis Magos, o Mercado de Artesanato e as famosas praias de Ponta Negra e Genipabu. Além disso, a culinária local é recheada de pratos deliciosos à base de peixe e frutos do mar, como a caldeirada de camarão e a famosa carne de sol com macaxeira. Com diversas opções de lazer e tranquilidade, Natal é o destino perfeito para quem busca relaxar e explorar belezas naturais.",
 		"status": "rascunho",
 		"price": "253.00",
 		"isNegotiable": true,
@@ -70,116 +70,7 @@
 				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
 			}
 		],
-		"reviews": [
-			{
-				"reviewID": 77370,
-				"reviewTitle": "Excelente experiência com pequenas observações.",
-				"reviewText": "A estadia foi muito boa, com destaque para o atendimento e a qualidade das acomodações. O ambiente é acolhedor e os serviços são de alta qualidade. No entanto, algumas melhorias poderiam ser feitas, como o aumento da frequência na limpeza das áreas comuns. No geral, recomendo e voltaria.",
-				"reviewAuthorId": 39531,
-				"reviewAuthorFirstName": "Terrance",
-				"reviewAuthorLastName": "Wolff",
-				"reviewAuthorEmail": "Reed_Okuneva@yahoo.com",
-				"reviewAuthorPic": {
-					"id": 984,
-					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single7.jpg"
-				},
-				"reviewDate": "2018-11-25T01:20:05.316Z",
-				"reviewFields": [
-					{
-						"id": 56278,
-						"rating": 4,
-						"ratingFieldName": "Serviço"
-					},
-					{
-						"id": 296,
-						"rating": 1,
-						"ratingFieldName": "Quarto"
-					},
-					{
-						"id": 30575,
-						"rating": 3,
-						"ratingFieldName": "Limpeza"
-					},
-					{
-						"id": 11857,
-						"rating": 3,
-						"ratingFieldName": "Comida"
-					}
-				]
-			},
-			{
-				"reviewID": 23288,
-				"reviewTitle": "Bom lugar, mas o serviço deixou a desejar.",
-				"reviewText": "O hotel tem uma boa estrutura e quartos confortáveis, mas o serviço não atendeu às expectativas. Houve demora no atendimento e pouca cordialidade da equipe. A limpeza foi aceitável, mas poderia ser mais detalhada. Apesar disso, o ambiente é agradável e vale a experiência para quem prioriza o custo-benefício.",
-				"reviewAuthorId": 85017,
-				"reviewAuthorFirstName": "Harmon",
-				"reviewAuthorLastName": "Bechtelar",
-				"reviewAuthorEmail": "Jacklyn.Corwin49@yahoo.com",
-				"reviewAuthorPic": {
-					"id": 18652,
-					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-				},
-				"reviewDate": "2018-02-28T00:50:14.479Z",
-				"reviewFields": [
-					{
-						"id": 50043,
-						"rating": 1,
-						"ratingFieldName": "Serviço"
-					},
-					{
-						"id": 44884,
-						"rating": 3,
-						"ratingFieldName": "Quarto"
-					},
-					{
-						"id": 15340,
-						"rating": 3,
-						"ratingFieldName": "Limpeza"
-					},
-					{
-						"id": 79946,
-						"rating": 3,
-						"ratingFieldName": "Comida"
-					}
-				]
-			},
-			{
-				"reviewID": 57342,
-				"reviewTitle": "Ótimos quartos e bom serviço, mas limpeza pode melhorar",
-				"reviewText": "O hotel oferece quartos excelentes, muito confortáveis e bem equipados. O serviço foi satisfatório, com funcionários atenciosos e prestativos. No entanto, a limpeza ficou um pouco abaixo do esperado em algumas áreas, o que é algo que pode ser melhorado. Ainda assim, a experiência geral foi positiva.",
-				"reviewAuthorId": 52646,
-				"reviewAuthorFirstName": "Isom",
-				"reviewAuthorLastName": "Conn",
-				"reviewAuthorEmail": "Mozelle34@yahoo.com",
-				"reviewAuthorPic": {
-					"id": 44935,
-					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single6.jpg"
-				},
-				"reviewDate": "2018-05-26T06:11:41.520Z",
-				"reviewFields": [
-					{
-						"id": 71865,
-						"rating": 1,
-						"ratingFieldName": "Serviço"
-					},
-					{
-						"id": 57470,
-						"rating": 5,
-						"ratingFieldName": "Quarto"
-					},
-					{
-						"id": 98655,
-						"rating": 3,
-						"ratingFieldName": "Limpeza"
-					},
-					{
-						"id": 98138,
-						"rating": 4,
-						"ratingFieldName": "Comida"
-					}
-				]
-			}
-		],
+		"reviews": [],
 		"createdAt": "2019-01-21T23:53:06.114Z",
 		"updatedAt": "2019-01-23T00:38:13.199Z"
 	}

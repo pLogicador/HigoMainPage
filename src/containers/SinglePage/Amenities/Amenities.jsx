@@ -23,7 +23,7 @@ const Amenities = ({
 }) => {
   return (
     <Element name="amenities" className="Amenities">
-      <AmenitiesWrapper>
+      {/* <AmenitiesWrapper>
         <Heading as="h2" content="Comodidades" {...titleStyle} />
         <AmenitiesArea>
           <IconCard icon={<FaWifi />} title="Wifi gratis" />
@@ -34,7 +34,7 @@ const Amenities = ({
         <TextButton>
           <TextLink link="#1" content="Mostrar todas as comodidades" {...linkStyle} />
         </TextButton>
-      </AmenitiesWrapper>
+      </AmenitiesWrapper> */}
     </Element>
   );
 };

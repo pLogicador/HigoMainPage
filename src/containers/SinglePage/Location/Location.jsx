@@ -41,7 +41,7 @@ const Location = ({
   return (
     <Element name="location" className="location">
       <LocationWrapper>
-        <Heading as="h2" content="Localização" {...titleStyle} />
+        {/* <Heading as="h2" content="Localização" {...titleStyle} />
         <Text content={formattedAddress} {...locationMetaStyle} />
         <Text
           content="Faça uma caminhada fácil até os principais locais históricos da cidade. O
@@ -55,7 +55,7 @@ const Location = ({
           {...contentStyle}
           {...boldContentStyle}
         />
-        <Text content="26 minutos de carro sem trânsito" {...contentStyle} />
+        <Text content="26 minutos de carro sem trânsito" {...contentStyle} /> */}
 
         {/* <Map location={location} multiple={false} /> */}
       </LocationWrapper>

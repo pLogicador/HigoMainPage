@@ -14,30 +14,7 @@
       "ratingCount": 35,
       "contactNumber": "1-403-000-9038 x910",
       "amenities": [
-        {
-          "id": 11895,
-          "wifiAvailability": true,
-          "amenityText": "Wi-Fi Grátis",
-          "slug": "free-wifi"
-        },
-        {
-          "id": 14671,
-          "parkingAvailability": true,
-          "amenityText": "Estacionamento Grátis",
-          "slug": "free-parking"
-        },
-        {
-          "id": 25396,
-          "poolAvailability": true,
-          "amenityText": "Piscina Grátis",
-          "slug": "pool"
-        },
-        {
-          "id": 89598,
-          "airCondition": false,
-          "amenityText": "Ar Condicionado",
-          "slug": "air-condition"
-        }
+
       ],
       "image": {
         "id": 41632,
@@ -67,7 +44,7 @@
         },
         {
           "id": 19843,
-          "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+          "url": "/images/Morro_de_São_Paulo_Mirante.jpg"
         }
       ],
       "createdAt": "2019-01-21T23:53:06.114Z",

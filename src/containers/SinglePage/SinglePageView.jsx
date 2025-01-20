@@ -53,7 +53,7 @@ const SinglePage = () => {
       <PostImage>
         <img
           className="absolute"
-          src="/images/single-post-bg.jpg"
+          src="/images/Morro_de_São_Paulo_Mirante.jpg"
           alt="Listing details page banner"
         />
         <Button

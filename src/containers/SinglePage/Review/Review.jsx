@@ -29,7 +29,7 @@ const CommentBox = (props) => {
           </Fragment>
         );
       })
-    : 'Sem avaliações';
+    : '';
 };
 
 const Review = (props) => {
@@ -92,13 +92,13 @@ const Review = (props) => {
             <IoIosStar />
           </RatingStatus>
           <RatingSearch>
-            <Search
+            {/* <Search
               placeholder="Buscar avaliações"
               onSearch={(value) => console.log(value)}
             />
             <Button type="primary" onClick={() => handleModalOpen('review')}>
               Avalie
-            </Button>
+            </Button> */}
             <Modal
               open={state.review}
               onCancel={() => handleModalClose('review')}
@@ -114,9 +114,9 @@ const Review = (props) => {
         </HeaderSection>
         <Row gutter={20}>
           <Col sm={12} lg={9}>
-            <Heading content="Traveler Ratings" {...filterHeadingStyle} />
+            {/* <Heading content="Traveler Ratings" {...filterHeadingStyle} /> */}
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Excelente" as="span" {...ratingLabelStyle} />
                 <RatingWrapper>
                   <IoIosStar />
@@ -126,12 +126,12 @@ const Review = (props) => {
                   <IoIosStar />
                   <Text content="172" as="span" {...ratingCountStyle} />
                 </RatingWrapper>
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Muito bom" as="span" {...ratingLabelStyle} />
                 <RatingWrapper>
                   <IoIosStar />
@@ -141,12 +141,12 @@ const Review = (props) => {
                   <IoIosStarOutline />
                   <Text content="92" as="span" {...ratingCountStyle} />
                 </RatingWrapper>
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Média" as="span" {...ratingLabelStyle} />
                 <RatingWrapper>
                   <IoIosStar />
@@ -156,12 +156,12 @@ const Review = (props) => {
                   <IoIosStarOutline />
                   <Text content="34" as="span" {...ratingCountStyle} />
                 </RatingWrapper>
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Ruim" as="span" {...ratingLabelStyle} />
                 <RatingWrapper>
                   <IoIosStar />
@@ -171,99 +171,99 @@ const Review = (props) => {
                   <IoIosStarOutline />
                   <Text content="11" as="span" {...ratingCountStyle} />
                 </RatingWrapper>
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
           </Col>
 
           <Col sm={12} lg={5}>
-            <Heading content="Tipo de Viagem" {...filterHeadingStyle} />
+            {/* <Heading content="Tipo de Viagem" {...filterHeadingStyle} /> */}
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Familia" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Casal" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Solo" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="A trabalho" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
           </Col>
 
           <Col sm={12} lg={5}>
-            <Heading content="Temporada" {...filterHeadingStyle} />
+            {/* <Heading content="Temporada" {...filterHeadingStyle} /> */}
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Jan-Mar" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Abr-Jun" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Jul-Set" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Out-Dez" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
           </Col>
 
           <Col sm={12} lg={5}>
-            <Heading content="Linguagens" {...filterHeadingStyle} />
+            {/* <Heading content="Linguagens" {...filterHeadingStyle} /> */}
             <FilterElement>
-              <Checkbox onChange={onChange}>
+              {/* <Checkbox onChange={onChange}>
                 <Text content="Todas Linguagens" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
-                <Text content="Português" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              {/* <Checkbox onChange={onChange}> */}
+                {/* <Text content="Português" as="span" {...ratingLabelStyle} /> */}
+              {/* </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
             <FilterElement>
-              <Checkbox onChange={onChange}>
-                <Text content="Ingles" as="span" {...ratingLabelStyle} />
-              </Checkbox>
+              {/* <Checkbox onChange={onChange}> */}
+                {/* <Text content="Ingles" as="span" {...ratingLabelStyle} /> */}
+              {/* </Checkbox> */}
             </FilterElement>
             {/* End of Filter Element */}
 
-            <TextButton onClick={() => handleModalOpen('language')}>
+            {/* <TextButton onClick={() => handleModalOpen('language')}>
               Mais linguagens <IoIosArrowDown />
-            </TextButton>
+            </TextButton> */}
 
             <Modal
               width={320}

@@ -41,8 +41,8 @@
 		],
 		"image": {
 			"id": 41632,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			"url": "/images/morro-de-sao-paulo.jpg",
+			"thumb_url": "/images/morro-de-sao-paulo.jpg"
 		},
 		"location": {
 			"id": 48797,
@@ -59,15 +59,15 @@
 		"gallery": [
 			{
 				"id": 49921,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+				"url": "/images/morro-de-sao-paulo.jpg"
 			},
 			{
 				"id": 43045,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
+				"url": "/images/morro-de-sao-paulo.jpg"
 			},
 			{
 				"id": 19843,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+				"url": "/images/morro-de-sao-paulo.jpg"
 			}
 		],
 		"reviews": [
@@ -81,7 +81,7 @@
 				"reviewAuthorEmail": "Reed_Okuneva@yahoo.com",
 				"reviewAuthorPic": {
 					"id": 984,
-					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single7.jpg"
+					"url": "/images/morro-de-sao-paulo.jpg"
 				},
 				"reviewDate": "2018-11-25T01:20:05.316Z",
 				"reviewFields": [
