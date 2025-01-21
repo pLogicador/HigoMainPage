@@ -1,4 +1,4 @@
-import React, { Fragment, useState } from 'react';
+import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { useLocation } from 'library/hooks/useLocation';
 import Sticky from 'react-stickynode';
@@ -12,9 +12,7 @@ import Location from './Location/Location';
 import Review from './Review/Review';
 import Reservation from './Reservation/Reservation';
 import BottomReservation from './Reservation/BottomReservation';
-import TopBar from './TopBar/TopBar';
-import SinglePageWrapper, { PostImage } from './SinglePageView.style';
-import PostImageGallery from './ImageGallery/ImageGallery';
+import SinglePageWrapper from './SinglePageView.style';
 import useDataApi from 'library/hooks/useDataApi';
 import isEmpty from 'lodash/isEmpty';
 
@@ -22,16 +20,10 @@ const SinglePage = () => {
   let { slug } = useParams();
   const { href } = useLocation();
   const [isModalShowing, setIsModalShowing] = useState(false);
+  const [selectedImage, setSelectedImage] = useState(null); // Estado para a imagem selecionada
   const { width } = useWindowSize();
 
-  // let url = '/data/hotel-single.json';
-  // if (!slug) {
-  //   url += slug;
-  // }
-
-  //busca um json com o nome do slug dado no top-hotel.json
   let url = `/data/${slug}.json`;
-
 
   const { data, loading } = useDataApi(url);
   if (isEmpty(data) || loading) return <Loader />;
@@ -46,68 +38,58 @@ const SinglePage = () => {
     content,
     amenities,
     author,
+    image, // A imagem principal
   } = data[0];
+
+  const handleImageClick = (imageSrc) => {
+    setSelectedImage(imageSrc);  // Define a imagem selecionada
+    setIsModalShowing(true);      // Abre o modal
+  };
+
+  const handleCancel = () => {
+    setIsModalShowing(false); // Fecha o modal
+    setSelectedImage(null);    // Limpa a imagem selecionada
+  };
 
   return (
     <SinglePageWrapper>
-      <PostImage>
-        <img
-          className="absolute"
-          src="/images/Morro_de_São_Paulo_Mirante.jpg"
-          alt="Listing details page banner"
-        />
-        <Button
-          type="primary"
-          onClick={() => setIsModalShowing(true)}
-          className="image_gallery_button"
-        >
-          Ver fotos
-        </Button>
-        <Modal
-          open={isModalShowing}
-          onCancel={() => setIsModalShowing(false)}
-          footer={null}
-          width="100%"
-          style={{
-            backgroundColor: 'rgba(255, 255, 255, 0.95)',
-          }}
-          wrapClassName="image_gallery_modal"
-          closable={false}
-        >
-          <Fragment>
-            <PostImageGallery />
-            <Button
-              onClick={() => setIsModalShowing(false)}
-              className="image_gallery_close"
-            >
-              <svg width="16.004" height="16" viewBox="0 0 16.004 16">
-                <path
-                  id="_ionicons_svg_ios-close_2_"
-                  d="M170.4,168.55l5.716-5.716a1.339,1.339,0,1,0-1.894-1.894l-5.716,5.716-5.716-5.716a1.339,1.339,0,1,0-1.894,1.894l5.716,5.716-5.716,5.716a1.339,1.339,0,0,0,1.894,1.894l5.716-5.716,5.716,5.716a1.339,1.339,0,0,0,1.894-1.894Z"
-                  transform="translate(-160.5 -160.55)"
-                  fill="#909090"
-                />
-              </svg>
-            </Button>
-          </Fragment>
-        </Modal>
-      </PostImage>
-
-      <TopBar title={title} shareURL={href} author={author} media={gallery} />
-
       <Container>
+        
         <Row gutter={30} id="reviewSection" style={{ marginTop: 30 }}>
           <Col xl={16}>
             <Description
               content={content}
               title={title}
               location={location}
-              rating={rating}
-              ratingCount={ratingCount}
             />
+            
+            {/* Layout das imagens - imagem 1 à esquerda e 2 e 3 empilhadas à direita */}
+            <Row gutter={30}>
+              <Col xl={12}>
+                <img 
+                  src={image.url} // Usando a URL da imagem principal do JSON
+                  alt="Imagem à esquerda" 
+                  style={{ width: '100%', height: '70%' }}
+                  onClick={() => handleImageClick(image.url)}  // Evento de clique
+                />
+              </Col>
+              <Col xl={12} style={{ display: 'flex', flexDirection: 'column' }}>
+                {gallery.map((img, index) => (
+                  <img 
+                    key={index}
+                    src={img.url} // Usando as imagens da galeria
+                    alt={`Imagem da galeria ${index + 1}`} 
+                    style={{ width: '100%', height: index === 0 ? '35%' : '33%', marginBottom: 15 }}
+                    onClick={() => handleImageClick(img.url)}  // Evento de clique
+                  />
+                ))}
+              </Col>
+            </Row>
+            
             <Amenities amenities={amenities} />
             <Location location={data[0]} />
           </Col>
+          
           <Col xl={8}>
             {width > 1200 ? (
               <Sticky
@@ -128,6 +110,7 @@ const SinglePage = () => {
             )}
           </Col>
         </Row>
+
         <Row gutter={30}>
           <Col xl={16}>
             <Review
@@ -139,6 +122,21 @@ const SinglePage = () => {
           <Col xl={8} />
         </Row>
       </Container>
+
+      {/* Modal para exibir a imagem maior */}
+      <Modal
+        visible={isModalShowing}
+        onCancel={handleCancel}
+        footer={null}
+        centered
+        width="80%"  // Ajuste o tamanho do Modal
+      >
+        <img 
+          src={selectedImage} 
+          alt="Imagem expandida" 
+          style={{ width: '100%', height: 'auto' }} 
+        />
+      </Modal>
     </SinglePageWrapper>
   );
 };

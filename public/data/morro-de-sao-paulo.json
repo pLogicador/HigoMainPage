@@ -2,9 +2,8 @@
     {
       "id": 65362,
       "agentId": 2125,
-      "title": "Morro de São Paulo",
+      "title": "Pacote - Salvador + Morro de São Paulo - Voo + Hotel - 2025",
       "slug": "morro-de-sao-paulo",
-      "content": "Morro de São Paulo é uma das mais famosas e procuradas localidades da Bahia, no Brasil. A cidade está localizada na ilha de Tinharé, oferecendo praias paradisíacas, trilhas, e um ambiente ideal para quem busca relaxamento e contato com a natureza. Com sua charmosa vila de pescadores, ruas de pedras e arquitetura colonial, é um destino perfeito para quem deseja explorar a cultura baiana e aproveitar momentos de lazer em um cenário deslumbrante.",
       "status": "rascunho",
       "price": "1.290",
       "isNegotiable": true,
@@ -40,10 +39,6 @@
         },
         {
           "id": 43045,
-          "url": "/images/Morro_de_São_Paulo_Mirante.jpg"
-        },
-        {
-          "id": 19843,
           "url": "/images/Morro_de_São_Paulo_Mirante.jpg"
         }
       ],
