@@ -85,7 +85,7 @@ const RenderReservationForm = () => {
           popup={
             <RoomGuestWrapper>
               <ItemWrapper>
-                <strong>Room</strong>
+                <strong>Quartos</strong>
                 <InputIncDec
                   id="room"
                   increment={() => handleIncrement('room')}
@@ -96,7 +96,7 @@ const RenderReservationForm = () => {
               </ItemWrapper>
 
               <ItemWrapper>
-                <strong>Guest</strong>
+                <strong>Hóspedes</strong>
                 <InputIncDec
                   id="guest"
                   increment={() => handleIncrement('guest')}

@@ -16,11 +16,16 @@ import SinglePageWrapper from './SinglePageView.style';
 import useDataApi from 'library/hooks/useDataApi';
 import isEmpty from 'lodash/isEmpty';
 
+// Importando ícones do Material-UI
+import LocalCafeIcon from '@mui/icons-material/LocalCafe';
+import FlightIcon from '@mui/icons-material/Flight';
+import HomeIcon from '@mui/icons-material/Home';
+
 const SinglePage = () => {
   let { slug } = useParams();
   const { href } = useLocation();
   const [isModalShowing, setIsModalShowing] = useState(false);
-  const [selectedImage, setSelectedImage] = useState(null); // Estado para a imagem selecionada
+  const [selectedImage, setSelectedImage] = useState(null);
   const { width } = useWindowSize();
 
   let url = `/data/${slug}.json`;
@@ -38,23 +43,22 @@ const SinglePage = () => {
     content,
     amenities,
     author,
-    image, // A imagem principal
+    image,
   } = data[0];
 
   const handleImageClick = (imageSrc) => {
-    setSelectedImage(imageSrc);  // Define a imagem selecionada
-    setIsModalShowing(true);      // Abre o modal
+    setSelectedImage(imageSrc);
+    setIsModalShowing(true);
   };
 
   const handleCancel = () => {
-    setIsModalShowing(false); // Fecha o modal
-    setSelectedImage(null);    // Limpa a imagem selecionada
+    setIsModalShowing(false);
+    setSelectedImage(null);
   };
 
   return (
     <SinglePageWrapper>
       <Container>
-        
         <Row gutter={30} id="reviewSection" style={{ marginTop: 30 }}>
           <Col xl={16}>
             <Description
@@ -62,34 +66,62 @@ const SinglePage = () => {
               title={title}
               location={location}
             />
-            
-            {/* Layout das imagens - imagem 1 à esquerda e 2 e 3 empilhadas à direita */}
+
             <Row gutter={30}>
               <Col xl={12}>
                 <img 
-                  src={image.url} // Usando a URL da imagem principal do JSON
+                  src={image.url}
                   alt="Imagem à esquerda" 
                   style={{ width: '100%', height: '70%' }}
-                  onClick={() => handleImageClick(image.url)}  // Evento de clique
+                  onClick={() => handleImageClick(image.url)}
                 />
               </Col>
               <Col xl={12} style={{ display: 'flex', flexDirection: 'column' }}>
                 {gallery.map((img, index) => (
                   <img 
                     key={index}
-                    src={img.url} // Usando as imagens da galeria
+                    src={img.url}
                     alt={`Imagem da galeria ${index + 1}`} 
                     style={{ width: '100%', height: index === 0 ? '35%' : '33%', marginBottom: 15 }}
-                    onClick={() => handleImageClick(img.url)}  // Evento de clique
+                    onClick={() => handleImageClick(img.url)}
                   />
                 ))}
               </Col>
             </Row>
-            
+
+            <div style={{ marginTop: '-150px' }}>
+              <h2><strong>O que tem no pacote de viagem?</strong></h2>
+              <Row gutter={30}>
+                <Col span={12}>
+                  <div style={{ display: 'flex', alignItems: 'center' }}>
+                    <LocalCafeIcon style={{ marginRight: '10px' }} />
+                    <div><strong>Café da manhã</strong></div>
+                  </div>
+                  <p style={{color: '#808080', marginLeft: '9%' }}>Inclui café da manhã na hospedagem.</p>
+                </Col>
+                <Col span={12}>
+                  <div style={{ display: 'flex', alignItems: 'center' }}>
+                    <FlightIcon style={{ marginRight: '10px' }} />
+                    <div><strong>Passagem aérea econômica</strong></div>
+                  </div>
+                  <p style={{color: '#808080', marginLeft: '9%' }}>Passagens aéreas de ida e volta em classe econômica.</p>
+                </Col>
+              </Row>
+              <Row gutter={30}>
+                <Col span={12}>
+                  <div style={{ display: 'flex', alignItems: 'center' }}>
+                    <HomeIcon style={{ marginRight: '10px' }} />
+                    <div><strong>Hospedagem econômica</strong></div>
+                  </div>
+                  <p style={{color: '#808080', marginLeft: '9%'}}>Com quarto duplo ou triplo.</p>
+                </Col>
+              </Row>
+            </div>
+
             <Amenities amenities={amenities} />
             <Location location={data[0]} />
           </Col>
-          
+
           <Col xl={8}>
             {width > 1200 ? (
               <Sticky
@@ -123,13 +155,12 @@ const SinglePage = () => {
         </Row>
       </Container>
 
-      {/* Modal para exibir a imagem maior */}
       <Modal
         visible={isModalShowing}
         onCancel={handleCancel}
         footer={null}
         centered
-        width="80%"  // Ajuste o tamanho do Modal
+        width="80%"
       >
         <img 
           src={selectedImage} 
