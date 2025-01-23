@@ -1,0 +1,118 @@
+[
+	{
+		"id": 63288,
+		"agentId": 38076,
+		"title": "Sun Bay Pipa Hotéis",
+		"slug": "Sun-Bay-Pipa-Hotéis",
+		"content": "",
+		"status": "publish",
+		"price": "165",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 150,
+		"contactNumber": "+55 21 3202-4000",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": true
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 90096,
+			"url": "/images/Sun-Bay1.webp",
+			"thumb_url": "/images/Sun-Bay1.webp"
+		},
+		"location": {
+			"id": 33715,
+			"lat": 22.2855,
+			"lng": 114.1486,
+			"formattedAddress": "Av. Baía dos Golfinhos, 125, Tibau do Sul - RN, 59178-000, Brasil - Tibau Do Sul, Rio Grande do Norte - Brasil - 59178000",
+			"zipcode": "59178000",
+			"city": "Tibau Do Sul",
+			"state_long": "Rio Grande do Norte",
+			"state_short": "RN",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},"infosAdicionais": {
+			"titulo": "Ficou com alguma dúvida sobre o hotel?",
+			"pacote": {
+				"titulo": "A que distância Sun Bay Pipa Hotéis fica de Praia de Pipa",
+				"descricao": "A distância de Sun Bay Pipa Hotéis até Praia de Pipa é de 2.2km."
+			},
+			"atracoes": {
+				"titulo": "",
+				"descricao": "",
+				"itens": [
+					{
+						"titulo": "Onde fica o Sun Bay Pipa Hotéis?",
+						"descricao": "O Sun Bay Pipa Hotéis está implantado na Baía dos Golfinhos, um dos trechos mais ecológicos e deslumbrantes de todo o litoral do Rio Grande do Norte."
+					},
+					{
+						"titulo": "Quais são as atividades oferecidas pelo Sun Bay Pipa Hotéis?",
+						"descricao": "O Sun Bay Pipa Hotéis oferece piscina com hidromassagem, quadra para volei e futebol de areia, além de um fantástico redário cercado por mangueiras e cajueiros."
+					},
+					{
+						"titulo": "Quais serviços estão disponíveis no Sun Bay Pipa Hotéis?",
+						"descricao": "O Sun Bay Pipa Hotéis oferece recepção bilingue, room service, seguranças e dois estacionamentos."
+					},
+					{
+						"titulo": "Quais são as acomodações disponíveis no Sun Bay Pipa Hotéis?",
+						"descricao": "O Sun Bay Pipa Hotéis possui 134 unidades, divididas em seis categorias."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "",
+				"itens": [
+					
+				]
+			},
+			"chamadaParaAcao": " ",
+			"informacoesImportantes": {
+				"titulo": "",
+				"itens": [
+					"",
+					"",
+					"",
+					""
+				]
+			}
+		},
+		"gallery": [
+			{
+				"id": 11287,
+				"url": "/images/Sun-Bay2.jpg"
+			},
+			{
+				"id": 51759,
+				"url": "/images/Sun-Bay3.webp"
+			}
+		]
+	}
+]

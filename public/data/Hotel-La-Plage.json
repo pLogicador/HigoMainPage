@@ -1,0 +1,129 @@
+[
+	{
+		"id": 63288,
+		"agentId": 38076,
+		"title": "Hotel La Plage",
+		"slug": "Hotel-La-Plage",
+		"content": "",
+		"status": "publish",
+		"price": "152",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 150,
+		"contactNumber": "+55 21 3202-4000",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": true
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 90096,
+			"url": "/images/pero1.webp",
+			"thumb_url": "/images/pero1.webp"
+		},
+		"location": {
+			"id": 67404,
+			"lat": -22.9812,
+			"lng": -43.1900,
+			"formattedAddress": "Rua dos Badejos, 40 Pero",
+			"zipcode": "28923410",
+			"city": "Cabo Frio",
+			"state_long": "Rio de Janeiro",
+			"state_short": "RJ",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},"infosAdicionais": {
+			"titulo": "",
+			"pacote": {
+				"titulo": "Informações do estabelecimento",
+				"descricao": "Localizado em frente à Praia do Peró, ao lado da Praia das Conchas e distante apenas 07 km do centro de Cabo Frio, 25 km do Aeroporto e 20 km de Búzios. Conta com quartos com vista ao mar, internet grátis ( nas áreas sociais), frigobar, ar condicionado e tv. Toda a sua frente é voltada para a praia, com salas de eventos, sala de jogos, sauna, piscina, hidromassagem e bar da piscina."
+			},
+			"atracoes": {
+				"titulo": "Onde fica o Hotel La Plage?",
+				"descricao": "O Hotel La Plage está localizado em frente à Praia do Peró, ao lado da Praia das Conchas e distante apenas 07 km do centro de Cabo Frio.",
+				"itens": [
+					{
+						"titulo": "Quais serviços são oferecidos no Hotel La Plage?",
+						"descricao": "O Hotel La Plage oferece internet grátis nas áreas sociais, frigobar, ar condicionado e tv."
+					},
+					{
+						"titulo": "Quais são as acomodações disponíveis no Hotel La Plage?",
+						"descricao": "Os quartos do Hotel La Plage possuem vista para o mar."
+					},
+					{
+						"titulo": "Quais são as comodidades oferecidas pelo Hotel La Plage?",
+						"descricao": "O Hotel La Plage conta com salas de eventos, sala de jogos, sauna, piscina, hidromassagem e bar da piscina."
+					},
+					{
+						"titulo": "Quais atrações estão próximas ao Hotel La Plage?",
+						"descricao": "O Hotel La Plage está a 25 km do Aeroporto e 20 km de Búzios."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "",
+				"itens": [
+					{
+						"nome": "· Quanto custa se hospedar em Hotel La Plage?",
+						"descricao": "Os valores em Hotel La Plage podem variar de acordo com a duração da estadia, número de hóspedes e tipo de quarto escolhido."
+					},
+					{
+						"nome": "· Hotel La Plage tem refeições inclusas?",
+						"descricao": "Os detalhes de quais refeições estão inclusas em Hotel La Plage ficam disponíveis nas informações do quarto. Caso eles não apareçam, escolha as datas da estadia e verifique a disponibilidade do hotel. É importante lembrar que um mesmo quarto pode ter diferentes opções de refeições inclusas."
+					},
+					{
+						"nome": "· Qual é a política de cancelamento de Hotel La Plage?",
+						"descricao": "A política de cancelamento de Hotel La Plage fica disponível nas informações do quarto. Caso ela não apareça, escolha as datas da estadia e verifique a disponibilidade do hotel."
+					}
+				]
+			},
+			"chamadaParaAcao": " ",
+			"informacoesImportantes": {
+				"titulo": "",
+				"itens": [
+					"",
+					"",
+					"",
+					""
+				]
+			}
+		},
+		"gallery": [
+			{
+				"id": 11287,
+				"url": "/images/pero1.webp"
+			},
+			{
+				"id": 51759,
+				"url": "/images/pero3.webp"
+			}
+		]
+	}
+]

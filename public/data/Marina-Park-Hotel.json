@@ -1,0 +1,121 @@
+[
+	{
+		"id": 63288,
+		"agentId": 38076,
+		"title": "Marina Park Hotel",
+		"slug": "Marina-Park-Hotel",
+		"content": "",
+		"status": "publish",
+		"price": "152",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 150,
+		"contactNumber": "+55 21 3202-4000",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": true
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 90096,
+			"url": "/images/Marina Park Hotel1.webp",
+			"thumb_url": "/images/Marina Park Hotel1.webp"
+		},
+		"location": {
+			"id": 57557,
+			"lat": 40.7614,
+			"lng": -73.9741,
+			"formattedAddress": "Av. Presidente Castelo Branco, 400 Praia de Iracema",
+			"zipcode": "60312060",
+			"city": "Fortaleza",
+			"state_long": "Ceará",
+			"state_short": "CE",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},"infosAdicionais": {
+			"titulo": "",
+			"pacote": {
+				"titulo": "Informações do estabelecimento",
+				"descricao": "O Marina Park Hotel, de categoria cinco estrelas, dispõe de uma estrutura de animação e lazer que o consolida como um resort urbano. Localizado ao lado do mar, o hotel fica próximo a Praia de Iracema, ao Centro de Turismo, ao Mercado Central e ao Centro Dragão do Mar de Arte e Cultura. São 315 apartamentos e suítes com decoração moderna e piso frio em diversas categorias, apartamentos para deficientes, além de piscinas, bares, restaurantes, fitness, salão de beleza, escritório virtual, room service, lavanderia, área para eventos, etc."
+			},
+			"atracoes": {
+				"titulo": "",
+				"descricao": "",
+				"itens": [
+					{
+						"titulo": "A que distância Marina Park Hotel fica de Centro Dragão do Mar de Arte e Cultura",
+						"descricao": "A distância de Marina Park Hotel até Centro Dragão do Mar de Arte e Cultura é de 0.7km."
+					},
+					{
+						"titulo": "A que distância Marina Park Hotel fica de Aeroporto Internacional de Fortaleza - Pinto Martins (FOR)",
+						"descricao": "A distância de Marina Park Hotel até Aeroporto Internacional de Fortaleza - Pinto Martins (FOR) é de 6.2km."
+					},
+					{
+						"titulo": "A que distância Marina Park Hotel fica de Arena Castelão",
+						"descricao": "A distância de Marina Park Hotel até Arena Castelão é de 9.5km."
+					},
+					{
+						"titulo": "Onde fica o Marina Park Hotel?",
+						"descricao": "O Marina Park Hotel está localizado ao lado do mar, próximo à Praia de Iracema, ao Centro de Turismo, ao Mercado Central e ao Centro Dragão do Mar de Arte e Cultura."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "",
+				"itens": [
+					{
+						"nome": "· Quais são as atividades oferecidas no Marina Park Hotel?",
+						"descricao": "O Marina Park Hotel dispõe de uma estrutura de animação e lazer que o consolida como um resort urbano. São oferecidas piscinas, bares, restaurantes, fitness, salão de beleza, escritório virtual, room service, lavanderia e área para eventos."
+					}
+				]
+			},
+			"chamadaParaAcao": " ",
+			"informacoesImportantes": {
+				"titulo": "",
+				"itens": [
+					"",
+					"",
+					"",
+					""
+				]
+			}
+		},
+		"gallery": [
+			{
+				"id": 11287,
+				"url": "/images/Marina Park Hotel2.webp"
+			},
+			{
+				"id": 51759,
+				"url": "/images/Marina Park Hotel3.webp"
+			}
+		]
+	}
+]

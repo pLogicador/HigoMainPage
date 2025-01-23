@@ -2,11 +2,11 @@
 	{
 		"id": 63288,
 		"agentId": 38076,
-		"title": "Combo de 3 Diárias - Natal (RN) - 2025 [2 Pessoas]",
-		"slug": "Combo-Natal",
+		"title": "Hotel La Plage",
+		"slug": "Hotel-La-Plage",
 		"content": "",
 		"status": "publish",
-		"price": "1.041",
+		"price": "152",
 		"isNegotiable": false,
 		"propertyType": "Hotel",
 		"condition": "Excellent",
@@ -45,33 +45,33 @@
 		],
 		"image": {
 			"id": 90096,
-			"url": "/images/natal1.webp",
-			"thumb_url": "/images/natal1.webp"
+			"url": "/images/pero1.webp",
+			"thumb_url": "/images/pero1.webp"
 		},
 		"location": {
 			"id": 67404,
 			"lat": -22.9812,
 			"lng": -43.1900,
-			"formattedAddress": "",
-			"zipcode": "",
-			"city": "",
-			"state_long": "",
-			"state_short": "",
-			"country_long": "",
-			"country_short": ""
+			"formattedAddress": "Rua dos Badejos, 40 Pero",
+			"zipcode": "28923410",
+			"city": "Cabo Frio",
+			"state_long": "Rio de Janeiro",
+			"state_short": "RJ",
+			"country_long": "Brasil",
+			"country_short": "BR"
 		},
 		"gallery": [
 			{
 				"id": 11287,
-				"url": "/images/natal1.webp"
+				"url": "/images/pero1.webp"
 			},
 			{
 				"id": 51759,
-				"url": "/images/natal3.webp"
+				"url": "/images/pero3.webp"
 			},
 			{
 				"id": 1888,
-				"url": "/images/natal2.webp"
+				"url": "/images/pero2.webp"
 			}
 		]
 	}
@@ -79,11 +79,11 @@
 	{
 		"id": 10656,
 		"agentId": 22344,
-		"title": "The Ritz-Carlton, New York",
-		"slug": "the-ritz-carlton-new-york",
-		"content": "O The Ritz-Carlton, New York é um hotel de luxo em pleno coração de Manhattan, oferecendo uma experiência inigualável de sofisticação e conforto. Localizado perto de pontos turísticos icônicos como Central Park e a Quinta Avenida, o hotel combina tradição e modernidade com um serviço impecável. Com uma ampla gama de comodidades de luxo, é a escolha perfeita para uma estadia de classe mundial em Nova York.",
+		"title": "Marinas Maceió Hotel",
+		"slug": "Marinas-Maceio-Hotel",
+		"content": "Os apartamentos são equipados com ar-condicionado, frigobar, TV em cores e telefone.Possui recepção com sala de tv, sala de reuniões, deck com piscina, restaurante para o café da manhã, estacionamento subsolo e externo e uma equipe de profissionais treinados para atender aos hóspedes com respeito, rapidez e simpatia.",
 		"status": "publish",
-		"price": "1200.00",
+		"price": "167",
 		"isNegotiable": true,
 		"propertyType": "Hotel",
 		"condition": "Excellent",
@@ -122,33 +122,29 @@
 		],
 		"image": {
 			"id": 25738,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7_thumb.jpg"
+			"url": "/images/marinas1.webp",
+			"thumb_url": "/images/marinas1.webp"
 		},
 		"location": {
 			"id": 57557,
 			"lat": 40.7614,
 			"lng": -73.9741,
-			"formattedAddress": "2 West 55th Street at 5th Avenue",
-			"zipcode": "10019",
-			"city": "New York",
-			"state_long": "New York",
-			"state_short": "NY",
-			"country_long": "United States of America",
-			"country_short": "US"
+			"formattedAddress": "Rua José Luiz Calazans, nº 30 Anexo Torre Norte Jatiúca",
+			"zipcode": "57035850",
+			"city": "Maceió",
+			"state_long": "Alagoas",
+			"state_short": "AL",
+			"country_long": "Brasil",
+			"country_short": "BR"
 		},
 		"gallery": [
 			{
 				"id": 64454,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-8_thumb.jpg"
+				"url": "/images/marinas2.webp"
 			},
 			{
 				"id": 21253,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10_thumb.jpg"
-			},
-			{
-				"id": 46809,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9_thumb.jpg"
+				"url": "/images/marinas3.webp"
 			}
 		]
 	}
@@ -156,11 +152,11 @@
 	{
 		"id": 34842,
 		"agentId": 66343,
-		"title": "Mandarin Oriental, Bangkok",
-		"slug": "mandarin-oriental-bangkok",
-		"content": "O Mandarin Oriental, Bangkok é um dos hotéis mais luxuosos e renomados do mundo. Localizado às margens do rio Chao Phraya, oferece uma vista espetacular e uma experiência de hospitalidade tailandesa incomparável. Com quartos e suítes elegantes, restaurantes premiados e um spa de classe mundial, o hotel é a escolha ideal para quem busca luxo e tranquilidade no coração de Bangkok.",
+		"title": "Haka Maori Jericoacoara",
+		"slug": "Haka-Maori-Jericoacoara",
+		"content": "Haka Maori Jericoacoara está situado em Jericoacoara, no Ceará, a 1,8 km da Praia de Mangue Seco e a 300 metros do centro da vila de Jericoacoara. Entre as comodidades da propriedade, você encontrará recepção e serviço de quarto 24 horas, além de Wi-Fi gratuito em toda a propriedade. O balcão de turismo pode fornecer informações sobre a área ou sobre os passeios turísticos da região, que inclusive, podem ser contratados no próprio balcão de informações. Você pode desfrutar de um buffet de café da manhã, que já está incluso na sua diária. Os pontos de interesse famosos perto do Haka Maori Jericoacoara incluem a Duna do Pôr do Sol, a Praia da Malhada e a Capela de Nossa Senhora de Fátima. O aeroporto mais próximo é o Aeroporto Regional de Ariston Pessoa, a 22 km de distância... Horário de check-in: 14:00:00 Horário de check-out: 12:00:00. (HS)",
 		"status": "publish",
-		"price": "890.00",
+		"price": "167",
 		"isNegotiable": true,
 		"propertyType": "Hotel",
 		"condition": "Excellent",
@@ -199,33 +195,29 @@
 		],
 		"image": {
 			"id": 42681,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13_thumb.jpg"
+			"url": "/images/Haka Maori Jericoacoara1.jpg",
+			"thumb_url": "/images/Haka Maori Jericoacoara1.jpg"
 		},
 		"location": {
-			"id": 45160,
-			"lat": 13.7307,
-			"lng": 100.5164,
-			"formattedAddress": "48 Oriental Avenue, Bangkok 10500",
-			"zipcode": "10500",
-			"city": "Bangkok",
-			"state_long": "Bangkok",
-			"state_short": "BKK",
-			"country_long": "Thailand",
-			"country_short": "TH"
+			"id": 57557,
+			"lat": 40.7614,
+			"lng": -73.9741,
+			"formattedAddress": "R SAO FRANCISCO",
+			"zipcode": "62598000",
+			"city": "Jijoca De Jericoacoara",
+			"state_long": "Ceará",
+			"state_short": "CE",
+			"country_long": "Brasil",
+			"country_short": "BR"
 		},
 		"gallery": [
 			{
 				"id": 37686,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14_thumb.jpg"
+				"url": "/images/Haka Maori Jericoacoara2.webp"
 			},
 			{
 				"id": 15249,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-15_thumb.jpg"
-			},
-			{
-				"id": 23724,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-16_thumb.jpg"
+				"url": "/images/Haka Maori Jericoacoara3.webp"
 			}
 		]
 	}
@@ -233,11 +225,11 @@
 	{
 		"id": 13858,
 		"agentId": 62059,
-		"title": "Hotel de Crillon, Paris",
-		"slug": "hotel-de-crillon-paris",
-		"content": "O Hotel de Crillon é um dos hotéis mais emblemáticos de Paris, conhecido por seu luxo e localização privilegiada na Place de la Concorde. Com uma rica história e decoração sofisticada, oferece uma experiência incomparável em Paris. Seus quartos são elegantes e seu serviço é de alto nível, tornando-o uma escolha ideal para quem busca exclusividade e conforto na capital francesa.",
+		"title": "Marina Park Hotel",
+		"slug": "Marina-Park-Hotel",
+		"content": "O Marina Park Hotel, de categoria cinco estrelas, dispõe de uma estrutura de animação e lazer que o consolida como um resort urbano. Localizado ao lado do mar, o hotel fica próximo a Praia de Iracema, ao Centro de Turismo, ao Mercado Central e ao Centro Dragão do Mar de Arte e Cultura. São 315 apartamentos e suítes com decoração moderna e piso frio em diversas categorias, apartamentos para deficientes, além de piscinas, bares, restaurantes, fitness, salão de beleza, escritório virtual, room service, lavanderia, área para eventos, etc.",
 		"status": "publish",
-		"price": "1620.00",
+		"price": "312",
 		"isNegotiable": false,
 		"propertyType": "Hotel",
 		"condition": "Excellent",
@@ -276,33 +268,29 @@
 		],
 		"image": {
 			"id": 87047,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19_thumb.jpg"
+			"url": "/images/Marina Park Hotel1.webp",
+			"thumb_url": "/images/Marina Park Hotel1.webp"
 		},
 		"location": {
 			"id": 27125,
 			"lat": 48.8696,
 			"lng": 2.3272,
-			"formattedAddress": "10 Place de la Concorde, 75008 Paris, France",
-			"zipcode": "75008",
-			"city": "Paris",
-			"state_long": "Île-de-France",
-			"state_short": "IDF",
-			"country_long": "France",
-			"country_short": "FR"
+			"formattedAddress": "Av. Presidente Castelo Branco, Fortaleza, Ceará - Brasil",
+			"zipcode": "60312060",
+			"city": "Fortaleza",
+			"state_long": "Ceará",
+			"state_short": "CE",
+			"country_long": "Brasil",
+			"country_short": "BR"
 		},
 		"gallery": [
 			{
 				"id": 62073,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20_thumb.jpg"
+				"url": "/images/Marina Park Hotel2.webp"
 			},
 			{
 				"id": 94501,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
-			},
-			{
-				"id": 11548,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-2_thumb.jpg"
+				"url": "/images/Marina Park Hotel3.webp"
 			}
 		]
 	}
@@ -310,11 +298,11 @@
 	{
 		"id": 75801,
 		"agentId": 28419,
-		"title": "The Peninsula, Hong Kong",
-		"slug": "the-peninsula-hong-kong",
+		"title": "Sun Bay Pipa Hotéis",
+		"slug": "Sun-Bay-Pipa-Hotéis",
 		"content": "The Peninsula Hong Kong é um ícone de luxo e sofisticação. Localizado no coração de Tsim Sha Tsui, este hotel é famoso pela sua elegância clássica, oferecendo acomodações de alto padrão, restaurantes premiados e um serviço excepcional. É a escolha perfeita para quem busca uma experiência única em Hong Kong, combinando conforto, tradição e inovação.",
 		"status": "publish",
-		"price": "1800.00",
+		"price": "165",
 		"isNegotiable": false,
 		"propertyType": "Hotel",
 		"condition": "Excellent",
@@ -353,33 +341,29 @@
 		],
 		"image": {
 			"id": 32194,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5_thumb.jpg"
+			"url": "/images/Sun-Bay1.webp",
+			"thumb_url": "/images/Sun-Bay1.webp"
 		},
 		"location": {
 			"id": 33715,
 			"lat": 22.2855,
 			"lng": 114.1486,
-			"formattedAddress": "Salisbury Road, Tsim Sha Tsui, Kowloon, Hong Kong",
-			"zipcode": "999077",
-			"city": "Hong Kong",
-			"state_long": "Hong Kong",
-			"state_short": "HK",
-			"country_long": "China",
-			"country_short": "CN"
+			"formattedAddress": "Av. Baía dos Golfinhos, 125, Tibau do Sul - RN, 59178-000, Brasil - Tibau Do Sul, Rio Grande do Norte - Brasil - 59178000",
+			"zipcode": "59178000",
+			"city": "Tibau Do Sul",
+			"state_long": "Rio Grande do Norte",
+			"state_short": "RN",
+			"country_long": "Brasil",
+			"country_short": "BR"
 		},
 		"gallery": [
 			{
 				"id": 51437,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6_thumb.jpg"
+				"url": "/images/Sun-Bay2.jpg"
 			},
 			{
 				"id": 62903,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-7_thumb.jpg"
-			},
-			{
-				"id": 69198,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-8_thumb.jpg"
+				"url": "/images/Sun-Bay3.webp"
 			}
 		]
 	}

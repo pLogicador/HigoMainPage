@@ -108,7 +108,7 @@ class DateRangePickerBox extends Component {
 
     return (
       <ReactDatesStyleWrapper className={addAllClasses.join(' ')}>
-        <DateRangePicker {...defaultCalenderProps} />
+        <DateRangePicker {...defaultCalenderProps} locale="pt-br" />
       </ReactDatesStyleWrapper>
     );
   }

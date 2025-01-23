@@ -1,0 +1,129 @@
+[
+	{
+		"id": 63288,
+		"agentId": 38076,
+		"title": "Marinas Maceio Hotel",
+		"slug": "Marinas-Maceio-Hotel",
+		"content": "",
+		"status": "publish",
+		"price": "152",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 150,
+		"contactNumber": "+55 21 3202-4000",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": true
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 90096,
+			"url": "/images/marinas1.webp",
+			"thumb_url": "/images/marinas1.webp"
+		},
+		"location": {
+			"id": 57557,
+			"lat": 40.7614,
+			"lng": -73.9741,
+			"formattedAddress": "Rua José Luiz Calazans",
+			"zipcode": "57035850",
+			"city": "Maceió",
+			"state_long": "Alagoas",
+			"state_short": "AL",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},"infosAdicionais": {
+			"titulo": "",
+			"pacote": {
+				"titulo": "Onde fica o Marinas Maceió Hotel?",
+				"descricao": "O Marinas Maceió Hotel está localizado na Praia de Pajuçara, em Maceió, Alagoas."
+			},
+			"atracoes": {
+				"titulo": "",
+				"descricao": "",
+				"itens": [
+					{
+						"titulo": "Quais são as atividades oferecidas pelo Marinas Maceió Hotel?",
+						"descricao": "O Marinas Maceió Hotel oferece aos hóspedes uma variedade de atividades, como piscina, deck com piscina, acesso direto à praia, bar de piscina e sala de reuniões."
+					},
+					{
+						"titulo": "Quais serviços estão disponíveis no Marinas Maceió Hotel?",
+						"descricao": "O Marinas Maceió Hotel oferece serviços como recepção 24 horas, elevador, estacionamento gratuito, serviço de quarto 24 horas, lavanderia limpeza a seco, internet banda larga e câmbio."
+					},
+					{
+						"titulo": "Quais são as acomodações do Marinas Maceió Hotel?",
+						"descricao": "Os apartamentos do Marinas Maceió Hotel são equipados com ar-condicionado, frigobar, TV em cores e telefone."
+					},
+					{
+						"titulo": "Quais são as comodidades do Marinas Maceió Hotel?",
+						"descricao": "O Marinas Maceió Hotel possui recepção com sala de tv, sala de reuniões, deck com piscina, restaurante para o café da manhã, estacionamento subsolo e externo e uma equipe de profissionais treinados para atender aos hóspedes com respeito, rapidez e simpatia."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "",
+				"itens": [
+					{
+						"nome": "· Quanto custa se hospedar em Hotel La Plage?",
+						"descricao": "Os valores em Hotel La Plage podem variar de acordo com a duração da estadia, número de hóspedes e tipo de quarto escolhido."
+					},
+					{
+						"nome": "· Hotel La Plage tem refeições inclusas?",
+						"descricao": "Os detalhes de quais refeições estão inclusas em Hotel La Plage ficam disponíveis nas informações do quarto. Caso eles não apareçam, escolha as datas da estadia e verifique a disponibilidade do hotel. É importante lembrar que um mesmo quarto pode ter diferentes opções de refeições inclusas."
+					},
+					{
+						"nome": "· Qual é a política de cancelamento de Hotel La Plage?",
+						"descricao": "A política de cancelamento de Hotel La Plage fica disponível nas informações do quarto. Caso ela não apareça, escolha as datas da estadia e verifique a disponibilidade do hotel."
+					}
+				]
+			},
+			"chamadaParaAcao": " ",
+			"informacoesImportantes": {
+				"titulo": "",
+				"itens": [
+					"",
+					"",
+					"",
+					""
+				]
+			}
+		},
+		"gallery": [
+			{
+				"id": 11287,
+				"url": "/images/marinas2.webp"
+			},
+			{
+				"id": 51759,
+				"url": "/images/marinas3.webp"
+			}
+		]
+	}
+]

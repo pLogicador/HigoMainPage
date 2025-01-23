@@ -61,7 +61,12 @@ export default function Reservation() {
         { slug: 'cancun', price: '4.165' },
         { slug: 'bariloche', price: '4.469' },
         { slug: 'buenos-aires', price: '2.449' },
-        { slug: 'Combo-Natal', price: '1.041' },
+        { slug: 'Hotel-La-Plage', price: '167' },
+        { slug: 'Marinas-Maceio-Hotel', price: '167' },
+        { slug: 'Haka-Maori-Jericoacoara', price: '216' },
+        { slug: 'Marinas-Maceio-Hotel', price: '216' },
+        { slug: 'Marina-Park-Hotel', price: '342' },
+        { slug: 'Sun-Bay-Pipa-Hotéis', price: '165' },
       ];
 
       // Busca o pacote pelo slug
