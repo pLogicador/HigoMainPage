@@ -35,6 +35,7 @@ function RequireAuth({ children }) {
 // public routes
 const HomePage = React.lazy(() => import('containers/Home/Home'));
 const ListingPage = React.lazy(() => import('containers/Listing/Listing'));
+const ListingPages = React.lazy(() => import('containers/Listing/PostListing'));
 const SinglePageView = React.lazy(
   () => import('containers/SinglePage/SinglePageView'),
 );
@@ -95,14 +96,30 @@ export default function AppRoutes() {
             </React.Suspense>
           }
         />
-        <Route
-          path={`${SINGLE_POST_PAGE}/:slug`}
+                <Route
+          path={SINGLE_POST_PAGE}
           element={
             <React.Suspense fallback={<Loader />}>
-              <SinglePageView />
+              <ListingPages />
             </React.Suspense>
           }
         />
+<Route
+  path={SINGLE_POST_PAGE} // Por exemplo, '/post'
+  element={
+    <React.Suspense fallback={<Loader />}>
+      <ListingPage /> {/* Componente que lista todos os itens */}
+    </React.Suspense>
+  }
+/>
+<Route
+  path={`${SINGLE_POST_PAGE}/:slug`}
+  element={
+    <React.Suspense fallback={<Loader />}>
+      <SinglePageView /> {/* Componente que exibe um único item */}
+    </React.Suspense>
+  }
+/>
         {/* Nested routes for agent page */}
         <Route
           path={AGENT_PROFILE_PAGE}

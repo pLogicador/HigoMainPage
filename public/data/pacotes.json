@@ -1,0 +1,1623 @@
+[
+    {
+        "id": 65362,
+        "agentId": 2125,
+        "title": "Pacote - Bariloche - Voo + Hotel - 2025",
+        "slug": "bariloche",
+        "content": "Em Bariloche, rodeado por paisagens deslumbrantes e lagos cristalinos, o Marlo & Sons oferece uma experiência única de gastronomia rústica. O restaurante é conhecido pelos seus vinhos sofisticados, coquetéis especiais e petiscos imperdíveis, como ostras frescas, queijos regionais e a deliciosa tortilha de batata. Além disso, o cardápio inclui saladas e sopas sazonais, o famoso frango na tijela, e um ambiente acolhedor iluminado por velas e decorado com diversos tipos de madeira. Um verdadeiro refúgio para quem deseja desfrutar de um clima de montanha e boa comida.",
+        "status": "rascunho",
+        "price": "253.00",
+        "isNegotiable": true,
+        "propertyType": "Hotel",
+        "condition": "Excelente",
+        "rating": 5,
+        "ratingCount": 35,
+        "contactNumber": "1-403-000-9038 x910",
+        "amenities": [
+            {
+                "id": 11895,
+                "wifiAvailability": true,
+                "amenityText": "Wi-Fi Grátis",
+                "slug": "free-wifi"
+            },
+            {
+                "id": 14671,
+                "parkingAvailability": true,
+                "amenityText": "Estacionamento Grátis",
+                "slug": "free-parking"
+            },
+            {
+                "id": 25396,
+                "poolAvailability": true,
+                "amenityText": "Piscina Grátis",
+                "slug": "pool"
+            },
+            {
+                "id": 89598,
+                "airCondition": false,
+                "amenityText": "Ar Condicionado",
+                "slug": "air-condition"
+            }
+        ],
+        "image": {
+            "id": 41632,
+            "url": "/images/bariloche1.webp",
+            "thumb_url": "/images/bariloche1.webp"
+        },
+        "location": {
+            "id": 48797,
+            "lat": -41.133471,
+            "lng": -71.310274,
+            "formattedAddress": "Bariloche, Rio Negro, Argentina",
+            "zipcode": "8400",
+            "city": "San Carlos de Bariloche",
+            "state_long": "Rio Negro",
+            "state_short": "RN",
+            "country_long": "Argentina",
+            "country_short": "AR"
+        },
+        "detalhesDoPacote": {
+            "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional Teniente Luis Candelaria (BRC), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+            "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+            "hospedagem": "Em Bariloche, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e oferecem café da manhã.",
+            "diarias": "5 diárias em Bariloche.",
+            "observacoes": [
+                "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+                "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+                "Este pacote não inclui transfer.",
+                "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+            ],
+            "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+        },
+        "infosAdicionais": {
+            "titulo": "Conheça seu destino",
+            "pacote": {
+                "titulo": "Pacote de Viagem para Bariloche: Neve e Encantos Andinos",
+                "descricao": "Descubra Bariloche, a joia da Patagônia argentina, conhecida por suas paisagens de montanha, lagos cristalinos e atividades de inverno. Um destino perfeito para quem busca natureza, aventura e charme alpino."
+            },
+            "atracoes": {
+                "titulo": "Atrações Imperdíveis em Bariloche",
+                "descricao": "Bariloche oferece uma combinação única de paisagens naturais e experiências culturais. Confira as principais atrações:",
+                "itens": [
+                    {
+                        "titulo": "Cerro Catedral",
+                        "descricao": "Uma das maiores estações de esqui da América do Sul, ideal para esportes de inverno e trilhas durante o verão."
+                    },
+                    {
+                        "titulo": "Circuito Chico",
+                        "descricao": "Uma rota panorâmica que passa por paisagens deslumbrantes, incluindo o Lago Nahuel Huapi e o Hotel Llao Llao."
+                    },
+                    {
+                        "titulo": "Cerro Otto",
+                        "descricao": "Conheça o famoso teleférico que leva ao topo do Cerro Otto, onde você encontra vistas incríveis e um restaurante giratório."
+                    },
+                    {
+                        "titulo": "Lago Nahuel Huapi",
+                        "descricao": "Aproveite para fazer passeios de barco neste lago glacial de águas cristalinas, um dos ícones da região."
+                    }
+                ]
+            },
+            "hoteis": {
+                "titulo": "Hotéis em Destaque",
+                "itens": [
+                    {
+                        "nome": "Hotel Llao Llao",
+                        "descricao": "Luxo e exclusividade em um cenário deslumbrante, com infraestrutura completa para relaxamento e atividades ao ar livre."
+                    },
+                    {
+                        "nome": "Hotel Panamericano Bariloche",
+                        "descricao": "Conforto e elegância no centro de Bariloche, com fácil acesso às principais atrações da cidade."
+                    },
+                    {
+                        "nome": "Hosteria del Lago",
+                        "descricao": "Um refúgio aconchegante às margens do Lago Nahuel Huapi, perfeito para quem busca tranquilidade e contato com a natureza."
+                    }
+                ]
+            },
+            "chamadaParaAcao": "Garanta já o seu pacote para Bariloche e viva momentos inesquecíveis em meio às montanhas e à natureza da Patagônia!",
+            "informacoesImportantes": {
+                "titulo": "Informações Importantes da Localidade",
+                "itens": [
+                    "O melhor período para visitar Bariloche é durante o inverno (junho a setembro) para aproveitar a neve, ou no verão (dezembro a março) para atividades ao ar livre.",
+                    "Os preços variam conforme a temporada, com opções de hospedagem que atendem todos os tipos de viajantes.",
+                    "A duração ideal de uma visita é de 5 a 7 dias, permitindo explorar as principais atrações e relaxar em meio à natureza.",
+                    "Bariloche oferece uma boa infraestrutura turística, com transporte eficiente, internet confiável e uma ampla variedade de restaurantes e lojas especializadas em chocolates e artesanato local."
+                ]
+            }
+        },
+        "gallery": [
+            {
+                "id": 49921,
+                "url": "/images/bariloche2.webp"
+            },
+            {
+                "id": 43045,
+                "url": "/images/bariloche3.jpg"
+            }
+        ],
+        "reviews": [],
+        "createdAt": "2019-01-21T23:53:06.114Z",
+        "updatedAt": "2019-01-23T00:38:13.199Z"
+    },
+	{
+		"id": 65362,
+		"agentId": 2125,
+		"title": "Pacote - Buenos Aires (Quarto Individual) - Voo + Hotel - 2025",
+		"slug": "buenos-aires",
+		"content": "Pacote de Viagem para Buenos Aires: A Elegância da Capital Argentina",
+		"status": "rascunho",
+		"price": "253.00",
+		"isNegotiable": true,
+		"propertyType": "Hotel",
+		"condition": "Excelente",
+		"rating": 5,
+		"ratingCount": 35,
+		"contactNumber": "1-403-000-9038 x910",
+		"amenities": [
+			{
+				"id": 11895,
+				"wifiAvailability": true,
+				"amenityText": "Wi-Fi Grátis",
+				"slug": "free-wifi"
+			},
+			{
+				"id": 14671,
+				"parkingAvailability": true,
+				"amenityText": "Estacionamento Grátis",
+				"slug": "free-parking"
+			},
+			{
+				"id": 25396,
+				"poolAvailability": true,
+				"amenityText": "Piscina Grátis",
+				"slug": "pool"
+			},
+			{
+				"id": 89598,
+				"airCondition": false,
+				"amenityText": "Ar Condicionado",
+				"slug": "air-condition"
+			}
+		],
+		"image": {
+			"id": 41632,
+			"url": "/images/ba1.webp",
+			"thumb_url": "/images/ba1.webp"
+		},
+		"location": {
+			"id": 48797,
+			"lat": 40.706877,
+			"lng": -74.011265,
+			"formattedAddress": "Buenos Aires, Argentina",
+			"zipcode": "10001",
+			"city": "",
+			"state_long": "Buenos Aires",
+			"state_short": "BA",
+			"country_long": "Argentina",
+			"country_short": "ARG"
+		},
+		
+		"gallery": [
+			{
+				"id": 49921,
+				"url": "/images/ba2.webp"
+			},
+			{
+				"id": 43045,
+				"url": "/images/ba3.webp"
+			}
+		],    "detalhesDoPacote": {
+			"aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional Ministro Pistarini (Ezeiza - EZE) ou Aeroparque Jorge Newbery (AEP), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+			"bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+			"hospedagem": "Em Buenos Aires, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e oferecem café da manhã.",
+			"diarias": "5 diárias em Buenos Aires.",
+			"observacoes": [
+				"O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+				"As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+				"Este pacote não inclui transfer.",
+				"Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+			],
+			"atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+		},
+		"infosAdicionais": {
+			"titulo": "Conheça seu destino",
+			"pacote": {
+				"titulo": "Pacote de Viagem para Buenos Aires: A Elegância da Capital Argentina",
+				"descricao": "Descubra Buenos Aires, uma cidade vibrante que combina charme europeu com a essência latina. Um destino que encanta com sua cultura rica, arquitetura impressionante, e gastronomia renomada."
+			},
+			"atracoes": {
+				"titulo": "Atrações Imperdíveis em Buenos Aires",
+				"descricao": "Buenos Aires oferece uma experiência única de cultura, história e entretenimento. Confira as principais atrações:",
+				"itens": [
+					{
+						"titulo": "Casa Rosada",
+						"descricao": "O icônico palácio presidencial é um símbolo da história política argentina e um local ideal para fotos."
+					},
+					{
+						"titulo": "Caminito",
+						"descricao": "Um passeio pelas coloridas ruas de La Boca, com música, dança de tango e lojas de souvenirs."
+					},
+					{
+						"titulo": "Teatro Colón",
+						"descricao": "Um dos teatros mais renomados do mundo, conhecido por sua arquitetura deslumbrante e acústica impecável."
+					},
+					{
+						"titulo": "Recoleta",
+						"descricao": "Um bairro elegante com o famoso Cemitério da Recoleta, onde estão enterradas figuras históricas, e muitos cafés e museus."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "Hotéis em Destaque",
+				"itens": [
+					{
+						"nome": "Alvear Palace Hotel",
+						"descricao": "Luxo e sofisticação em Recoleta, com serviços exclusivos e uma localização privilegiada."
+					},
+					{
+						"nome": "Hotel Madero",
+						"descricao": "Conforto moderno no charmoso bairro de Puerto Madero, próximo a restaurantes e atrações."
+					},
+					{
+						"nome": "Dazzler by Wyndham Buenos Aires",
+						"descricao": "Hospedagem confortável e acessível no coração da cidade, ideal para explorar as principais atrações."
+					}
+				]
+			},
+			"chamadaParaAcao": "Garanta já o seu pacote para Buenos Aires e viva momentos inesquecíveis na capital da Argentina!",
+			"informacoesImportantes": {
+				"titulo": "Informações Importantes da Localidade",
+				"itens": [
+					"O melhor período para visitar Buenos Aires é na primavera (setembro a novembro) ou no outono (março a maio), quando o clima é ameno e agradável.",
+					"Os preços variam conforme a temporada, com diversas opções de hospedagem que atendem a todos os perfis de viajantes.",
+					"A duração ideal de uma visita é de 4 a 6 dias, permitindo explorar os principais pontos turísticos e aproveitar a cultura local.",
+					"Buenos Aires é uma cidade bem conectada, com transporte público eficiente, muitas opções de táxis e boa infraestrutura para turistas."
+				]
+			}
+		},"reviews": [
+			{
+				"reviewID": 77370,
+				"reviewTitle": "Excelente experiência com pequenas observações.",
+				"reviewText": "A estadia foi muito boa, com destaque para o atendimento e a qualidade das acomodações. O ambiente é acolhedor e os serviços são de alta qualidade. No entanto, algumas melhorias poderiam ser feitas, como o aumento da frequência na limpeza das áreas comuns. No geral, recomendo e voltaria.",
+				"reviewAuthorId": 39531,
+				"reviewAuthorFirstName": "Terrance",
+				"reviewAuthorLastName": "Wolff",
+				"reviewAuthorEmail": "Reed_Okuneva@yahoo.com",
+				"reviewAuthorPic": {
+					"id": 984,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single7.jpg"
+				},
+				"reviewDate": "2018-11-25T01:20:05.316Z",
+				"reviewFields": [
+					{
+						"id": 56278,
+						"rating": 4,
+						"ratingFieldName": "Serviço"
+					},
+					{
+						"id": 296,
+						"rating": 1,
+						"ratingFieldName": "Quarto"
+					},
+					{
+						"id": 30575,
+						"rating": 3,
+						"ratingFieldName": "Limpeza"
+					},
+					{
+						"id": 11857,
+						"rating": 3,
+						"ratingFieldName": "Comida"
+					}
+				]
+			},
+			{
+				"reviewID": 23288,
+				"reviewTitle": "Bom lugar, mas o serviço deixou a desejar.",
+				"reviewText": "O hotel tem uma boa estrutura e quartos confortáveis, mas o serviço não atendeu às expectativas. Houve demora no atendimento e pouca cordialidade da equipe. A limpeza foi aceitável, mas poderia ser mais detalhada. Apesar disso, o ambiente é agradável e vale a experiência para quem prioriza o custo-benefício.",
+				"reviewAuthorId": 85017,
+				"reviewAuthorFirstName": "Harmon",
+				"reviewAuthorLastName": "Bechtelar",
+				"reviewAuthorEmail": "Jacklyn.Corwin49@yahoo.com",
+				"reviewAuthorPic": {
+					"id": 18652,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
+				},
+				"reviewDate": "2018-02-28T00:50:14.479Z",
+				"reviewFields": [
+					{
+						"id": 50043,
+						"rating": 1,
+						"ratingFieldName": "Serviço"
+					},
+					{
+						"id": 44884,
+						"rating": 3,
+						"ratingFieldName": "Quarto"
+					},
+					{
+						"id": 15340,
+						"rating": 3,
+						"ratingFieldName": "Limpeza"
+					},
+					{
+						"id": 79946,
+						"rating": 3,
+						"ratingFieldName": "Comida"
+					}
+				]
+			},
+			{
+				"reviewID": 57342,
+				"reviewTitle": "Ótimos quartos e bom serviço, mas limpeza pode melhorar",
+				"reviewText": "O hotel oferece quartos excelentes, muito confortáveis e bem equipados. O serviço foi satisfatório, com funcionários atenciosos e prestativos. No entanto, a limpeza ficou um pouco abaixo do esperado em algumas áreas, o que é algo que pode ser melhorado. Ainda assim, a experiência geral foi positiva.",
+				"reviewAuthorId": 52646,
+				"reviewAuthorFirstName": "Isom",
+				"reviewAuthorLastName": "Conn",
+				"reviewAuthorEmail": "Mozelle34@yahoo.com",
+				"reviewAuthorPic": {
+					"id": 44935,
+					"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single6.jpg"
+				},
+				"reviewDate": "2018-05-26T06:11:41.520Z",
+				"reviewFields": [
+					{
+						"id": 71865,
+						"rating": 1,
+						"ratingFieldName": "Serviço"
+					},
+					{
+						"id": 57470,
+						"rating": 5,
+						"ratingFieldName": "Quarto"
+					},
+					{
+						"id": 98655,
+						"rating": 3,
+						"ratingFieldName": "Limpeza"
+					},
+					{
+						"id": 98138,
+						"rating": 4,
+						"ratingFieldName": "Comida"
+					}
+				]
+			}
+		],
+		"createdAt": "2019-01-21T23:53:06.114Z",
+		"updatedAt": "2019-01-23T00:38:13.199Z"
+	},
+    {
+        "id": 65362,
+        "agentId": 2125,
+        "title": "Pacote de Viagem - Cancún (All Inclusive) - 2026",
+        "slug": "cancun",
+        "content": "Em Cancun, à beira da praia, Marlo & Sons é um refúgio charmoso com uma excelente seleção de vinhos, coquetéis sofisticados e petiscos deliciosos, como ostras frescas, queijos locais e a famosa tortilha de batata. Além disso, oferece saladas e sopas sazonais, o renomado frango na tijela e um ambiente à luz de velas com decoração rústica, composta por diversos tipos de madeira, criando uma atmosfera acolhedora. Com vistas deslumbrantes e uma localização privilegiada, é o lugar ideal para relaxar e desfrutar da gastronomia local.",
+        "status": "rascunho",
+        "price": "253.00",
+        "isNegotiable": true,
+        "propertyType": "Hotel",
+        "condition": "Excelente",
+        "rating": 5,
+        "ratingCount": 35,
+        "contactNumber": "1-403-000-9038 x910",
+        "amenities": [
+            {
+                "id": 11895,
+                "wifiAvailability": true,
+                "amenityText": "Wi-Fi Grátis",
+                "slug": "free-wifi"
+            },
+            {
+                "id": 14671,
+                "parkingAvailability": true,
+                "amenityText": "Estacionamento Grátis",
+                "slug": "free-parking"
+            },
+            {
+                "id": 25396,
+                "poolAvailability": true,
+                "amenityText": "Piscina Grátis",
+                "slug": "pool"
+            },
+            {
+                "id": 89598,
+                "airCondition": false,
+                "amenityText": "Ar Condicionado",
+                "slug": "air-condition"
+            }
+        ],
+        "image": {
+            "id": 41632,
+            "url": "/images/Cancun1.webp",
+            "thumb_url": "/images/Cancun1.webp"
+        },
+        "location": {
+            "id": 48797,
+            "lat": 21.174290,
+            "lng": -86.847298,
+            "formattedAddress": "Cancun, Quintana Roo, México",
+            "zipcode": "77500",
+            "city": "Cancun",
+            "state_long": "Quintana Roo",
+            "state_short": "QR",
+            "country_long": "México",
+            "country_short": "MX"
+        },
+        "detalhesDoPacote": {
+            "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Cancún (CUN), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+            "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+            "hospedagem": "Em Cancún, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e oferecem café da manhã.",
+            "diarias": "5 diárias em Cancún.",
+            "observacoes": [
+                "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+                "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+                "Este pacote não inclui transfer.",
+                "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+            ],
+            "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+        },
+        "infosAdicionais": {
+            "titulo": "Conheça seu destino",
+            "pacote": {
+                "titulo": "Pacote de Viagem para Cancún: Praias e Cultura Maia",
+                "descricao": "Explore Cancún, o paraíso do Caribe mexicano, famoso por suas praias deslumbrantes, resorts de luxo e a fascinante cultura maia. Este pacote combina relaxamento e aventura em um dos destinos mais cobiçados do mundo."
+            },
+            "atracoes": {
+                "titulo": "Atrações Imperdíveis em Cancún",
+                "descricao": "Cancún oferece um equilíbrio perfeito entre praias paradisíacas, história e diversão. Confira as principais atrações:",
+                "itens": [
+                    {
+                        "titulo": "Playa Delfines",
+                        "descricao": "Uma das praias mais bonitas e tranquilas de Cancún, com águas cristalinas e um famoso letreiro colorido de 'Cancún'."
+                    },
+                    {
+                        "titulo": "Chichén Itzá",
+                        "descricao": "Um dos sítios arqueológicos mais impressionantes do mundo, declarado Patrimônio Mundial da UNESCO e uma das Sete Maravilhas do Mundo Moderno."
+                    },
+                    {
+                        "titulo": "Isla Mujeres",
+                        "descricao": "Uma ilha paradisíaca a poucos minutos de Cancún, perfeita para mergulho, snorkel e relaxamento em praias de areia branca."
+                    },
+                    {
+                        "titulo": "Xcaret Park",
+                        "descricao": "Um parque ecológico que combina natureza, cultura e diversão, com atividades como rios subterrâneos, shows culturais e interação com animais."
+                    }
+                ]
+            },
+            "hoteis": {
+                "titulo": "Hotéis em Destaque",
+                "itens": [
+                    {
+                        "nome": "Hyatt Ziva Cancún",
+                        "descricao": "Um resort all-inclusive com localização privilegiada, vistas incríveis para o mar e uma experiência luxuosa para toda a família."
+                    },
+                    {
+                        "nome": "Riu Palace Peninsula",
+                        "descricao": "Elegância e conforto em um resort à beira-mar, com piscinas incríveis e gastronomia de alta qualidade."
+                    },
+                    {
+                        "nome": "Secrets The Vine Cancún",
+                        "descricao": "Resort exclusivo para adultos, com foco em luxo, gastronomia e relaxamento, ideal para casais."
+                    }
+                ]
+            },
+            "chamadaParaAcao": "Garanta já o seu pacote para Cancún e desfrute de praias paradisíacas, cultura rica e experiências inesquecíveis!",
+            "informacoesImportantes": {
+                "titulo": "Informações Importantes da Localidade",
+                "itens": [
+                    "O melhor período para visitar Cancún é entre dezembro e abril, quando o clima é mais seco e as temperaturas são agradáveis.",
+                    "Os preços variam conforme a temporada, com uma grande variedade de opções de hospedagem, desde resorts luxuosos até hotéis mais econômicos.",
+                    "A duração ideal de uma visita é de 5 a 7 dias, permitindo explorar as praias, atrações culturais e parques ecológicos.",
+                    "Cancún oferece excelente infraestrutura turística, com transporte fácil, conectividade de internet e uma ampla oferta de passeios organizados."
+                ]
+            }
+        },
+        "gallery": [
+            {
+                "id": 49921,
+                "url": "/images/Cancun2.webp"
+            },
+            {
+                "id": 43045,
+                "url": "/images/Cancun3.webp"
+            }
+        ],
+        "reviews": [],
+        "createdAt": "2019-01-21T23:53:06.114Z",
+        "updatedAt": "2019-01-23T00:38:13.199Z"
+    },
+    {
+        "id": 65362,
+        "agentId": 2125,
+        "title": "Pacote - Florianópolis - Voo + Hotel - 2025",
+        "slug": "florianopolis",
+        "content": "Florianópolis é um destino encantador, famoso por suas praias paradisíacas, vida noturna agitada e culinária deliciosa. A cidade oferece uma grande variedade de opções para quem deseja relaxar ou se aventurar, desde praias tranquilas até trilhas e atividades ao ar livre. A culinária local é rica em frutos do mar, com destaque para pratos como a sequência de camarão e a famosa tainha recheada. Além disso, o centro histórico de Florianópolis com suas ruas coloniais e mercados típicos é uma ótima opção para quem busca conhecer mais da cultura local.",
+        "status": "rascunho",
+        "price": "253.00",
+        "isNegotiable": true,
+        "propertyType": "Hotel",
+        "condition": "Excelente",
+        "rating": 5,
+        "ratingCount": 35,
+        "contactNumber": "1-403-000-9038 x910",
+        "amenities": [
+            {
+                "id": 11895,
+                "wifiAvailability": true,
+                "amenityText": "Wi-Fi Grátis",
+                "slug": "free-wifi"
+            },
+            {
+                "id": 14671,
+                "parkingAvailability": true,
+                "amenityText": "Estacionamento Grátis",
+                "slug": "free-parking"
+            },
+            {
+                "id": 25396,
+                "poolAvailability": true,
+                "amenityText": "Piscina Grátis",
+                "slug": "pool"
+            },
+            {
+                "id": 89598,
+                "airCondition": false,
+                "amenityText": "Ar Condicionado",
+                "slug": "air-condition"
+            }
+        ],
+        "image": {
+            "id": 41632,
+            "url": "/images/floripa1.webp",
+            "thumb_url": "/images/floripa1.webp"
+        },
+        "location": {
+            "id": 48797,
+            "lat": 40.706877,
+            "lng": -74.011265,
+            "formattedAddress": "Florianópolis, Santa Catarina, Brasil",
+            "zipcode": "10001",
+            "city": "Florianópolis",
+            "state_long": "Santa Catarina",
+            "state_short": "SC",
+            "country_long": "Brasil",
+            "country_short": "BR"
+        },
+        "detalhesDoPacote": {
+            "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional Hercílio Luz (FLN), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+            "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+            "hospedagem": "Em Florianópolis, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e incluem café da manhã.",
+            "diarias": "5 diárias em Florianópolis.",
+            "observacoes": [
+                "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+                "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+                "Este pacote não inclui transfer.",
+                "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+            ],
+            "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+        },
+        "infosAdicionais": {
+            "titulo": "Conheça seu destino",
+            "pacote": {
+                "titulo": "Pacote de Viagem para Florianópolis: Praias e Natureza Deslumbrante",
+                "descricao": "Descubra Florianópolis, a famosa Ilha da Magia, conhecida por suas praias paradisíacas, natureza exuberante e uma mistura de cultura e modernidade que encanta todos os visitantes."
+            },
+            "atracoes": {
+                "titulo": "Atrações Imperdíveis em Florianópolis",
+                "descricao": "Florianópolis oferece uma variedade de atrações que combinam praias deslumbrantes, história e cultura. Aproveite para explorar:",
+                "itens": [
+                    {
+                        "titulo": "Praia da Joaquina",
+                        "descricao": "Famosa pelas dunas e pelas ondas perfeitas para o surfe, é um dos cartões-postais da ilha."
+                    },
+                    {
+                        "titulo": "Lagoa da Conceição",
+                        "descricao": "Um dos pontos mais charmosos da ilha, ideal para esportes aquáticos, caminhadas e desfrutar da gastronomia local."
+                    },
+                    {
+                        "titulo": "Centro Histórico",
+                        "descricao": "Explore o Mercado Público, a Praça XV de Novembro e a Catedral Metropolitana, que mostram a história e a cultura de Florianópolis."
+                    },
+                    {
+                        "titulo": "Ilha do Campeche",
+                        "descricao": "Uma ilha paradisíaca com águas cristalinas e trilhas arqueológicas, acessível por barco."
+                    }
+                ]
+            },
+            "hoteis": {
+                "titulo": "Hotéis em Destaque",
+                "itens": [
+                    {
+                        "nome": "Majestic Palace Hotel",
+                        "descricao": "Com vista para a Baía Norte, oferece luxo, conforto e uma localização privilegiada no centro da cidade."
+                    },
+                    {
+                        "nome": "Hotel Costa Norte Ingleses",
+                        "descricao": "Situado na Praia dos Ingleses, é perfeito para quem busca relaxar em frente ao mar com excelente infraestrutura."
+                    },
+                    {
+                        "nome": "Hotel Boutique Quinta das Videiras",
+                        "descricao": "Localizado na Lagoa da Conceição, este hotel oferece charme, exclusividade e atendimento personalizado."
+                    }
+                ]
+            },
+            "chamadaParaAcao": "Garanta já o seu pacote para Florianópolis e viva dias incríveis na Ilha da Magia!",
+            "informacoesImportantes": {
+                "titulo": "Informações Importantes da Localidade",
+                "itens": [
+                    "O melhor período para visitar Florianópolis é entre dezembro e março, quando as temperaturas estão mais altas e o clima é ideal para aproveitar as praias.",
+                    "Os preços variam conforme a temporada, com opções de hospedagem para diferentes perfis de viajantes.",
+                    "A duração ideal de uma visita é de 5 a 7 dias, permitindo conhecer as principais praias e atrações da ilha.",
+                    "Florianópolis possui boa infraestrutura turística, transporte público eficiente e excelente conectividade de internet."
+                ]
+            }
+        },
+        "gallery": [
+            {
+                "id": 49921,
+                "url": "/images/floripa2.webp"
+            },
+            {
+                "id": 43045,
+                "url": "/images/floripa3.webp"
+            }
+        ],
+        "reviews": [],
+        "createdAt": "2019-01-21T23:53:06.114Z",
+        "updatedAt": "2019-01-23T00:38:13.199Z"
+    },
+    {
+        "id": 65362,
+        "agentId": 2125,
+        "title": "Pacote de Viagem - Fortaleza - 1º Semestre 2026",
+        "slug": "fortaleza",
+        "content": "",
+        "status": "publish",
+        "price": "1.465",
+        "isNegotiable": true,
+        "propertyType": "Hotel",
+        "condition": "Excelente",
+        "rating": 5,
+        "ratingCount": 35,
+        "contactNumber": "1-403-000-9038 x910",
+        "amenities": [
+            {
+                "id": 11895,
+                "wifiAvailability": true,
+                "amenityText": "Wi-Fi Grátis",
+                "slug": "free-wifi"
+            },
+            {
+                "id": 14671,
+                "parkingAvailability": true,
+                "amenityText": "Estacionamento Grátis",
+                "slug": "free-parking"
+            },
+            {
+                "id": 25396,
+                "poolAvailability": true,
+                "amenityText": "Piscina Grátis",
+                "slug": "pool"
+            },
+            {
+                "id": 89598,
+                "airCondition": false,
+                "amenityText": "Ar Condicionado",
+                "slug": "air-condition"
+            }
+        ],
+        "image": {
+            "id": 41632,
+            "url": "/images/Fortaleza1.webp",
+            "thumb_url": "/images/Fortaleza1.webp"
+        },
+        "location": {
+            "id": 48797,
+            "lat": -3.71722,
+            "lng": -38.5437,
+            "formattedAddress": "Fortaleza, Ceará, Brasil",
+            "zipcode": "60000-000",
+            "city": "Fortaleza",
+            "state_long": "Ceará",
+            "state_short": "CE",
+            "country_long": "Brasil",
+            "country_short": "BR"
+        },
+        "detalhesDoPacote": {
+            "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Fortaleza (FOR), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+            "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+            "hospedagem": "Em Fortaleza e em Jericoacoara. O Hurb definirá a hospedagem, a partir da disponibilidade e tarifário promocional dos parceiros. As opções de hospedagem são econômicas e oferecem café da manhã.",
+            "diarias": "2 diárias em Fortaleza + 3 diárias em Jericoacoara.",
+            "observacoes": [
+                "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+                "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+                "Este pacote não inclui transfer.",
+                "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+            ],
+            "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+        },
+        "infosAdicionais": {
+            "titulo": "Conheça seu destino",
+            "pacote": {
+                "titulo": "Pacote de Viagem para Fortaleza e Jericoacoara: Praias e Aventura",
+                "descricao": "Descubra Fortaleza, a capital do Ceará, com suas praias vibrantes e cultura rica, e Jericoacoara, um dos destinos mais incríveis do Brasil, conhecido pelas dunas e paisagens deslumbrantes. Este pacote oferece uma experiência única com praias paradisíacas e muita diversão."
+            },
+            "atracoes": {
+                "titulo": "Atrações Imperdíveis em Fortaleza e Jericoacoara",
+                "descricao": "Esses dois destinos encantadores proporcionam uma mistura perfeita de natureza e cultura. Aproveite para explorar as seguintes atrações:",
+                "itens": [
+                    {
+                        "titulo": "Praia do Futuro",
+                        "descricao": "Em Fortaleza, a Praia do Futuro é famosa por suas barracas e infraestrutura, ideal para relaxar e desfrutar da gastronomia local."
+                    },
+                    {
+                        "titulo": "Mercado Central de Fortaleza",
+                        "descricao": "Um ponto turístico tradicional para comprar artesanato e produtos típicos da região, além de saborear pratos típicos da culinária cearense."
+                    },
+                    {
+                        "titulo": "Dunas de Jericoacoara",
+                        "descricao": "Em Jericoacoara, as dunas são um dos maiores atrativos, onde você pode praticar esportes como kitesurf ou apenas apreciar a vista."
+                    },
+                    {
+                        "titulo": "Lagoa do Paraíso",
+                        "descricao": "Uma das atrações mais famosas de Jericoacoara, com águas cristalinas e bancos de areia, ideal para quem busca tranquilidade e beleza natural."
+                    }
+                ]
+            },
+            "hoteis": {
+                "titulo": "Hotéis em Destaque",
+                "itens": [
+                    {
+                        "nome": "Hotel Gran Marquise",
+                        "descricao": "Localizado na Praia do Futuro, oferece luxo e conforto, com vista para o mar e diversas opções de lazer."
+                    },
+                    {
+                        "nome": "Hotel Jericoacoara",
+                        "descricao": "Este hotel está em Jericoacoara, próximo das dunas e da Lagoa do Paraíso, perfeito para quem deseja conforto e proximidade com a natureza."
+                    },
+                    {
+                        "nome": "Hotel Praia Centro",
+                        "descricao": "No centro de Fortaleza, este hotel oferece excelente infraestrutura e localização estratégica, perto das principais atrações turísticas."
+                    }
+                ]
+            },
+            "chamadaParaAcao": "Garanta já o seu pacote para Fortaleza e Jericoacoara, e aproveite o melhor das praias e paisagens do Ceará!",
+            "informacoesImportantes": {
+                "titulo": "Informações Importantes da Localidade",
+                "itens": [
+                    "O melhor período para visitar Fortaleza e Jericoacoara é entre junho e setembro, quando as temperaturas são mais amenas e há menos chuvas.",
+                    "Os preços variam conforme a temporada, com diversas opções de hospedagem para todos os perfis de viajantes.",
+                    "A duração ideal de uma visita é de 6 a 8 dias, permitindo tempo suficiente para explorar Fortaleza e relaxar nas praias de Jericoacoara.",
+                    "Fortaleza e Jericoacoara oferecem boa conectividade de internet e transporte, facilitando o deslocamento e a comunicação durante a sua estadia."
+                ]
+            }
+        },
+        "gallery": [
+            {
+                "id": 49921,
+                "url": "/images/Fortaleza2.webp"
+            },
+            {
+                "id": 43045,
+                "url": "/images/Fortaleza3.webp"
+            }
+        ],
+        "reviews": [],
+        "createdAt": "2019-01-21T23:53:06.114Z",
+        "updatedAt": "2019-01-23T00:38:13.199Z"
+    },
+    {
+        "id": 65362,
+        "agentId": 2125,
+        "title": "Pacote - Gramado - Voo + Hotel - 2026",
+        "slug": "gramado",
+        "content": "Em Gramado, o charme das montanhas e a culinária local fazem deste lugar um destino imperdível. O restaurante oferece um ambiente aconchegante, com pratos típicos da região, como fondue e galeto. Com uma decoração rústica, o local é perfeito para quem busca uma experiência única, aliando boa comida e um atendimento excelente.",
+        "status": "rascunho",
+        "price": "253.00",
+        "isNegotiable": true,
+        "propertyType": "Hotel",
+        "condition": "Excelente",
+        "rating": 5,
+        "ratingCount": 35,
+        "contactNumber": "1-403-000-9038 x910",
+        "amenities": [
+            {
+                "id": 11895,
+                "wifiAvailability": true,
+                "amenityText": "Wi-Fi Grátis",
+                "slug": "free-wifi"
+            },
+            {
+                "id": 14671,
+                "parkingAvailability": true,
+                "amenityText": "Estacionamento Grátis",
+                "slug": "free-parking"
+            },
+            {
+                "id": 25396,
+                "poolAvailability": true,
+                "amenityText": "Piscina Grátis",
+                "slug": "pool"
+            },
+            {
+                "id": 89598,
+                "airCondition": false,
+                "amenityText": "Ar Condicionado",
+                "slug": "air-condition"
+            }
+        ],
+        "image": {
+            "id": 41632,
+            "url": "/images/gramado2.webp",
+            "thumb_url": "/images/gramado2.webp"
+        },
+        "location": {
+            "id": 48797,
+            "lat": -29.3756,
+            "lng": -50.8777,
+            "formattedAddress": "Gramado, Rio Grande do Sul, Brasil",
+            "zipcode": "95670-000",
+            "city": "Gramado",
+            "state_long": "Rio Grande do Sul",
+            "state_short": "RS",
+            "country_long": "Brasil",
+            "country_short": "BR"
+        },
+        "detalhesDoPacote": {
+            "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional Salgado Filho (POA), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+            "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+            "hospedagem": "Na cidade de Gramado ou Canela. O Hurb definirá a hospedagem, a partir da disponibilidade e tarifário promocional dos parceiros. As opções de hospedagem são econômicas e oferecem café da manhã.",
+            "diarias": "5 diárias em Gramado ou Canela.",
+            "observacoes": [
+                "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+                "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+                "Este pacote não inclui transfer.",
+                "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+            ],
+            "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+        },
+        "infosAdicionais": {
+            "titulo": "Conheça seu destino",
+            "pacote": {
+                "titulo": "Pacote de Viagem para Gramado: Encantos da Serra Gaúcha",
+                "descricao": "Explore Gramado, um dos destinos mais charmosos do Brasil, conhecido por sua arquitetura inspirada na Europa, paisagens deslumbrantes e gastronomia incrível. Este pacote oferece uma experiência mágica na Serra Gaúcha."
+            },
+            "atracoes": {
+                "titulo": "Atrações Imperdíveis em Gramado e Região",
+                "descricao": "Gramado e Canela oferecem uma mistura encantadora de cultura, natureza e diversão. Confira as atrações que você não pode perder:",
+                "itens": [
+                    {
+                        "titulo": "Rua Coberta",
+                        "descricao": "O coração de Gramado, perfeito para passeios, compras e aproveitar os melhores restaurantes e cafés da cidade."
+                    },
+                    {
+                        "titulo": "Mini Mundo",
+                        "descricao": "Um parque temático com réplicas em miniatura de construções do mundo todo, encantando crianças e adultos."
+                    },
+                    {
+                        "titulo": "Catedral de Pedra",
+                        "descricao": "Localizada em Canela, é uma das igrejas mais belas do Brasil, com arquitetura gótica impressionante e um charme único."
+                    },
+                    {
+                        "titulo": "Lago Negro",
+                        "descricao": "Um dos cartões-postais de Gramado, ideal para caminhadas, passeios de pedalinho e contato com a natureza."
+                    }
+                ]
+            },
+            "hoteis": {
+                "titulo": "Hotéis em Destaque",
+                "itens": [
+                    {
+                        "nome": "Hotel Ritta Höppner",
+                        "descricao": "Luxo e tradição no coração de Gramado, com jardins incríveis e hospitalidade excepcional."
+                    },
+                    {
+                        "nome": "Hotel Laghetto Gramado",
+                        "descricao": "Conforto e localização privilegiada, próximo às principais atrações da cidade."
+                    },
+                    {
+                        "nome": "Hotel Casa da Montanha",
+                        "descricao": "Com decoração temática e atmosfera acolhedora, este hotel é perfeito para uma experiência memorável na Serra Gaúcha."
+                    }
+                ]
+            },
+            "chamadaParaAcao": "Garanta já o seu pacote para Gramado e viva momentos mágicos na Serra Gaúcha!",
+            "informacoesImportantes": {
+                "titulo": "Informações Importantes da Localidade",
+                "itens": [
+                    "O melhor período para visitar Gramado é entre novembro e janeiro, quando ocorre o Natal Luz, ou entre junho e agosto, durante o inverno, com temperaturas baixas e eventos temáticos.",
+                    "Os preços variam conforme a temporada, com diversas opções de hospedagem para todos os perfis de viajantes.",
+                    "A duração ideal de uma visita é de 4 a 7 dias, permitindo explorar todas as atrações e aproveitar a gastronomia local.",
+                    "Gramado e Canela oferecem boa estrutura turística, incluindo transporte local, restaurantes e conectividade de internet."
+                ]
+            }
+        },
+        "gallery": [
+            {
+                "id": 49921,
+                "url": "/images/gramado2.webp"
+            },
+            {
+                "id": 43045,
+                "url": "/images/gramado3.webp"
+            }
+        ],
+        "reviews": [],
+        "createdAt": "2019-01-21T23:53:06.114Z",
+        "updatedAt": "2019-01-23T00:38:13.199Z"
+    },
+    {
+        "id": 65362,
+        "agentId": 2125,
+        "title": "Pacote - Maceió - Voo + Hotel - 2025 ou 2026",
+        "slug": "maceio",
+        "content": "Em Maceió, à beira-mar, o restaurante Marlo & Sons é um refúgio charmoso com ótimos vinhos, coquetéis sofisticados e deliciosos petiscos, como ostras frescas, queijos locais e uma saborosa tortilha de batata. Além disso, oferece saladas e sopas sazonais, o renomado frango na tijela e um ambiente aconchegante, com iluminação suave e decoração rústica, composta por diversos tipos de madeira, criando um ambiente acolhedor e único. Em muitos aspectos, Marlo & Sons é um lugar perfeito para relaxar e saborear pratos de qualidade.",
+        "status": "rascunho",
+        "price": "253.00",
+        "isNegotiable": true,
+        "propertyType": "Hotel",
+        "condition": "Excelente",
+        "rating": 5,
+        "ratingCount": 35,
+        "contactNumber": "1-403-000-9038 x910",
+        "amenities": [
+            {
+                "id": 11895,
+                "wifiAvailability": true,
+                "amenityText": "Wi-Fi Grátis",
+                "slug": "free-wifi"
+            },
+            {
+                "id": 14671,
+                "parkingAvailability": true,
+                "amenityText": "Estacionamento Grátis",
+                "slug": "free-parking"
+            },
+            {
+                "id": 25396,
+                "poolAvailability": true,
+                "amenityText": "Piscina Grátis",
+                "slug": "pool"
+            },
+            {
+                "id": 89598,
+                "airCondition": false,
+                "amenityText": "Ar Condicionado",
+                "slug": "air-condition"
+            }
+        ],
+        "image": {
+            "id": 41632,
+            "url": "/images/maceio1.webp",
+            "thumb_url": "/images/maceio1.webp"
+        },
+        "location": {
+            "id": 48797,
+            "lat": -9.665165,
+            "lng": -35.735074,
+            "formattedAddress": "Maceió, Alagoas, Brasil",
+            "zipcode": "57000-000",
+            "city": "Maceió",
+            "state_long": "Alagoas",
+            "state_short": "AL",
+            "country_long": "Brasil",
+            "country_short": "BR"
+        },
+        "detalhesDoPacote": {
+            "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Maceió — Zumbi dos Palmares (MCZ), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+            "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+            "hospedagem": "Em Maceió, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e incluem café da manhã.",
+            "diarias": "5 diárias em Maceió.",
+            "observacoes": [
+                "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+                "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+                "Este pacote não inclui transfer.",
+                "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+            ],
+            "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+        },
+        "infosAdicionais": {
+            "titulo": "Conheça seu destino",
+            "pacote": {
+                "titulo": "Pacote de Viagem para Maceió: O Paraíso das Águas",
+                "descricao": "Descubra Maceió, conhecida como o paraíso das águas cristalinas. Com suas praias deslumbrantes e uma rica cultura alagoana, este destino é ideal para quem busca descanso e belezas naturais incomparáveis."
+            },
+            "atracoes": {
+                "titulo": "Atrações Imperdíveis em Maceió",
+                "descricao": "Maceió encanta com praias paradisíacas, águas cristalinas e rica cultura local. Aproveite para explorar:",
+                "itens": [
+                    {
+                        "titulo": "Praia de Pajuçara",
+                        "descricao": "Famosa por suas piscinas naturais, jangadas e barracas à beira-mar, é um dos cartões-postais de Maceió."
+                    },
+                    {
+                        "titulo": "Praia do Gunga",
+                        "descricao": "Com coqueirais exuberantes e um visual paradisíaco, é perfeita para quem busca tranquilidade e atividades aquáticas."
+                    },
+                    {
+                        "titulo": "Praia de São Miguel dos Milagres",
+                        "descricao": "Um refúgio natural com águas cristalinas, areias brancas e cenários tranquilos para relaxar."
+                    },
+                    {
+                        "titulo": "Feira de Artesanato da Pajuçara",
+                        "descricao": "Ideal para adquirir lembranças e produtos típicos, como rendas, artesanatos e doces locais."
+                    }
+                ]
+            },
+            "hoteis": {
+                "titulo": "Hotéis em Destaque",
+                "itens": [
+                    {
+                        "nome": "Meridiano Hotel",
+                        "descricao": "Um hotel de alto padrão, localizado na orla da Praia de Pajuçara, com vista incrível para o mar e infraestrutura completa."
+                    },
+                    {
+                        "nome": "Ritz Lagoa da Anta Hotel & SPA",
+                        "descricao": "Um resort completo, ideal para famílias, com piscinas, spa e localização privilegiada à beira-mar."
+                    },
+                    {
+                        "nome": "Best Western Premier Maceió",
+                        "descricao": "Conforto e sofisticação em frente à Praia de Pajuçara, com serviços de alta qualidade e localização estratégica."
+                    }
+                ]
+            },
+            "chamadaParaAcao": "Garanta já o seu pacote para Maceió e viva uma experiência inesquecível em um dos destinos mais paradisíacos do Brasil!",
+            "informacoesImportantes": {
+                "titulo": "Informações Importantes da Localidade",
+                "itens": [
+                    "O melhor período para visitar Maceió é entre setembro e março, quando o clima é mais seco e as águas cristalinas.",
+                    "Os preços variam conforme a temporada, com opções de hospedagem para diferentes estilos e orçamentos.",
+                    "A duração ideal de uma visita é de 5 a 7 dias, permitindo conhecer as praias e pontos turísticos principais.",
+                    "Maceió oferece boa infraestrutura turística, com restaurantes, transporte e excelente conectividade de internet."
+                ]
+            }
+        },
+        "gallery": [
+            {
+                "id": 49921,
+                "url": "/images/maceio2.webp"
+            },
+            {
+                "id": 43045,
+                "url": "/images/maceio3.webp"
+            }
+        ],
+        "reviews": [],
+        "createdAt": "2019-01-21T23:53:06.114Z",
+        "updatedAt": "2019-01-23T00:38:13.199Z"
+    },
+    {
+        "id": 65362,
+        "agentId": 2125,
+        "title": "Pacote - Salvador + Morro de São Paulo - Voo + Hotel - 2025",
+        "slug": "morro-de-sao-paulo",
+        "status": "rascunho",
+        "price": "1.290",
+        "isNegotiable": true,
+        "propertyType": "Hotel",
+        "condition": "Excelente",
+        "rating": 5,
+        "ratingCount": 35,
+        "contactNumber": "1-403-000-9038 x910",
+        "amenities": [],
+        "image": {
+            "id": 41632,
+            "url": "/images/Morro-de-Sao-Paulo-1-jpg.webp",
+            "thumb_url": "/images/Morro-de-Sao-Paulo-1-jpg.webp"
+        },
+        "location": {
+            "id": 48797,
+            "lat": -13.4231,
+            "lng": -38.9446,
+            "formattedAddress": "Morro de São Paulo, Bahia, Brasil",
+            "zipcode": "45428-000",
+            "city": "Morro de São Paulo",
+            "state_long": "Bahia",
+            "state_short": "BA",
+            "country_long": "Brasil",
+            "country_short": "BR"
+        },
+        "detalhesDoPacote": {
+            "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Salvador — Deputado Luís Eduardo Magalhães (SSA), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+            "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+            "hospedagem": "Em Salvador e em Morro de São Paulo. O Hurb definirá a hospedagem, a partir da disponibilidade e tarifário promocional dos parceiros. As opções de hospedagem são econômicas e oferecem café da manhã.",
+            "diarias": "2 diárias em Salvador + 3 diárias em Morro de São Paulo.",
+            "observacoes": [
+                "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+                "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+                "Este pacote não inclui transfer.",
+                "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+            ],
+            "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+        },
+        "infosAdicionais": {
+            "titulo": "Conheça seu destino",
+            "pacote": {
+                "titulo": "Pacote de Viagem para Salvador e Morro de São Paulo: Cultura e Praias Paradisíacas",
+                "descricao": "Descubra Salvador, a capital histórica e cultural do Brasil, e Morro de São Paulo, um dos destinos de praia mais incríveis da Bahia. Este pacote combina o melhor da rica herança cultural de Salvador com as praias deslumbrantes e tranquilidade de Morro de São Paulo, oferecendo uma viagem inesquecível."
+            },
+            "atracoes": {
+                "titulo": "Atrações Imperdíveis em Salvador e Morro de São Paulo",
+                "descricao": "Esses dois destinos encantadores proporcionam uma mistura perfeita de cultura, história e natureza. Aproveite para explorar as seguintes atrações:",
+                "itens": [
+                    {
+                        "titulo": "Pelourinho",
+                        "descricao": "Em Salvador, o centro histórico é um Patrimônio Mundial da UNESCO, com suas igrejas barrocas, casarios coloniais e uma atmosfera cheia de vida e história."
+                    },
+                    {
+                        "titulo": "Elevador Lacerda",
+                        "descricao": "Um dos principais cartões-postais de Salvador, que liga a cidade alta à cidade baixa, oferecendo uma vista incrível da Baía de Todos os Santos."
+                    },
+                    {
+                        "titulo": "Primeira Praia",
+                        "descricao": "Em Morro de São Paulo, esta praia é famosa por suas águas cristalinas, sendo ideal para relaxar e praticar esportes aquáticos."
+                    },
+                    {
+                        "titulo": "Quarta Praia",
+                        "descricao": "Com piscinas naturais e uma paisagem intocada, essa é uma das praias mais tranquilas de Morro de São Paulo, perfeita para quem busca contato direto com a natureza."
+                    }
+                ]
+            },
+            "hoteis": {
+                "titulo": "Hotéis em Destaque",
+                "itens": [
+                    {
+                        "nome": "Hotel Fasano Salvador",
+                        "descricao": "Luxo e sofisticação no coração do centro histórico, com vistas espetaculares da Baía de Todos-os-Santos."
+                    },
+                    {
+                        "nome": "Hotel Morro da Saudade",
+                        "descricao": "Situado em Morro de São Paulo, este hotel oferece uma atmosfera relaxante e proximidade às melhores praias da região, sendo ideal para quem deseja tranquilidade e conforto."
+                    },
+                    {
+                        "nome": "Hotel Casa do Amarelindo",
+                        "descricao": "Um refúgio encantador no coração do Pelourinho, perfeito para quem deseja uma experiência mais íntima e cultural."
+                    }
+                ]
+            },
+            "chamadaParaAcao": "Garanta já o seu pacote para Salvador e Morro de São Paulo, e viva uma experiência única que une história, cultura e praias paradisíacas!",
+            "informacoesImportantes": {
+                "titulo": "Informações Importantes da Localidade",
+                "itens": [
+                    "O melhor período para visitar Salvador e Morro de São Paulo é entre dezembro e março, quando as temperaturas estão mais altas e a cidade celebra o Carnaval.",
+                    "Os preços variam conforme a temporada, com diversas opções de hospedagem para todos os perfis de viajantes.",
+                    "A duração ideal de uma visita é de 6 a 8 dias, permitindo tempo suficiente para explorar Salvador e relaxar nas praias de Morro de São Paulo.",
+                    "Salvador e Morro de São Paulo oferecem boa conectividade de internet e transporte, facilitando o deslocamento e a comunicação durante a sua estadia."
+                ]
+            }
+        },
+        "gallery": [
+            {
+                "id": 49921,
+                "url": "/public/images/Morro-de-Sao-Paulo-2-jpg.webp"
+            },
+            {
+                "id": 43045,
+                "url": "/public/images/Morro-de-Sao-Paulo-3-jpg.webp"
+            }
+        ],
+        "createdAt": "2019-01-21T23:53:06.114Z",
+        "updatedAt": "2019-01-23T00:38:13.199Z"
+    },
+    {
+        "id": 65362,
+        "agentId": 2125,
+        "title": "Pacote - Porto Seguro - Voo + Hotel - 2025",
+        "slug": "porto-seguro-viagem",
+        "content": "Em Porto Seguro, você encontrará uma mistura de cultura vibrante, belas praias e excelente gastronomia. Além das praias paradisíacas, a cidade oferece ótimos restaurantes e bares, com pratos típicos da culinária baiana, como moquecas e acarajé, além de uma vida noturna agitada. Não perca a oportunidade de visitar o Centro Histórico, com suas igrejas e casarões coloniais. A cidade também é famosa por sua hospitalidade e pela rica herança cultural que encanta turistas do mundo todo.",
+        "status": "rascunho",
+        "price": "253.00",
+        "isNegotiable": true,
+        "propertyType": "Hotel",
+        "condition": "Excelente",
+        "rating": 5,
+        "ratingCount": 35,
+        "contactNumber": "1-403-000-9038 x910",
+        "amenities": [
+            {
+                "id": 11895,
+                "wifiAvailability": true,
+                "amenityText": "Wi-Fi Grátis",
+                "slug": "free-wifi"
+            },
+            {
+                "id": 14671,
+                "parkingAvailability": true,
+                "amenityText": "Estacionamento Grátis",
+                "slug": "free-parking"
+            },
+            {
+                "id": 25396,
+                "poolAvailability": true,
+                "amenityText": "Piscina Grátis",
+                "slug": "pool"
+            },
+            {
+                "id": 89598,
+                "airCondition": false,
+                "amenityText": "Ar Condicionado",
+                "slug": "air-condition"
+            }
+        ],
+        "image": {
+            "id": 41632,
+            "url": "/images/ps1.webp",
+            "thumb_url": "/images/ps1.webp"
+        },
+        "location": {
+            "id": 48797,
+            "lat": 40.706877,
+            "lng": -74.011265,
+            "formattedAddress": "Porto Seguro, Bahia, Brasil",
+            "zipcode": "10001",
+            "city": "Porto Seguro",
+            "state_long": "Bahia",
+            "state_short": "BH",
+            "country_long": "Brasil",
+            "country_short": "BR"
+        },
+        "detalhesDoPacote": {
+            "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Porto Seguro (BPS), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+            "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+            "hospedagem": "Em Porto Seguro ou nos arredores. O Hurb definirá a hospedagem, a partir da disponibilidade e tarifário promocional dos parceiros. As opções de hospedagem são econômicas e oferecem café da manhã.",
+            "diarias": "5 diárias em Porto Seguro.",
+            "observacoes": [
+                "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+                "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+                "Este pacote não inclui transfer.",
+                "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+            ],
+            "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+        },
+        "infosAdicionais": {
+            "titulo": "Conheça seu destino",
+            "pacote": {
+                "titulo": "Pacote de Viagem para Porto Seguro: História e Praias Paradisíacas",
+                "descricao": "Descubra Porto Seguro, um destino histórico e paradisíaco no sul da Bahia. Este pacote combina belas praias, uma rica herança cultural e uma atmosfera vibrante para férias inesquecíveis."
+            },
+            "atracoes": {
+                "titulo": "Atrações Imperdíveis em Porto Seguro",
+                "descricao": "Porto Seguro oferece uma combinação perfeita de cultura, natureza e diversão. Confira as atrações imperdíveis:",
+                "itens": [
+                    {
+                        "titulo": "Centro Histórico",
+                        "descricao": "Explore o local onde o Brasil começou, com construções coloniais, igrejas históricas e uma vista deslumbrante do mar."
+                    },
+                    {
+                        "titulo": "Passarela do Descobrimento",
+                        "descricao": "Também conhecida como Passarela do Álcool, é o lugar ideal para curtir a noite com bares, restaurantes e lojinhas de artesanato."
+                    },
+                    {
+                        "titulo": "Praia de Taperapuã",
+                        "descricao": "Famosa por suas barracas animadas, como Axé Moi e Tôa Tôa, é perfeita para quem busca diversão e mar cristalino."
+                    },
+                    {
+                        "titulo": "Arraial d'Ajuda",
+                        "descricao": "A poucos quilômetros de Porto Seguro, esse charmoso vilarejo oferece praias incríveis e uma atmosfera mais tranquila e sofisticada."
+                    }
+                ]
+            },
+            "hoteis": {
+                "titulo": "Hotéis em Destaque",
+                "itens": [
+                    {
+                        "nome": "Porto Seguro Praia Resort",
+                        "descricao": "Um resort completo à beira-mar, ideal para famílias e com uma estrutura que inclui piscina, restaurante e atividades de lazer."
+                    },
+                    {
+                        "nome": "Hotel Solar do Imperador",
+                        "descricao": "Situado em uma área privilegiada, oferece conforto, vista panorâmica da cidade e jardins tropicais encantadores."
+                    },
+                    {
+                        "nome": "Quinta do Sol Praia Hotel",
+                        "descricao": "Com localização estratégica em frente à praia, oferece excelente custo-benefício e hospitalidade acolhedora."
+                    }
+                ]
+            },
+            "chamadaParaAcao": "Garanta já o seu pacote para Porto Seguro e viva momentos inesquecíveis nas belas praias do sul da Bahia!",
+            "informacoesImportantes": {
+                "titulo": "Informações Importantes da Localidade",
+                "itens": [
+                    "O melhor período para visitar Porto Seguro é entre novembro e abril, quando o clima é mais quente e seco, perfeito para curtir as praias.",
+                    "Os preços variam conforme a temporada, com opções para todos os perfis de viajantes.",
+                    "A duração ideal de uma visita é de 5 a 7 dias, permitindo explorar as praias e o rico patrimônio histórico da região.",
+                    "Porto Seguro oferece excelente infraestrutura turística, incluindo transporte local, restaurantes variados e boa conectividade de internet."
+                ]
+            }
+        },
+        "gallery": [
+            {
+                "id": 49921,
+                "url": "/images/ps2.webp"
+            },
+            {
+                "id": 43045,
+                "url": "/images/ps3.webp"
+            }
+        ],
+        "reviews": [],
+        "createdAt": "2019-01-21T23:53:06.114Z",
+        "updatedAt": "2019-01-23T00:38:13.199Z"
+    },
+    {
+        "id": 65362,
+        "agentId": 2125,
+        "title": "Pacote - Rio de Janeiro - Voo + Hotel - 2025",
+        "slug": "rio-de-janeiro",
+        "content": "No bairro de Lapa, a poucos minutos da Praia de Copacabana, o Marlo & Sons é um refúgio rústico com excelentes vinhos, coquetéis criativos e petiscos incríveis, como ostras, queijos locais e tortilha de batata. Além disso, há saladas e sopas sazonais, o famoso frango na tijela e um ambiente à luz de velas, decorado com diferentes tipos de madeira. Uma verdadeira experiência carioca.",
+        "status": "rascunho",
+        "price": "253.00",
+        "isNegotiable": true,
+        "propertyType": "Hotel",
+        "condition": "Excelente",
+        "rating": 5,
+        "ratingCount": 35,
+        "contactNumber": "1-403-000-9038 x910",
+        "amenities": [
+            {
+                "id": 11895,
+                "wifiAvailability": true,
+                "amenityText": "Wi-Fi Grátis",
+                "slug": "free-wifi"
+            },
+            {
+                "id": 14671,
+                "parkingAvailability": true,
+                "amenityText": "Estacionamento Grátis",
+                "slug": "free-parking"
+            },
+            {
+                "id": 25396,
+                "poolAvailability": true,
+                "amenityText": "Piscina Grátis",
+                "slug": "pool"
+            },
+            {
+                "id": 89598,
+                "airCondition": false,
+                "amenityText": "Ar Condicionado",
+                "slug": "air-condition"
+            }
+        ],
+        "image": {
+            "id": 41632,
+            "url": "/images/RJ1.webp",
+            "thumb_url": "/images/RJ1.webp"
+        },
+        "location": {
+            "id": 48797,
+            "lat": -22.9075,
+            "lng": -43.1896,
+            "formattedAddress": "Rio de Janeiro, Brasil",
+            "zipcode": "20021-020",
+            "city": "Rio de Janeiro",
+            "state_long": "Rio de Janeiro",
+            "state_short": "RJ",
+            "country_long": "Brasil",
+            "country_short": "BR"
+        },
+        "detalhesDoPacote": {
+            "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional do Galeão — Tom Jobim (GIG), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+            "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+            "hospedagem": "Na cidade do Rio de Janeiro. O Hurb definirá a hospedagem, a partir da disponibilidade e tarifário promocional dos parceiros. As opções de hospedagem são econômicas e oferecem café da manhã.",
+            "diarias": "5 diárias no Rio de Janeiro.",
+            "observacoes": [
+                "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+                "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+                "Este pacote não inclui transfer.",
+                "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+            ],
+            "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+        },
+        "infosAdicionais": {
+            "titulo": "Conheça seu destino",
+            "pacote": {
+                "titulo": "Pacote de Viagem para o Rio de Janeiro: Cultura, Natureza e Praias Incríveis",
+                "descricao": "Descubra o Rio de Janeiro, a Cidade Maravilhosa, famosa por sua combinação única de paisagens naturais deslumbrantes, praias icônicas e uma cultura vibrante. Este pacote oferece uma experiência inesquecível no destino mais visitado do Brasil."
+            },
+            "atracoes": {
+                "titulo": "Atrações Imperdíveis no Rio de Janeiro",
+                "descricao": "O Rio de Janeiro oferece uma mistura perfeita de cultura, história e belezas naturais. Não deixe de explorar as seguintes atrações:",
+                "itens": [
+                    {
+                        "titulo": "Cristo Redentor",
+                        "descricao": "Uma das Novas Sete Maravilhas do Mundo, o Cristo Redentor é um símbolo do Rio e oferece uma vista incrível da cidade."
+                    },
+                    {
+                        "titulo": "Pão de Açúcar",
+                        "descricao": "O passeio de bondinho é uma experiência inesquecível, com vistas deslumbrantes da Baía de Guanabara."
+                    },
+                    {
+                        "titulo": "Praia de Copacabana",
+                        "descricao": "Uma das praias mais famosas do mundo, perfeita para relaxar, caminhar e aproveitar a atmosfera carioca."
+                    },
+                    {
+                        "titulo": "Lapa e seus Arcos",
+                        "descricao": "Centro da vida noturna carioca, a Lapa é conhecida pelos Arcos históricos e pelos bares e restaurantes animados."
+                    }
+                ]
+            },
+            "hoteis": {
+                "titulo": "Hotéis em Destaque",
+                "itens": [
+                    {
+                        "nome": "Hotel Fasano Rio de Janeiro",
+                        "descricao": "Luxo e sofisticação na Praia de Ipanema, com vistas incríveis do mar e serviços exclusivos."
+                    },
+                    {
+                        "nome": "Hotel Windsor Marapendi",
+                        "descricao": "Localizado na Barra da Tijuca, este hotel combina conforto e proximidade das praias e dos melhores shoppings."
+                    },
+                    {
+                        "nome": "Hotel Santa Teresa MGallery",
+                        "descricao": "Um refúgio charmoso e elegante no coração de Santa Teresa, ideal para quem busca exclusividade e tranquilidade."
+                    }
+                ]
+            },
+            "chamadaParaAcao": "Garanta já o seu pacote para o Rio de Janeiro e viva uma experiência única na Cidade Maravilhosa!",
+            "informacoesImportantes": {
+                "titulo": "Informações Importantes da Localidade",
+                "itens": [
+                    "O melhor período para visitar o Rio de Janeiro é entre dezembro e março, quando as temperaturas estão mais altas e a cidade celebra o Carnaval.",
+                    "Os preços variam conforme a temporada, com diversas opções de hospedagem para todos os perfis de viajantes.",
+                    "A duração ideal de uma visita é de 4 a 7 dias, permitindo tempo suficiente para explorar as principais atrações e relaxar nas praias.",
+                    "O Rio de Janeiro oferece boa conectividade de internet e transporte, facilitando o deslocamento e a comunicação durante a sua estadia."
+                ]
+            }
+        },
+        "gallery": [
+            {
+                "id": 49921,
+                "url": "/images/RJ1.webp"
+            },
+            {
+                "id": 43045,
+                "url": "/images/RJ2.webp"
+            }
+        ],
+        "reviews": [],
+        "createdAt": "2019-01-21T23:53:06.114Z",
+        "updatedAt": "2019-01-23T00:38:13.199Z"
+    },
+    {
+        "id": 65362,
+        "agentId": 2125,
+        "title": "Combo de 3 Diárias - Natal (RN) - 2025 [2 Pessoas]",
+        "slug": "Combo-Natal",
+        "content": "Natal é uma cidade encantadora, localizada no Rio Grande do Norte, famosa por suas praias de águas claras, dunas e o clima tropical. Com uma excelente infraestrutura para turismo, Natal oferece uma mistura de atrações naturais e culturais, como o Forte dos Reis Magos, o Mercado de Artesanato e as famosas praias de Ponta Negra e Genipabu. Além disso, a culinária local é recheada de pratos deliciosos à base de peixe e frutos do mar, como a caldeirada de camarão e a famosa carne de sol com macaxeira. Com diversas opções de lazer e tranquilidade, Natal é o destino perfeito para quem busca relaxar e explorar belezas naturais.",
+        "status": "rascunho",
+        "price": "253.00",
+        "isNegotiable": true,
+        "propertyType": "Hotel",
+        "condition": "Excelente",
+        "rating": 5,
+        "ratingCount": 35,
+        "contactNumber": "1-403-000-9038 x910",
+        "amenities": [
+            {
+                "id": 11895,
+                "wifiAvailability": true,
+                "amenityText": "Wi-Fi Grátis",
+                "slug": "free-wifi"
+            },
+            {
+                "id": 14671,
+                "parkingAvailability": true,
+                "amenityText": "Estacionamento Grátis",
+                "slug": "free-parking"
+            },
+            {
+                "id": 25396,
+                "poolAvailability": true,
+                "amenityText": "Piscina Grátis",
+                "slug": "pool"
+            },
+            {
+                "id": 89598,
+                "airCondition": false,
+                "amenityText": "Ar Condicionado",
+                "slug": "air-condition"
+            }
+        ],
+        "image": {
+            "id": 41632,
+            "url": "/images/natal1.webp",
+            "thumb_url": "/images/natal1.webp"
+        },
+        "location": {
+            "id": 48797,
+            "lat": 40.706877,
+            "lng": -74.011265,
+            "formattedAddress": "Natal, Rio Grande do Norte, Brasil",
+            "zipcode": "10001",
+            "city": "Natal",
+            "state_long": "Rio Grande do Norte",
+            "state_short": "RN",
+            "country_long": "Brasil",
+            "country_short": "BR"
+        },
+        "detalhesDoPacote": {
+            "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Natal — Governador Aluízio Alves (NAT), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+            "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+            "hospedagem": "Em Natal, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e incluem café da manhã.",
+            "diarias": "5 diárias em Natal.",
+            "observacoes": [
+                "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+                "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+                "Este pacote não inclui transfer.",
+                "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+            ],
+            "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+        },
+        "infosAdicionais": {
+            "titulo": "Conheça seu destino",
+            "pacote": {
+                "titulo": "Pacote de Viagem para Natal: Beleza Natural e Praias Paradisíacas",
+                "descricao": "Descubra Natal, a cidade do sol, conhecida por suas paisagens deslumbrantes, praias paradisíacas e clima acolhedor. Este pacote oferece a oportunidade perfeita para relaxar e explorar uma das cidades mais encantadoras do Nordeste brasileiro."
+            },
+            "atracoes": {
+                "titulo": "Atrações Imperdíveis em Natal",
+                "descricao": "Natal é o destino ideal para quem busca um mix de aventura, relaxamento e cultura. Não deixe de visitar:",
+                "itens": [
+                    {
+                        "titulo": "Praia de Ponta Negra",
+                        "descricao": "A praia mais famosa de Natal, com águas calmas, excelentes restaurantes e a icônica duna do Morro do Careca."
+                    },
+                    {
+                        "titulo": "Parque das Dunas",
+                        "descricao": "Uma reserva natural com trilhas e vistas incríveis, ideal para quem gosta de ecoturismo."
+                    },
+                    {
+                        "titulo": "Forte dos Reis Magos",
+                        "descricao": "Um marco histórico e arquitetônico que oferece vistas impressionantes e uma imersão na história local."
+                    },
+                    {
+                        "titulo": "Genipabu",
+                        "descricao": "Conhecida por suas dunas e passeios de buggy, essa praia oferece uma experiência única e emocionante."
+                    }
+                ]
+            },
+            "hoteis": {
+                "titulo": "Hotéis em Destaque",
+                "itens": [
+                    {
+                        "nome": "Best Western Premier Majestic Ponta Negra",
+                        "descricao": "Luxo e conforto a poucos passos da Praia de Ponta Negra, com design sofisticado e atendimento impecável."
+                    },
+                    {
+                        "nome": "Vila do Mar Natal",
+                        "descricao": "Localizado na Via Costeira, oferece vistas deslumbrantes do mar e excelente infraestrutura para famílias."
+                    },
+                    {
+                        "nome": "Serhs Natal Grand Hotel",
+                        "descricao": "Um resort à beira-mar com piscinas incríveis, spa e diversas opções gastronômicas para toda a família."
+                    }
+                ]
+            },
+            "chamadaParaAcao": "Garanta já o seu pacote para Natal e viva momentos inesquecíveis na capital do sol!",
+            "informacoesImportantes": {
+                "titulo": "Informações Importantes da Localidade",
+                "itens": [
+                    "O melhor período para visitar Natal é entre setembro e fevereiro, quando o clima é mais seco e ensolarado.",
+                    "Os preços variam conforme a temporada, com diversas opções de hospedagem para todos os gostos e orçamentos.",
+                    "A duração ideal de uma visita é de 5 a 7 dias, permitindo explorar as praias e principais pontos turísticos com tranquilidade.",
+                    "Natal possui boa infraestrutura turística, incluindo transporte, conectividade de internet e opções gastronômicas de alta qualidade."
+                ]
+            }
+        },
+        "gallery": [
+            {
+                "id": 49921,
+                "url": "/images/natal2.webp"
+            },
+            {
+                "id": 43045,
+                "url": "/images/natal3.webp"
+            }
+        ],
+        "reviews": [],
+        "createdAt": "2019-01-21T23:53:06.114Z",
+        "updatedAt": "2019-01-23T00:38:13.199Z"
+    }
+]

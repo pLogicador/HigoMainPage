@@ -2,9 +2,9 @@
 	{
 		"id": 65362,
 		"agentId": 2125,
-		"title": "buenos-aires",
+		"title": "Pacote - Buenos Aires (Quarto Individual) - Voo + Hotel - 2025",
 		"slug": "buenos-aires",
-		"content": "No South Williamsburg, a apenas alguns quarteirões do East River, Marlo & Sons é um refúgio rústico com bons vinhos, bons coquetéis e excelentes petiscos, como ostras, queijos locais e tortilha de batata. Mas há mais: saladas e sopas sazonais, o famoso frango na tijela, um espaço à luz de velas decorado com vários tipos de madeira (afinal, este é um restaurante Andrew Tarlow). De muitas maneiras.",
+		"content": "Pacote de Viagem para Buenos Aires: A Elegância da Capital Argentina",
 		"status": "rascunho",
 		"price": "253.00",
 		"isNegotiable": true,
@@ -41,8 +41,8 @@
 		],
 		"image": {
 			"id": 41632,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			"url": "/images/ba1.webp",
+			"thumb_url": "/images/ba1.webp"
 		},
 		"location": {
 			"id": 48797,
@@ -56,21 +56,85 @@
 			"country_long": "Estados Unidos da América",
 			"country_short": "EUA"
 		},
+		
 		"gallery": [
 			{
 				"id": 49921,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+				"url": "/images/ba2.webp"
 			},
 			{
 				"id": 43045,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-			},
-			{
-				"id": 19843,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+				"url": "/images/ba3.webp"
 			}
-		],
-		"reviews": [
+		],    "detalhesDoPacote": {
+			"aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional Ministro Pistarini (Ezeiza - EZE) ou Aeroparque Jorge Newbery (AEP), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+			"bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+			"hospedagem": "Em Buenos Aires, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e oferecem café da manhã.",
+			"diarias": "5 diárias em Buenos Aires.",
+			"observacoes": [
+				"O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+				"As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+				"Este pacote não inclui transfer.",
+				"Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+			],
+			"atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+		},
+		"infosAdicionais": {
+			"titulo": "Conheça seu destino",
+			"pacote": {
+				"titulo": "Pacote de Viagem para Buenos Aires: A Elegância da Capital Argentina",
+				"descricao": "Descubra Buenos Aires, uma cidade vibrante que combina charme europeu com a essência latina. Um destino que encanta com sua cultura rica, arquitetura impressionante, e gastronomia renomada."
+			},
+			"atracoes": {
+				"titulo": "Atrações Imperdíveis em Buenos Aires",
+				"descricao": "Buenos Aires oferece uma experiência única de cultura, história e entretenimento. Confira as principais atrações:",
+				"itens": [
+					{
+						"titulo": "Casa Rosada",
+						"descricao": "O icônico palácio presidencial é um símbolo da história política argentina e um local ideal para fotos."
+					},
+					{
+						"titulo": "Caminito",
+						"descricao": "Um passeio pelas coloridas ruas de La Boca, com música, dança de tango e lojas de souvenirs."
+					},
+					{
+						"titulo": "Teatro Colón",
+						"descricao": "Um dos teatros mais renomados do mundo, conhecido por sua arquitetura deslumbrante e acústica impecável."
+					},
+					{
+						"titulo": "Recoleta",
+						"descricao": "Um bairro elegante com o famoso Cemitério da Recoleta, onde estão enterradas figuras históricas, e muitos cafés e museus."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "Hotéis em Destaque",
+				"itens": [
+					{
+						"nome": "Alvear Palace Hotel",
+						"descricao": "Luxo e sofisticação em Recoleta, com serviços exclusivos e uma localização privilegiada."
+					},
+					{
+						"nome": "Hotel Madero",
+						"descricao": "Conforto moderno no charmoso bairro de Puerto Madero, próximo a restaurantes e atrações."
+					},
+					{
+						"nome": "Dazzler by Wyndham Buenos Aires",
+						"descricao": "Hospedagem confortável e acessível no coração da cidade, ideal para explorar as principais atrações."
+					}
+				]
+			},
+			"chamadaParaAcao": "Garanta já o seu pacote para Buenos Aires e viva momentos inesquecíveis na capital da Argentina!",
+			"informacoesImportantes": {
+				"titulo": "Informações Importantes da Localidade",
+				"itens": [
+					"O melhor período para visitar Buenos Aires é na primavera (setembro a novembro) ou no outono (março a maio), quando o clima é ameno e agradável.",
+					"Os preços variam conforme a temporada, com diversas opções de hospedagem que atendem a todos os perfis de viajantes.",
+					"A duração ideal de uma visita é de 4 a 6 dias, permitindo explorar os principais pontos turísticos e aproveitar a cultura local.",
+					"Buenos Aires é uma cidade bem conectada, com transporte público eficiente, muitas opções de táxis e boa infraestrutura para turistas."
+				]
+			}
+		},"reviews": [
 			{
 				"reviewID": 77370,
 				"reviewTitle": "Excelente experiência com pequenas observações.",

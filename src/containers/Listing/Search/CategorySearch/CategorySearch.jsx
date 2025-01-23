@@ -250,9 +250,9 @@ const CategorySearch = ({ location }) => {
       />
       <div className="view_with__popup">
         <div className="popup_handler">
-          <Button type="default" onClick={onSearchReset}>
+          {/* <Button type="default" onClick={onSearchReset}>
             Reiniciar
-          </Button>
+          </Button> */}
         </div>
       </div>
     </CategorySearchWrapper>

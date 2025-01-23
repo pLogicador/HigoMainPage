@@ -36,7 +36,7 @@ const TopHotelsGrid = () => {
     <Container fluid={true}>
       <SectionTitle
         title={<Heading content="Pacotes para sua melhor estadia neste verão 🏖️" />}
-        link={<TextLink link={LISTING_POSTS_PAGE} content="Mostrar tudo "  /> }
+        link={<TextLink link={SINGLE_POST_PAGE} content="Mostrar tudo "  /> }
       />
 
       <SectionGrid
