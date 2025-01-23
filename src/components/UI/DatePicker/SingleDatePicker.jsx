@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import momentPropTypes from 'react-moment-proptypes';
 import moment from 'moment';
+import 'moment/locale/pt-br';
 import omit from 'lodash/omit';
 import 'react-dates/initialize';
 import 'react-dates/lib/css/_datepicker.css';
@@ -12,6 +13,9 @@ import { SingleDatePickerPhrases } from 'react-dates/esm/defaultPhrases';
 import SingleDatePickerShape from 'react-dates/esm/shapes/SingleDatePickerShape';
 import { HORIZONTAL_ORIENTATION, ANCHOR_LEFT } from 'react-dates/constants';
 import isInclusivelyAfterDay from 'react-dates/esm/utils/isInclusivelyAfterDay';
+
+// Configure o locale do `moment`
+moment.locale('pt-br');
 
 const propTypes = {
   // example props for the demo

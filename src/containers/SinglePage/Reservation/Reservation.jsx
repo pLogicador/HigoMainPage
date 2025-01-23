@@ -61,6 +61,7 @@ export default function Reservation() {
         { slug: 'cancun', price: '4.165' },
         { slug: 'bariloche', price: '4.469' },
         { slug: 'buenos-aires', price: '2.449' },
+        { slug: 'Combo-Natal', price: '1.041' },
       ];
 
       // Busca o pacote pelo slug

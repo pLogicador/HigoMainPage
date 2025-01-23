@@ -20,7 +20,7 @@ import {
 const calendarItem = {
   separator: '-',
   format: 'MM-DD-YYYY',
-  locale: 'BR',
+  locale: 'pt-br',
 };
 
 export default function SearchForm() {
