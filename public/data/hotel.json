@@ -2,11 +2,11 @@
 	{
 		"id": 63288,
 		"agentId": 38076,
-		"title": "Hotel Fasano Rio de Janeiro",
-		"slug": "hotel-fasano-rio-de-janeiro",
-		"content": "O Hotel Fasano Rio de Janeiro, localizado na icônica praia de Ipanema, é um dos hotéis de luxo mais renomados do Brasil. Com uma vista deslumbrante para o mar e a cidade, o hotel oferece uma experiência única de conforto e sofisticação. Com um serviço impecável e um ambiente elegante, é o lugar ideal para aqueles que buscam exclusividade e qualidade em sua estadia.",
+		"title": "Combo de 3 Diárias - Natal (RN) - 2025 [2 Pessoas]",
+		"slug": "Combo-Natal",
+		"content": "",
 		"status": "publish",
-		"price": "500.00",
+		"price": "1.041",
 		"isNegotiable": false,
 		"propertyType": "Hotel",
 		"condition": "Excellent",
@@ -45,33 +45,33 @@
 		],
 		"image": {
 			"id": 90096,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			"url": "/images/natal1.webp",
+			"thumb_url": "/images/natal1.webp"
 		},
 		"location": {
 			"id": 67404,
 			"lat": -22.9812,
 			"lng": -43.1900,
-			"formattedAddress": "Avenida Vieira Souto, 80, Ipanema",
-			"zipcode": "22420-000",
-			"city": "Rio de Janeiro",
-			"state_long": "Rio de Janeiro",
-			"state_short": "RJ",
-			"country_long": "Brasil",
-			"country_short": "BR"
+			"formattedAddress": "",
+			"zipcode": "",
+			"city": "",
+			"state_long": "",
+			"state_short": "",
+			"country_long": "",
+			"country_short": ""
 		},
 		"gallery": [
 			{
 				"id": 11287,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-2_thumb.jpg"
+				"url": "/images/natal1.webp"
 			},
 			{
 				"id": 51759,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3_thumb.jpg"
+				"url": "/images/natal3.webp"
 			},
 			{
 				"id": 1888,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-4_thumb.jpg"
+				"url": "/images/natal2.webp"
 			}
 		]
 	}

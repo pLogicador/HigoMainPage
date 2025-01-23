@@ -40,7 +40,7 @@ const LuxaryHotelsGrid = () => {
     <Container fluid={true}>
       <SectionTitle
         title={<Heading content="Confira os produtos mais populares 📈" />}
-        // link={<TextLink link={LISTING_POSTS_PAGE} content="Mostrar tudo" />}
+        link={<TextLink link={LISTING_POSTS_PAGE} content="Mostrar tudo" />}
       />
 
       <SectionGrid
