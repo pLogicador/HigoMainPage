@@ -2,7 +2,7 @@
 	{
 		"id": 65362,
 		"agentId": 2125,
-		"title": "Natal",
+		"title": "Pacote - Natal - Voo + Hotel - 2025",
 		"slug": "natal",
 		"content": "Natal é uma cidade encantadora, localizada no Rio Grande do Norte, famosa por suas praias de águas claras, dunas e o clima tropical. Com uma excelente infraestrutura para turismo, Natal oferece uma mistura de atrações naturais e culturais, como o Forte dos Reis Magos, o Mercado de Artesanato e as famosas praias de Ponta Negra e Genipabu. Além disso, a culinária local é recheada de pratos deliciosos à base de peixe e frutos do mar, como a caldeirada de camarão e a famosa carne de sol com macaxeira. Com diversas opções de lazer e tranquilidade, Natal é o destino perfeito para quem busca relaxar e explorar belezas naturais.",
 		"status": "rascunho",
@@ -41,33 +41,98 @@
 		],
 		"image": {
 			"id": 41632,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			"url": "/images/natal1.webp",
+			"thumb_url": "/images/natal1.webp"
 		},
 		"location": {
 			"id": 48797,
 			"lat": 40.706877,
 			"lng": -74.011265,
-			"formattedAddress": "Brooklyn, Nova York, Estados Unidos da América",
+			"formattedAddress": "Natal, Rio Grande do Norte, Brasil",
 			"zipcode": "10001",
-			"city": "Brooklyn",
-			"state_long": "Nova York",
-			"state_short": "NY",
-			"country_long": "Estados Unidos da América",
-			"country_short": "EUA"
+			"city": "Natal",
+			"state_long": "Rio Grande do Norte",
+			"state_short": "RN",
+			"country_long": "Brasil",
+			"country_short": "BR"
 		},
+			"detalhesDoPacote": {
+				"aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Natal — Governador Aluízio Alves (NAT), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+				"bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+				"hospedagem": "Em Natal, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e incluem café da manhã.",
+				"diarias": "5 diárias em Natal.",
+				"observacoes": [
+					"O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+					"As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+					"Este pacote não inclui transfer.",
+					"Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+				],
+				"atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+			},
+			"infosAdicionais": {
+				"titulo": "Conheça seu destino",
+				"pacote": {
+					"titulo": "Pacote de Viagem para Natal: Beleza Natural e Praias Paradisíacas",
+					"descricao": "Descubra Natal, a cidade do sol, conhecida por suas paisagens deslumbrantes, praias paradisíacas e clima acolhedor. Este pacote oferece a oportunidade perfeita para relaxar e explorar uma das cidades mais encantadoras do Nordeste brasileiro."
+				},
+				"atracoes": {
+					"titulo": "Atrações Imperdíveis em Natal",
+					"descricao": "Natal é o destino ideal para quem busca um mix de aventura, relaxamento e cultura. Não deixe de visitar:",
+					"itens": [
+						{
+							"titulo": "Praia de Ponta Negra",
+							"descricao": "A praia mais famosa de Natal, com águas calmas, excelentes restaurantes e a icônica duna do Morro do Careca."
+						},
+						{
+							"titulo": "Parque das Dunas",
+							"descricao": "Uma reserva natural com trilhas e vistas incríveis, ideal para quem gosta de ecoturismo."
+						},
+						{
+							"titulo": "Forte dos Reis Magos",
+							"descricao": "Um marco histórico e arquitetônico que oferece vistas impressionantes e uma imersão na história local."
+						},
+						{
+							"titulo": "Genipabu",
+							"descricao": "Conhecida por suas dunas e passeios de buggy, essa praia oferece uma experiência única e emocionante."
+						}
+					]
+				},
+				"hoteis": {
+					"titulo": "Hotéis em Destaque",
+					"itens": [
+						{
+							"nome": "Best Western Premier Majestic Ponta Negra",
+							"descricao": "Luxo e conforto a poucos passos da Praia de Ponta Negra, com design sofisticado e atendimento impecável."
+						},
+						{
+							"nome": "Vila do Mar Natal",
+							"descricao": "Localizado na Via Costeira, oferece vistas deslumbrantes do mar e excelente infraestrutura para famílias."
+						},
+						{
+							"nome": "Serhs Natal Grand Hotel",
+							"descricao": "Um resort à beira-mar com piscinas incríveis, spa e diversas opções gastronômicas para toda a família."
+						}
+					]
+				},
+				"chamadaParaAcao": "Garanta já o seu pacote para Natal e viva momentos inesquecíveis na capital do sol!",
+				"informacoesImportantes": {
+					"titulo": "Informações Importantes da Localidade",
+					"itens": [
+						"O melhor período para visitar Natal é entre setembro e fevereiro, quando o clima é mais seco e ensolarado.",
+						"Os preços variam conforme a temporada, com diversas opções de hospedagem para todos os gostos e orçamentos.",
+						"A duração ideal de uma visita é de 5 a 7 dias, permitindo explorar as praias e principais pontos turísticos com tranquilidade.",
+						"Natal possui boa infraestrutura turística, incluindo transporte, conectividade de internet e opções gastronômicas de alta qualidade."
+					]
+				}
+			},
 		"gallery": [
 			{
 				"id": 49921,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+				"url": "/images/natal2.webp"
 			},
 			{
 				"id": 43045,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-			},
-			{
-				"id": 19843,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+				"url": "/images/natal3.webp"
 			}
 		],
 		"reviews": [],

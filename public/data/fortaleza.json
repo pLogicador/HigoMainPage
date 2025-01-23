@@ -2,9 +2,9 @@
 	{
 		"id": 65362,
 		"agentId": 2125,
-		"title": "Fortaleza",
+		"title": "Pacote de Viagem - Fortaleza - 1º Semestre 2026",
 		"slug": "fortaleza",
-		"content": "Fortaleza, a capital do Ceará, é um destino popular com suas belas praias, como Praia do Futuro, e uma vibrante vida noturna. A cidade é conhecida pelo calor humano, comida deliciosa como a famosa moqueca e frutos do mar frescos, além de contar com várias opções de turismo cultural, incluindo o Mercado Central e o Centro Dragão do Mar. Os turistas também podem desfrutar de atividades como passeios de barco e caminhadas pelas dunas e falésias.",
+		"content": "",
 		"status": "publish",
 		"price": "1.465",
 		"isNegotiable": true,
@@ -41,8 +41,8 @@
 		],
 		"image": {
 			"id": 41632,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			"url": "/images/Fortaleza1.webp",
+			"thumb_url": "/images/Fortaleza1.webp"
 		},
 		"location": {
 			"id": 48797,
@@ -56,23 +56,86 @@
 			"country_long": "Brasil",
 			"country_short": "BR"
 		},
+		"detalhesDoPacote": {
+			"aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Fortaleza (FOR), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+			"bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+			"hospedagem": "Em Fortaleza e em Jericoacoara. O Hurb definirá a hospedagem, a partir da disponibilidade e tarifário promocional dos parceiros. As opções de hospedagem são econômicas e oferecem café da manhã.",
+			"diarias": "2 diárias em Fortaleza + 3 diárias em Jericoacoara.",
+			"observacoes": [
+				"O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+				"As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+				"Este pacote não inclui transfer.",
+				"Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+			],
+			"atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+		},
+		"infosAdicionais": {
+			"titulo": "Conheça seu destino",
+			"pacote": {
+				"titulo": "Pacote de Viagem para Fortaleza e Jericoacoara: Praias e Aventura",
+				"descricao": "Descubra Fortaleza, a capital do Ceará, com suas praias vibrantes e cultura rica, e Jericoacoara, um dos destinos mais incríveis do Brasil, conhecido pelas dunas e paisagens deslumbrantes. Este pacote oferece uma experiência única com praias paradisíacas e muita diversão."
+			},
+			"atracoes": {
+				"titulo": "Atrações Imperdíveis em Fortaleza e Jericoacoara",
+				"descricao": "Esses dois destinos encantadores proporcionam uma mistura perfeita de natureza e cultura. Aproveite para explorar as seguintes atrações:",
+				"itens": [
+					{
+						"titulo": "Praia do Futuro",
+						"descricao": "Em Fortaleza, a Praia do Futuro é famosa por suas barracas e infraestrutura, ideal para relaxar e desfrutar da gastronomia local."
+					},
+					{
+						"titulo": "Mercado Central de Fortaleza",
+						"descricao": "Um ponto turístico tradicional para comprar artesanato e produtos típicos da região, além de saborear pratos típicos da culinária cearense."
+					},
+					{
+						"titulo": "Dunas de Jericoacoara",
+						"descricao": "Em Jericoacoara, as dunas são um dos maiores atrativos, onde você pode praticar esportes como kitesurf ou apenas apreciar a vista."
+					},
+					{
+						"titulo": "Lagoa do Paraíso",
+						"descricao": "Uma das atrações mais famosas de Jericoacoara, com águas cristalinas e bancos de areia, ideal para quem busca tranquilidade e beleza natural."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "Hotéis em Destaque",
+				"itens": [
+					{
+						"nome": "Hotel Gran Marquise",
+						"descricao": "Localizado na Praia do Futuro, oferece luxo e conforto, com vista para o mar e diversas opções de lazer."
+					},
+					{
+						"nome": "Hotel Jericoacoara",
+						"descricao": "Este hotel está em Jericoacoara, próximo das dunas e da Lagoa do Paraíso, perfeito para quem deseja conforto e proximidade com a natureza."
+					},
+					{
+						"nome": "Hotel Praia Centro",
+						"descricao": "No centro de Fortaleza, este hotel oferece excelente infraestrutura e localização estratégica, perto das principais atrações turísticas."
+					}
+				]
+			},
+			"chamadaParaAcao": "Garanta já o seu pacote para Fortaleza e Jericoacoara, e aproveite o melhor das praias e paisagens do Ceará!",
+			"informacoesImportantes": {
+				"titulo": "Informações Importantes da Localidade",
+				"itens": [
+					"O melhor período para visitar Fortaleza e Jericoacoara é entre junho e setembro, quando as temperaturas são mais amenas e há menos chuvas.",
+					"Os preços variam conforme a temporada, com diversas opções de hospedagem para todos os perfis de viajantes.",
+					"A duração ideal de uma visita é de 6 a 8 dias, permitindo tempo suficiente para explorar Fortaleza e relaxar nas praias de Jericoacoara.",
+					"Fortaleza e Jericoacoara oferecem boa conectividade de internet e transporte, facilitando o deslocamento e a comunicação durante a sua estadia."
+				]
+			}
+		},
 		"gallery": [
 			{
 				"id": 49921,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+				"url": "/images/Fortaleza2.webp"
 			},
 			{
 				"id": 43045,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-			},
-			{
-				"id": 19843,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+				"url": "/images/Fortaleza3.webp"
 			}
 		],
-		"reviews": [
-
-		],
+		"reviews": [],
 		"createdAt": "2019-01-21T23:53:06.114Z",
 		"updatedAt": "2019-01-23T00:38:13.199Z"
 	}

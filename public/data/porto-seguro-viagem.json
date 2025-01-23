@@ -2,7 +2,7 @@
 	{
 		"id": 65362,
 		"agentId": 2125,
-		"title": "Porto Seguro",
+		"title": "Pacote - Porto Seguro - Voo + Hotel - 2025",
 		"slug": "porto-seguro-viagem",
 		"content": "Em Porto Seguro, você encontrará uma mistura de cultura vibrante, belas praias e excelente gastronomia. Além das praias paradisíacas, a cidade oferece ótimos restaurantes e bares, com pratos típicos da culinária baiana, como moquecas e acarajé, além de uma vida noturna agitada. Não perca a oportunidade de visitar o Centro Histórico, com suas igrejas e casarões coloniais. A cidade também é famosa por sua hospitalidade e pela rica herança cultural que encanta turistas do mundo todo.",
 		"status": "rascunho",
@@ -41,33 +41,97 @@
 		],
 		"image": {
 			"id": 41632,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			"url": "/images/ps1.webp",
+			"thumb_url": "/images/ps1.webp"
 		},
 		"location": {
 			"id": 48797,
 			"lat": 40.706877,
 			"lng": -74.011265,
-			"formattedAddress": "Brooklyn, Nova York, Estados Unidos da América",
+			"formattedAddress": "Porto Seguro, Bahia, Brasil",
 			"zipcode": "10001",
-			"city": "Brooklyn",
-			"state_long": "Nova York",
-			"state_short": "NY",
-			"country_long": "Estados Unidos da América",
-			"country_short": "EUA"
+			"city": "Porto Seguro",
+			"state_long": "Bahia",
+			"state_short": "BH",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},    "detalhesDoPacote": {
+			"aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Porto Seguro (BPS), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+			"bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+			"hospedagem": "Em Porto Seguro ou nos arredores. O Hurb definirá a hospedagem, a partir da disponibilidade e tarifário promocional dos parceiros. As opções de hospedagem são econômicas e oferecem café da manhã.",
+			"diarias": "5 diárias em Porto Seguro.",
+			"observacoes": [
+				"O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+				"As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+				"Este pacote não inclui transfer.",
+				"Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+			],
+			"atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+		},
+		"infosAdicionais": {
+			"titulo": "Conheça seu destino",
+			"pacote": {
+				"titulo": "Pacote de Viagem para Porto Seguro: História e Praias Paradisíacas",
+				"descricao": "Descubra Porto Seguro, um destino histórico e paradisíaco no sul da Bahia. Este pacote combina belas praias, uma rica herança cultural e uma atmosfera vibrante para férias inesquecíveis."
+			},
+			"atracoes": {
+				"titulo": "Atrações Imperdíveis em Porto Seguro",
+				"descricao": "Porto Seguro oferece uma combinação perfeita de cultura, natureza e diversão. Confira as atrações imperdíveis:",
+				"itens": [
+					{
+						"titulo": "Centro Histórico",
+						"descricao": "Explore o local onde o Brasil começou, com construções coloniais, igrejas históricas e uma vista deslumbrante do mar."
+					},
+					{
+						"titulo": "Passarela do Descobrimento",
+						"descricao": "Também conhecida como Passarela do Álcool, é o lugar ideal para curtir a noite com bares, restaurantes e lojinhas de artesanato."
+					},
+					{
+						"titulo": "Praia de Taperapuã",
+						"descricao": "Famosa por suas barracas animadas, como Axé Moi e Tôa Tôa, é perfeita para quem busca diversão e mar cristalino."
+					},
+					{
+						"titulo": "Arraial d'Ajuda",
+						"descricao": "A poucos quilômetros de Porto Seguro, esse charmoso vilarejo oferece praias incríveis e uma atmosfera mais tranquila e sofisticada."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "Hotéis em Destaque",
+				"itens": [
+					{
+						"nome": "Porto Seguro Praia Resort",
+						"descricao": "Um resort completo à beira-mar, ideal para famílias e com uma estrutura que inclui piscina, restaurante e atividades de lazer."
+					},
+					{
+						"nome": "Hotel Solar do Imperador",
+						"descricao": "Situado em uma área privilegiada, oferece conforto, vista panorâmica da cidade e jardins tropicais encantadores."
+					},
+					{
+						"nome": "Quinta do Sol Praia Hotel",
+						"descricao": "Com localização estratégica em frente à praia, oferece excelente custo-benefício e hospitalidade acolhedora."
+					}
+				]
+			},
+			"chamadaParaAcao": "Garanta já o seu pacote para Porto Seguro e viva momentos inesquecíveis nas belas praias do sul da Bahia!",
+			"informacoesImportantes": {
+				"titulo": "Informações Importantes da Localidade",
+				"itens": [
+					"O melhor período para visitar Porto Seguro é entre novembro e abril, quando o clima é mais quente e seco, perfeito para curtir as praias.",
+					"Os preços variam conforme a temporada, com opções para todos os perfis de viajantes.",
+					"A duração ideal de uma visita é de 5 a 7 dias, permitindo explorar as praias e o rico patrimônio histórico da região.",
+					"Porto Seguro oferece excelente infraestrutura turística, incluindo transporte local, restaurantes variados e boa conectividade de internet."
+				]
+			}
 		},
 		"gallery": [
 			{
 				"id": 49921,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+				"url": "/images/ps2.webp"
 			},
 			{
 				"id": 43045,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-			},
-			{
-				"id": 19843,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+				"url": "/images/ps3.webp"
 			}
 		],
 		"reviews": [],

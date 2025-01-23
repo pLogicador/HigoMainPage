@@ -2,7 +2,7 @@
 	{
 		"id": 65362,
 		"agentId": 2125,
-		"title": "Cancun",
+		"title": "Pacote de Viagem - Cancún (All Inclusive) - 2026",
 		"slug": "cancun",
 		"content": "Em Cancun, à beira da praia, Marlo & Sons é um refúgio charmoso com uma excelente seleção de vinhos, coquetéis sofisticados e petiscos deliciosos, como ostras frescas, queijos locais e a famosa tortilha de batata. Além disso, oferece saladas e sopas sazonais, o renomado frango na tijela e um ambiente à luz de velas com decoração rústica, composta por diversos tipos de madeira, criando uma atmosfera acolhedora. Com vistas deslumbrantes e uma localização privilegiada, é o lugar ideal para relaxar e desfrutar da gastronomia local.",
 		"status": "rascunho",
@@ -41,8 +41,8 @@
 		],
 		"image": {
 			"id": 41632,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			"url": "/images/Cancun1.webp",
+			"thumb_url": "/images/Cancun1.webp"
 		},
 		"location": {
 			"id": 48797,
@@ -55,19 +55,82 @@
 			"state_short": "QR",
 			"country_long": "México",
 			"country_short": "MX"
+		},    "detalhesDoPacote": {
+			"aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Cancún (CUN), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+			"bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+			"hospedagem": "Em Cancún, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e oferecem café da manhã.",
+			"diarias": "5 diárias em Cancún.",
+			"observacoes": [
+				"O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+				"As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+				"Este pacote não inclui transfer.",
+				"Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+			],
+			"atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
 		},
-		"gallery": [
+		"infosAdicionais": {
+			"titulo": "Conheça seu destino",
+			"pacote": {
+				"titulo": "Pacote de Viagem para Cancún: Praias e Cultura Maia",
+				"descricao": "Explore Cancún, o paraíso do Caribe mexicano, famoso por suas praias deslumbrantes, resorts de luxo e a fascinante cultura maia. Este pacote combina relaxamento e aventura em um dos destinos mais cobiçados do mundo."
+			},
+			"atracoes": {
+				"titulo": "Atrações Imperdíveis em Cancún",
+				"descricao": "Cancún oferece um equilíbrio perfeito entre praias paradisíacas, história e diversão. Confira as principais atrações:",
+				"itens": [
+					{
+						"titulo": "Playa Delfines",
+						"descricao": "Uma das praias mais bonitas e tranquilas de Cancún, com águas cristalinas e um famoso letreiro colorido de 'Cancún'."
+					},
+					{
+						"titulo": "Chichén Itzá",
+						"descricao": "Um dos sítios arqueológicos mais impressionantes do mundo, declarado Patrimônio Mundial da UNESCO e uma das Sete Maravilhas do Mundo Moderno."
+					},
+					{
+						"titulo": "Isla Mujeres",
+						"descricao": "Uma ilha paradisíaca a poucos minutos de Cancún, perfeita para mergulho, snorkel e relaxamento em praias de areia branca."
+					},
+					{
+						"titulo": "Xcaret Park",
+						"descricao": "Um parque ecológico que combina natureza, cultura e diversão, com atividades como rios subterrâneos, shows culturais e interação com animais."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "Hotéis em Destaque",
+				"itens": [
+					{
+						"nome": "Hyatt Ziva Cancún",
+						"descricao": "Um resort all-inclusive com localização privilegiada, vistas incríveis para o mar e uma experiência luxuosa para toda a família."
+					},
+					{
+						"nome": "Riu Palace Peninsula",
+						"descricao": "Elegância e conforto em um resort à beira-mar, com piscinas incríveis e gastronomia de alta qualidade."
+					},
+					{
+						"nome": "Secrets The Vine Cancún",
+						"descricao": "Resort exclusivo para adultos, com foco em luxo, gastronomia e relaxamento, ideal para casais."
+					}
+				]
+			},
+			"chamadaParaAcao": "Garanta já o seu pacote para Cancún e desfrute de praias paradisíacas, cultura rica e experiências inesquecíveis!",
+			"informacoesImportantes": {
+				"titulo": "Informações Importantes da Localidade",
+				"itens": [
+					"O melhor período para visitar Cancún é entre dezembro e abril, quando o clima é mais seco e as temperaturas são agradáveis.",
+					"Os preços variam conforme a temporada, com uma grande variedade de opções de hospedagem, desde resorts luxuosos até hotéis mais econômicos.",
+					"A duração ideal de uma visita é de 5 a 7 dias, permitindo explorar as praias, atrações culturais e parques ecológicos.",
+					"Cancún oferece excelente infraestrutura turística, com transporte fácil, conectividade de internet e uma ampla oferta de passeios organizados."
+				]
+			}
+		},"gallery": [
 			{
 				"id": 49921,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+				"url": "/images/Cancun2.webp"
 			},
 			{
 				"id": 43045,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-			},
-			{
-				"id": 19843,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+				"url": "/images/Cancun3.webp"
 			}
 		],
 		"reviews": [],

@@ -2,7 +2,7 @@
 	{
 	  "id": 65362,
 	  "agentId": 2125,
-	  "title": "Gramado",
+	  "title": "Pacote - Gramado - Voo + Hotel - 2026",
 	  "slug": "gramado",
 	  "content": "Em Gramado, o charme das montanhas e a culinária local fazem deste lugar um destino imperdível. O restaurante oferece um ambiente aconchegante, com pratos típicos da região, como fondue e galeto. Com uma decoração rústica, o local é perfeito para quem busca uma experiência única, aliando boa comida e um atendimento excelente.",
 	  "status": "rascunho",
@@ -41,8 +41,8 @@
 	  ],
 	  "image": {
 		"id": 41632,
-		"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-		"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+		"url": "/images/gramado2.webp",
+		"thumb_url": "/images/gramado2.webp"
 	  },
 	  "location": {
 		"id": 48797,
@@ -56,18 +56,83 @@
 		"country_long": "Brasil",
 		"country_short": "BR"
 	  },
+		"detalhesDoPacote": {
+			"aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional Salgado Filho (POA), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+			"bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+			"hospedagem": "Na cidade de Gramado ou Canela. O Hurb definirá a hospedagem, a partir da disponibilidade e tarifário promocional dos parceiros. As opções de hospedagem são econômicas e oferecem café da manhã.",
+			"diarias": "5 diárias em Gramado ou Canela.",
+			"observacoes": [
+				"O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+				"As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+				"Este pacote não inclui transfer.",
+				"Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+			],
+			"atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+		},
+		"infosAdicionais": {
+			"titulo": "Conheça seu destino",
+			"pacote": {
+				"titulo": "Pacote de Viagem para Gramado: Encantos da Serra Gaúcha",
+				"descricao": "Explore Gramado, um dos destinos mais charmosos do Brasil, conhecido por sua arquitetura inspirada na Europa, paisagens deslumbrantes e gastronomia incrível. Este pacote oferece uma experiência mágica na Serra Gaúcha."
+			},
+			"atracoes": {
+				"titulo": "Atrações Imperdíveis em Gramado e Região",
+				"descricao": "Gramado e Canela oferecem uma mistura encantadora de cultura, natureza e diversão. Confira as atrações que você não pode perder:",
+				"itens": [
+					{
+						"titulo": "Rua Coberta",
+						"descricao": "O coração de Gramado, perfeito para passeios, compras e aproveitar os melhores restaurantes e cafés da cidade."
+					},
+					{
+						"titulo": "Mini Mundo",
+						"descricao": "Um parque temático com réplicas em miniatura de construções do mundo todo, encantando crianças e adultos."
+					},
+					{
+						"titulo": "Catedral de Pedra",
+						"descricao": "Localizada em Canela, é uma das igrejas mais belas do Brasil, com arquitetura gótica impressionante e um charme único."
+					},
+					{
+						"titulo": "Lago Negro",
+						"descricao": "Um dos cartões-postais de Gramado, ideal para caminhadas, passeios de pedalinho e contato com a natureza."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "Hotéis em Destaque",
+				"itens": [
+					{
+						"nome": "Hotel Ritta Höppner",
+						"descricao": "Luxo e tradição no coração de Gramado, com jardins incríveis e hospitalidade excepcional."
+					},
+					{
+						"nome": "Hotel Laghetto Gramado",
+						"descricao": "Conforto e localização privilegiada, próximo às principais atrações da cidade."
+					},
+					{
+						"nome": "Hotel Casa da Montanha",
+						"descricao": "Com decoração temática e atmosfera acolhedora, este hotel é perfeito para uma experiência memorável na Serra Gaúcha."
+					}
+				]
+			},
+			"chamadaParaAcao": "Garanta já o seu pacote para Gramado e viva momentos mágicos na Serra Gaúcha!",
+			"informacoesImportantes": {
+				"titulo": "Informações Importantes da Localidade",
+				"itens": [
+					"O melhor período para visitar Gramado é entre novembro e janeiro, quando ocorre o Natal Luz, ou entre junho e agosto, durante o inverno, com temperaturas baixas e eventos temáticos.",
+					"Os preços variam conforme a temporada, com diversas opções de hospedagem para todos os perfis de viajantes.",
+					"A duração ideal de uma visita é de 4 a 7 dias, permitindo explorar todas as atrações e aproveitar a gastronomia local.",
+					"Gramado e Canela oferecem boa estrutura turística, incluindo transporte local, restaurantes e conectividade de internet."
+				]
+			}
+		},	
 	  "gallery": [
 		{
 		  "id": 49921,
-		  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+		  "url": "/images/gramado2.webp"
 		},
 		{
 		  "id": 43045,
-		  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-		},
-		{
-		  "id": 19843,
-		  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+		  "url": "/images/gramado3.webp"
 		}
 	  ],
 	  "reviews": [

@@ -2,7 +2,7 @@
 	{
 		"id": 65362,
 		"agentId": 2125,
-		"title": "Bariloche",
+		"title": "Pacote - Bariloche - Voo + Hotel - 2025",
 		"slug": "bariloche",
 		"content": "Em Bariloche, rodeado por paisagens deslumbrantes e lagos cristalinos, o Marlo & Sons oferece uma experiência única de gastronomia rústica. O restaurante é conhecido pelos seus vinhos sofisticados, coquetéis especiais e petiscos imperdíveis, como ostras frescas, queijos regionais e a deliciosa tortilha de batata. Além disso, o cardápio inclui saladas e sopas sazonais, o famoso frango na tijela, e um ambiente acolhedor iluminado por velas e decorado com diversos tipos de madeira. Um verdadeiro refúgio para quem deseja desfrutar de um clima de montanha e boa comida.",
 		"status": "rascunho",
@@ -41,8 +41,8 @@
 		],
 		"image": {
 			"id": 41632,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			"url": "/images/bariloche1.webp",
+			"thumb_url": "/images/bariloche1.webp"
 		},
 		"location": {
 			"id": 48797,
@@ -55,19 +55,82 @@
 			"state_short": "RN",
 			"country_long": "Argentina",
 			"country_short": "AR"
+		},    "detalhesDoPacote": {
+			"aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional Teniente Luis Candelaria (BRC), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+			"bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+			"hospedagem": "Em Bariloche, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e oferecem café da manhã.",
+			"diarias": "5 diárias em Bariloche.",
+			"observacoes": [
+				"O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+				"As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+				"Este pacote não inclui transfer.",
+				"Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+			],
+			"atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
 		},
-		"gallery": [
+		"infosAdicionais": {
+			"titulo": "Conheça seu destino",
+			"pacote": {
+				"titulo": "Pacote de Viagem para Bariloche: Neve e Encantos Andinos",
+				"descricao": "Descubra Bariloche, a joia da Patagônia argentina, conhecida por suas paisagens de montanha, lagos cristalinos e atividades de inverno. Um destino perfeito para quem busca natureza, aventura e charme alpino."
+			},
+			"atracoes": {
+				"titulo": "Atrações Imperdíveis em Bariloche",
+				"descricao": "Bariloche oferece uma combinação única de paisagens naturais e experiências culturais. Confira as principais atrações:",
+				"itens": [
+					{
+						"titulo": "Cerro Catedral",
+						"descricao": "Uma das maiores estações de esqui da América do Sul, ideal para esportes de inverno e trilhas durante o verão."
+					},
+					{
+						"titulo": "Circuito Chico",
+						"descricao": "Uma rota panorâmica que passa por paisagens deslumbrantes, incluindo o Lago Nahuel Huapi e o Hotel Llao Llao."
+					},
+					{
+						"titulo": "Cerro Otto",
+						"descricao": "Conheça o famoso teleférico que leva ao topo do Cerro Otto, onde você encontra vistas incríveis e um restaurante giratório."
+					},
+					{
+						"titulo": "Lago Nahuel Huapi",
+						"descricao": "Aproveite para fazer passeios de barco neste lago glacial de águas cristalinas, um dos ícones da região."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "Hotéis em Destaque",
+				"itens": [
+					{
+						"nome": "Hotel Llao Llao",
+						"descricao": "Luxo e exclusividade em um cenário deslumbrante, com infraestrutura completa para relaxamento e atividades ao ar livre."
+					},
+					{
+						"nome": "Hotel Panamericano Bariloche",
+						"descricao": "Conforto e elegância no centro de Bariloche, com fácil acesso às principais atrações da cidade."
+					},
+					{
+						"nome": "Hosteria del Lago",
+						"descricao": "Um refúgio aconchegante às margens do Lago Nahuel Huapi, perfeito para quem busca tranquilidade e contato com a natureza."
+					}
+				]
+			},
+			"chamadaParaAcao": "Garanta já o seu pacote para Bariloche e viva momentos inesquecíveis em meio às montanhas e à natureza da Patagônia!",
+			"informacoesImportantes": {
+				"titulo": "Informações Importantes da Localidade",
+				"itens": [
+					"O melhor período para visitar Bariloche é durante o inverno (junho a setembro) para aproveitar a neve, ou no verão (dezembro a março) para atividades ao ar livre.",
+					"Os preços variam conforme a temporada, com opções de hospedagem que atendem todos os tipos de viajantes.",
+					"A duração ideal de uma visita é de 5 a 7 dias, permitindo explorar as principais atrações e relaxar em meio à natureza.",
+					"Bariloche oferece uma boa infraestrutura turística, com transporte eficiente, internet confiável e uma ampla variedade de restaurantes e lojas especializadas em chocolates e artesanato local."
+				]
+			}
+		},"gallery": [
 			{
 				"id": 49921,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+				"url": "/images/bariloche2.webp"
 			},
 			{
 				"id": 43045,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-			},
-			{
-				"id": 19843,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+				"url": "/images/bariloche3.jpg"
 			}
 		],
 		"reviews": [],

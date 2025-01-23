@@ -2,7 +2,7 @@
 	{
 		"id": 65362,
 		"agentId": 2125,
-		"title": "Maceió",
+		"title": "Pacote - Maceió - Voo + Hotel - 2025 ou 2026",
 		"slug": "maceio",
 		"content": "Em Maceió, à beira-mar, o restaurante Marlo & Sons é um refúgio charmoso com ótimos vinhos, coquetéis sofisticados e deliciosos petiscos, como ostras frescas, queijos locais e uma saborosa tortilha de batata. Além disso, oferece saladas e sopas sazonais, o renomado frango na tijela e um ambiente aconchegante, com iluminação suave e decoração rústica, composta por diversos tipos de madeira, criando um ambiente acolhedor e único. Em muitos aspectos, Marlo & Sons é um lugar perfeito para relaxar e saborear pratos de qualidade.",
 		"status": "rascunho",
@@ -41,8 +41,8 @@
 		],
 		"image": {
 			"id": 41632,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			"url": "/images/maceio1.webp",
+			"thumb_url": "/images/maceio1.webp"
 		},
 		"location": {
 			"id": 48797,
@@ -55,19 +55,82 @@
 			"state_short": "AL",
 			"country_long": "Brasil",
 			"country_short": "BR"
+		},    "detalhesDoPacote": {
+			"aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Maceió — Zumbi dos Palmares (MCZ), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+			"bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+			"hospedagem": "Em Maceió, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e incluem café da manhã.",
+			"diarias": "5 diárias em Maceió.",
+			"observacoes": [
+				"O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+				"As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+				"Este pacote não inclui transfer.",
+				"Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+			],
+			"atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
 		},
-		"gallery": [
+		"infosAdicionais": {
+			"titulo": "Conheça seu destino",
+			"pacote": {
+				"titulo": "Pacote de Viagem para Maceió: O Paraíso das Águas",
+				"descricao": "Descubra Maceió, conhecida como o paraíso das águas cristalinas. Com suas praias deslumbrantes e uma rica cultura alagoana, este destino é ideal para quem busca descanso e belezas naturais incomparáveis."
+			},
+			"atracoes": {
+				"titulo": "Atrações Imperdíveis em Maceió",
+				"descricao": "Maceió encanta com praias paradisíacas, águas cristalinas e rica cultura local. Aproveite para explorar:",
+				"itens": [
+					{
+						"titulo": "Praia de Pajuçara",
+						"descricao": "Famosa por suas piscinas naturais, jangadas e barracas à beira-mar, é um dos cartões-postais de Maceió."
+					},
+					{
+						"titulo": "Praia do Gunga",
+						"descricao": "Com coqueirais exuberantes e um visual paradisíaco, é perfeita para quem busca tranquilidade e atividades aquáticas."
+					},
+					{
+						"titulo": "Praia de São Miguel dos Milagres",
+						"descricao": "Um refúgio natural com águas cristalinas, areias brancas e cenários tranquilos para relaxar."
+					},
+					{
+						"titulo": "Feira de Artesanato da Pajuçara",
+						"descricao": "Ideal para adquirir lembranças e produtos típicos, como rendas, artesanatos e doces locais."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "Hotéis em Destaque",
+				"itens": [
+					{
+						"nome": "Meridiano Hotel",
+						"descricao": "Um hotel de alto padrão, localizado na orla da Praia de Pajuçara, com vista incrível para o mar e infraestrutura completa."
+					},
+					{
+						"nome": "Ritz Lagoa da Anta Hotel & SPA",
+						"descricao": "Um resort completo, ideal para famílias, com piscinas, spa e localização privilegiada à beira-mar."
+					},
+					{
+						"nome": "Best Western Premier Maceió",
+						"descricao": "Conforto e sofisticação em frente à Praia de Pajuçara, com serviços de alta qualidade e localização estratégica."
+					}
+				]
+			},
+			"chamadaParaAcao": "Garanta já o seu pacote para Maceió e viva uma experiência inesquecível em um dos destinos mais paradisíacos do Brasil!",
+			"informacoesImportantes": {
+				"titulo": "Informações Importantes da Localidade",
+				"itens": [
+					"O melhor período para visitar Maceió é entre setembro e março, quando o clima é mais seco e as águas cristalinas.",
+					"Os preços variam conforme a temporada, com opções de hospedagem para diferentes estilos e orçamentos.",
+					"A duração ideal de uma visita é de 5 a 7 dias, permitindo conhecer as praias e pontos turísticos principais.",
+					"Maceió oferece boa infraestrutura turística, com restaurantes, transporte e excelente conectividade de internet."
+				]
+			}
+		},"gallery": [
 			{
 				"id": 49921,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+				"url": "/images/maceio2.webp"
 			},
 			{
 				"id": 43045,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-			},
-			{
-				"id": 19843,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+				"url": "/images/maceio3.webp"
 			}
 		],
 		"reviews": [

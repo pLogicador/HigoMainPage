@@ -1,48 +1,115 @@
 [
-    {
-      "id": 65362,
-      "agentId": 2125,
-      "title": "Pacote - Salvador + Morro de São Paulo - Voo + Hotel - 2025",
-      "slug": "morro-de-sao-paulo",
-      "status": "rascunho",
-      "price": "1.290",
-      "isNegotiable": true,
-      "propertyType": "Hotel",
-      "condition": "Excelente",
-      "rating": 5,
-      "ratingCount": 35,
-      "contactNumber": "1-403-000-9038 x910",
-      "amenities": [
-
+  {
+    "id": 65362,
+    "agentId": 2125,
+    "title": "Pacote - Salvador + Morro de São Paulo - Voo + Hotel - 2025",
+    "slug": "morro-de-sao-paulo",
+    "status": "rascunho",
+    "price": "1.290",
+    "isNegotiable": true,
+    "propertyType": "Hotel",
+    "condition": "Excelente",
+    "rating": 5,
+    "ratingCount": 35,
+    "contactNumber": "1-403-000-9038 x910",
+    "amenities": [],
+    "image": {
+      "id": 41632,
+      "url": "/images/Morro-de-Sao-Paulo-1-jpg.webp",
+      "thumb_url": "/images/Morro-de-Sao-Paulo-1-jpg.webp"
+    },
+    "location": {
+      "id": 48797,
+      "lat": -13.4231,
+      "lng": -38.9446,
+      "formattedAddress": "Morro de São Paulo, Bahia, Brasil",
+      "zipcode": "45428-000",
+      "city": "Morro de São Paulo",
+      "state_long": "Bahia",
+      "state_short": "BA",
+      "country_long": "Brasil",
+      "country_short": "BR"
+    },
+    "detalhesDoPacote": {
+      "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional de Salvador — Deputado Luís Eduardo Magalhães (SSA), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+      "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+      "hospedagem": "Em Salvador e em Morro de São Paulo. O Hurb definirá a hospedagem, a partir da disponibilidade e tarifário promocional dos parceiros. As opções de hospedagem são econômicas e oferecem café da manhã.",
+      "diarias": "2 diárias em Salvador + 3 diárias em Morro de São Paulo.",
+      "observacoes": [
+        "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+        "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+        "Este pacote não inclui transfer.",
+        "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
       ],
-      "image": {
-        "id": 41632,
-        "url": "/images/morro-de-sao-paulo.jpg",
-        "thumb_url": "/images/morro-de-sao-paulo.jpg"
+      "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+    },
+    "infosAdicionais": {
+      "titulo": "Conheça seu destino",
+      "pacote": {
+        "titulo": "Pacote de Viagem para Salvador e Morro de São Paulo: Cultura e Praias Paradisíacas",
+        "descricao": "Descubra Salvador, a capital histórica e cultural do Brasil, e Morro de São Paulo, um dos destinos de praia mais incríveis da Bahia. Este pacote combina o melhor da rica herança cultural de Salvador com as praias deslumbrantes e tranquilidade de Morro de São Paulo, oferecendo uma viagem inesquecível."
       },
-      "location": {
-        "id": 48797,
-        "lat": -13.4231,
-        "lng": -38.9446,
-        "formattedAddress": "Morro de São Paulo, Bahia, Brasil",
-        "zipcode": "45428-000",
-        "city": "Morro de São Paulo",
-        "state_long": "Bahia",
-        "state_short": "BA",
-        "country_long": "Brasil",
-        "country_short": "BR"
+      "atracoes": {
+        "titulo": "Atrações Imperdíveis em Salvador e Morro de São Paulo",
+        "descricao": "Esses dois destinos encantadores proporcionam uma mistura perfeita de cultura, história e natureza. Aproveite para explorar as seguintes atrações:",
+        "itens": [
+          {
+            "titulo": "Pelourinho",
+            "descricao": "Em Salvador, o centro histórico é um Patrimônio Mundial da UNESCO, com suas igrejas barrocas, casarios coloniais e uma atmosfera cheia de vida e história."
+          },
+          {
+            "titulo": "Elevador Lacerda",
+            "descricao": "Um dos principais cartões-postais de Salvador, que liga a cidade alta à cidade baixa, oferecendo uma vista incrível da Baía de Todos os Santos."
+          },
+          {
+            "titulo": "Primeira Praia",
+            "descricao": "Em Morro de São Paulo, esta praia é famosa por suas águas cristalinas, sendo ideal para relaxar e praticar esportes aquáticos."
+          },
+          {
+            "titulo": "Quarta Praia",
+            "descricao": "Com piscinas naturais e uma paisagem intocada, essa é uma das praias mais tranquilas de Morro de São Paulo, perfeita para quem busca contato direto com a natureza."
+          }
+        ]
       },
-      "gallery": [
-        {
-          "id": 49921,
-          "url": "/images/morro-de-sao-paulo.jpg"
-        },
-        {
-          "id": 43045,
-          "url": "/images/Morro_de_São_Paulo_Mirante.jpg"
-        }
-      ],
-      "createdAt": "2019-01-21T23:53:06.114Z",
-      "updatedAt": "2019-01-23T00:38:13.199Z"
-    }
-  ]  
+      "hoteis": {
+        "titulo": "Hotéis em Destaque",
+        "itens": [
+          {
+            "nome": "Hotel Fasano Salvador",
+            "descricao": "Luxo e sofisticação no coração do centro histórico, com vistas espetaculares da Baía de Todos-os-Santos."
+          },
+          {
+            "nome": "Hotel Morro da Saudade",
+            "descricao": "Situado em Morro de São Paulo, este hotel oferece uma atmosfera relaxante e proximidade às melhores praias da região, sendo ideal para quem deseja tranquilidade e conforto."
+          },
+          {
+            "nome": "Hotel Casa do Amarelindo",
+            "descricao": "Um refúgio encantador no coração do Pelourinho, perfeito para quem deseja uma experiência mais íntima e cultural."
+          }
+        ]
+      },
+      "chamadaParaAcao": "Garanta já o seu pacote para Salvador e Morro de São Paulo, e viva uma experiência única que une história, cultura e praias paradisíacas!",
+      "informacoesImportantes": {
+        "titulo": "Informações Importantes da Localidade",
+        "itens": [
+          "O melhor período para visitar Salvador e Morro de São Paulo é entre dezembro e março, quando as temperaturas estão mais altas e a cidade celebra o Carnaval.",
+          "Os preços variam conforme a temporada, com diversas opções de hospedagem para todos os perfis de viajantes.",
+          "A duração ideal de uma visita é de 6 a 8 dias, permitindo tempo suficiente para explorar Salvador e relaxar nas praias de Morro de São Paulo.",
+          "Salvador e Morro de São Paulo oferecem boa conectividade de internet e transporte, facilitando o deslocamento e a comunicação durante a sua estadia."
+        ]
+      }
+    },
+    "gallery": [
+      {
+        "id": 49921,
+        "url": "/public/images/Morro-de-Sao-Paulo-2-jpg.webp"
+      },
+      {
+        "id": 43045,
+        "url": "/public/images/Morro-de-Sao-Paulo-3-jpg.webp"
+      }
+    ],
+    "createdAt": "2019-01-21T23:53:06.114Z",
+    "updatedAt": "2019-01-23T00:38:13.199Z"
+  }
+]

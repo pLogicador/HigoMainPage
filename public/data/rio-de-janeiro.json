@@ -2,7 +2,7 @@
 	{
 	  "id": 65362,
 	  "agentId": 2125,
-	  "title": "Rio de Janeiro",
+	  "title": "Pacote - Rio de Janeiro - Voo + Hotel - 2025",
 	  "slug": "rio-de-janeiro",
 	  "content": "No bairro de Lapa, a poucos minutos da Praia de Copacabana, o Marlo & Sons é um refúgio rústico com excelentes vinhos, coquetéis criativos e petiscos incríveis, como ostras, queijos locais e tortilha de batata. Além disso, há saladas e sopas sazonais, o famoso frango na tijela e um ambiente à luz de velas, decorado com diferentes tipos de madeira. Uma verdadeira experiência carioca.",
 	  "status": "rascunho",
@@ -41,8 +41,8 @@
 	  ],
 	  "image": {
 		"id": 41632,
-		"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-		"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+		"url": "/images/RJ1.webp",
+		"thumb_url": "/images/RJ1.webp"
 	  },
 	  "location": {
 		"id": 48797,
@@ -55,19 +55,83 @@
 		"state_short": "RJ",
 		"country_long": "Brasil",
 		"country_short": "BR"
-	  },
+	  },"detalhesDoPacote": {
+        "aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional do Galeão — Tom Jobim (GIG), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+        "bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+        "hospedagem": "Na cidade do Rio de Janeiro. O Hurb definirá a hospedagem, a partir da disponibilidade e tarifário promocional dos parceiros. As opções de hospedagem são econômicas e oferecem café da manhã.",
+        "diarias": "5 diárias no Rio de Janeiro.",
+        "observacoes": [
+            "O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+            "As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+            "Este pacote não inclui transfer.",
+            "Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+        ],
+        "atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
+    },
+    "infosAdicionais": {
+        "titulo": "Conheça seu destino",
+        "pacote": {
+            "titulo": "Pacote de Viagem para o Rio de Janeiro: Cultura, Natureza e Praias Incríveis",
+            "descricao": "Descubra o Rio de Janeiro, a Cidade Maravilhosa, famosa por sua combinação única de paisagens naturais deslumbrantes, praias icônicas e uma cultura vibrante. Este pacote oferece uma experiência inesquecível no destino mais visitado do Brasil."
+        },
+        "atracoes": {
+            "titulo": "Atrações Imperdíveis no Rio de Janeiro",
+            "descricao": "O Rio de Janeiro oferece uma mistura perfeita de cultura, história e belezas naturais. Não deixe de explorar as seguintes atrações:",
+            "itens": [
+                {
+                    "titulo": "Cristo Redentor",
+                    "descricao": "Uma das Novas Sete Maravilhas do Mundo, o Cristo Redentor é um símbolo do Rio e oferece uma vista incrível da cidade."
+                },
+                {
+                    "titulo": "Pão de Açúcar",
+                    "descricao": "O passeio de bondinho é uma experiência inesquecível, com vistas deslumbrantes da Baía de Guanabara."
+                },
+                {
+                    "titulo": "Praia de Copacabana",
+                    "descricao": "Uma das praias mais famosas do mundo, perfeita para relaxar, caminhar e aproveitar a atmosfera carioca."
+                },
+                {
+                    "titulo": "Lapa e seus Arcos",
+                    "descricao": "Centro da vida noturna carioca, a Lapa é conhecida pelos Arcos históricos e pelos bares e restaurantes animados."
+                }
+            ]
+        },
+        "hoteis": {
+            "titulo": "Hotéis em Destaque",
+            "itens": [
+                {
+                    "nome": "Hotel Fasano Rio de Janeiro",
+                    "descricao": "Luxo e sofisticação na Praia de Ipanema, com vistas incríveis do mar e serviços exclusivos."
+                },
+                {
+                    "nome": "Hotel Windsor Marapendi",
+                    "descricao": "Localizado na Barra da Tijuca, este hotel combina conforto e proximidade das praias e dos melhores shoppings."
+                },
+                {
+                    "nome": "Hotel Santa Teresa MGallery",
+                    "descricao": "Um refúgio charmoso e elegante no coração de Santa Teresa, ideal para quem busca exclusividade e tranquilidade."
+                }
+            ]
+        },
+        "chamadaParaAcao": "Garanta já o seu pacote para o Rio de Janeiro e viva uma experiência única na Cidade Maravilhosa!",
+        "informacoesImportantes": {
+            "titulo": "Informações Importantes da Localidade",
+            "itens": [
+                "O melhor período para visitar o Rio de Janeiro é entre dezembro e março, quando as temperaturas estão mais altas e a cidade celebra o Carnaval.",
+                "Os preços variam conforme a temporada, com diversas opções de hospedagem para todos os perfis de viajantes.",
+                "A duração ideal de uma visita é de 4 a 7 dias, permitindo tempo suficiente para explorar as principais atrações e relaxar nas praias.",
+                "O Rio de Janeiro oferece boa conectividade de internet e transporte, facilitando o deslocamento e a comunicação durante a sua estadia."
+            ]
+        }
+    },
 	  "gallery": [
 		{
 		  "id": 49921,
-		  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+		  "url": "/images/RJ1.webp"
 		},
 		{
 		  "id": 43045,
-		  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-		},
-		{
-		  "id": 19843,
-		  "url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+		  "url": "/images/RJ2.webp"
 		}
 	  ],
 	  "reviews": [

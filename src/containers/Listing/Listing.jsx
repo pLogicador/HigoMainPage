@@ -43,9 +43,9 @@ export default function Listing() {
           }
           right={
             <ShowMapCheckbox>
-              <Checkbox defaultChecked={false} onChange={handleMapToggle}>
+              {/* <Checkbox defaultChecked={false} onChange={handleMapToggle}>
                 Mostrar mapa
-              </Checkbox>
+              </Checkbox> */}
             </ShowMapCheckbox>
           }
         />

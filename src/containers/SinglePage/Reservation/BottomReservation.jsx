@@ -19,7 +19,7 @@ const BottomReservation = ({ title, price, rating, ratingCount }) => {
         }
         action={
           <Button type="primary" onClick={() => setVisible(true)}>
-            Book
+            Comprar
           </Button>
         }
       />

@@ -2,7 +2,7 @@
 	{
 		"id": 65362,
 		"agentId": 2125,
-		"title": "Florianopolis",
+		"title": "Pacote - Florianópolis - Voo + Hotel - 2025",
 		"slug": "florianopolis",
 		"content": "Florianópolis é um destino encantador, famoso por suas praias paradisíacas, vida noturna agitada e culinária deliciosa. A cidade oferece uma grande variedade de opções para quem deseja relaxar ou se aventurar, desde praias tranquilas até trilhas e atividades ao ar livre. A culinária local é rica em frutos do mar, com destaque para pratos como a sequência de camarão e a famosa tainha recheada. Além disso, o centro histórico de Florianópolis com suas ruas coloniais e mercados típicos é uma ótima opção para quem busca conhecer mais da cultura local.",
 		"status": "rascunho",
@@ -41,33 +41,96 @@
 		],
 		"image": {
 			"id": 41632,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-1_thumb.jpg"
+			"url": "/images/floripa1.webp",
+			"thumb_url": "/images/floripa1.webp"
 		},
 		"location": {
 			"id": 48797,
 			"lat": 40.706877,
 			"lng": -74.011265,
-			"formattedAddress": "Brooklyn, Nova York, Estados Unidos da América",
+			"formattedAddress": "Florianópolis, Santa Catarina, Brasil",
 			"zipcode": "10001",
-			"city": "Brooklyn",
-			"state_long": "Nova York",
-			"state_short": "NY",
-			"country_long": "Estados Unidos da América",
-			"country_short": "EUA"
+			"city": "Florianópolis",
+			"state_long": "Santa Catarina",
+			"state_short": "SC",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},    "detalhesDoPacote": {
+			"aereo": "Passagens aéreas de ida e volta - Aeroporto Internacional Hercílio Luz (FLN), em classe econômica, podendo haver conexão e/ou escala nos trechos, de acordo com a disponibilidade promocional.",
+			"bagagem": "O tamanho, o peso e a quantidade de bagagens permitidas varia de acordo com cada companhia aérea. Consulte as informações sobre as bagagens (no site da companhia aérea) após a reserva das passagens aéreas do seu pacote. O Hurb não realiza a venda do despacho de bagagens extras.",
+			"hospedagem": "Em Florianópolis, com opções definidas pelo Hurb, a partir da disponibilidade e tarifário promocional dos parceiros. As hospedagens são econômicas e incluem café da manhã.",
+			"diarias": "5 diárias em Florianópolis.",
+			"observacoes": [
+				"O parcelamento no boleto pode ser maior que o número de meses faltantes para o embarque. É necessário antecipar o pagamento das parcelas para que a viagem ocorra no mês selecionado.",
+				"As diárias são contabilizadas pelas noites dormidas a partir da chegada no hotel/pousada.",
+				"Este pacote não inclui transfer.",
+				"Por ser um pacote promocional, o Hurb não realiza personalizações como redução do número de diárias, troca de cidade de origem ou destino, e venda do despacho de bagagens extras."
+			],
+			"atividadeDestino": "Quer fazer alguma atividade no destino? Consulte nossas opções!"
 		},
-		"gallery": [
+		"infosAdicionais": {
+			"titulo": "Conheça seu destino",
+			"pacote": {
+				"titulo": "Pacote de Viagem para Florianópolis: Praias e Natureza Deslumbrante",
+				"descricao": "Descubra Florianópolis, a famosa Ilha da Magia, conhecida por suas praias paradisíacas, natureza exuberante e uma mistura de cultura e modernidade que encanta todos os visitantes."
+			},
+			"atracoes": {
+				"titulo": "Atrações Imperdíveis em Florianópolis",
+				"descricao": "Florianópolis oferece uma variedade de atrações que combinam praias deslumbrantes, história e cultura. Aproveite para explorar:",
+				"itens": [
+					{
+						"titulo": "Praia da Joaquina",
+						"descricao": "Famosa pelas dunas e pelas ondas perfeitas para o surfe, é um dos cartões-postais da ilha."
+					},
+					{
+						"titulo": "Lagoa da Conceição",
+						"descricao": "Um dos pontos mais charmosos da ilha, ideal para esportes aquáticos, caminhadas e desfrutar da gastronomia local."
+					},
+					{
+						"titulo": "Centro Histórico",
+						"descricao": "Explore o Mercado Público, a Praça XV de Novembro e a Catedral Metropolitana, que mostram a história e a cultura de Florianópolis."
+					},
+					{
+						"titulo": "Ilha do Campeche",
+						"descricao": "Uma ilha paradisíaca com águas cristalinas e trilhas arqueológicas, acessível por barco."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "Hotéis em Destaque",
+				"itens": [
+					{
+						"nome": "Majestic Palace Hotel",
+						"descricao": "Com vista para a Baía Norte, oferece luxo, conforto e uma localização privilegiada no centro da cidade."
+					},
+					{
+						"nome": "Hotel Costa Norte Ingleses",
+						"descricao": "Situado na Praia dos Ingleses, é perfeito para quem busca relaxar em frente ao mar com excelente infraestrutura."
+					},
+					{
+						"nome": "Hotel Boutique Quinta das Videiras",
+						"descricao": "Localizado na Lagoa da Conceição, este hotel oferece charme, exclusividade e atendimento personalizado."
+					}
+				]
+			},
+			"chamadaParaAcao": "Garanta já o seu pacote para Florianópolis e viva dias incríveis na Ilha da Magia!",
+			"informacoesImportantes": {
+				"titulo": "Informações Importantes da Localidade",
+				"itens": [
+					"O melhor período para visitar Florianópolis é entre dezembro e março, quando as temperaturas estão mais altas e o clima é ideal para aproveitar as praias.",
+					"Os preços variam conforme a temporada, com opções de hospedagem para diferentes perfis de viajantes.",
+					"A duração ideal de uma visita é de 5 a 7 dias, permitindo conhecer as principais praias e atrações da ilha.",
+					"Florianópolis possui boa infraestrutura turística, transporte público eficiente e excelente conectividade de internet."
+				]
+			}
+		},"gallery": [
 			{
 				"id": 49921,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single2.jpg"
+				"url": "/images/floripa2.webp"
 			},
 			{
 				"id": 43045,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single3.jpg"
-			},
-			{
-				"id": 19843,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-single4.jpg"
+				"url": "/images/floripa3.webp"
 			}
 		],
 		"reviews": [],
