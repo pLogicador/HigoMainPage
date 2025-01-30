@@ -77,39 +77,148 @@ const SinglePage = () => {
     },
     {
       title: "Fiz a compra, e agora?",
-      content: "Após a compra, você receberá um e-mail com a confirmação e as próximas etapas. Caso não receba, entre em contato conosco."
-    },
+      content: [
+        <>
+        Escolha as datas da sua viagem: Após a compra, você receberá um e-mail com um link para preencher o formulário e sugerir 3 datas para sua viagem. Acesse também pela sua Conta HIGO.
+        <br />
+        Como escolher: Selecione 3 datas com pelo menos 5 dias de intervalo entre elas. A primeira data deve ser no mínimo 60 dias após o preenchimento do formulário (ou 60 dias após o vencimento do último boleto, se pagou no boleto parcelado). Exemplo: Se você preencher o formulário em 15/03, a primeira data possível será 14/05.
+        <br />
+        Alterações: Você pode alterar as datas sugeridas a qualquer momento na sua Conta HIGO. Lembre-se de que o prazo mínimo entre as alterações é de 60 dias. Atenção: Após a confirmação do voo, alterações só serão possíveis em casos excepcionais e poderão gerar custos adicionais.
+        </>
+      ]
+    },    
     {
       title: "Confirmação da viagem",
-      content: "A confirmação da viagem será enviada por e-mail com todos os detalhes, incluindo horários e locais de encontro."
+      content: "Após o envio do formulário ao HIGO, você receberá a confirmação da sua solicitação e os ingressos para a utilização em até 7 dias antes da data escolhida. É importante ressaltar que, em caso de lotação do passeio na data selecionada ou indisponibilidade da atividade devido a restrições de dias da semana, entraremos em contato para oferecer novas opções de data ou, caso prefira, efetuaremos a devolução integral do valor pago."
     },
     {
       title: "Política de cancelamento e multas",
-      content: "O cancelamento pode ser feito até 7 dias antes da viagem sem custo. Após esse período, multas poderão ser aplicadas conforme os termos do contrato."
+      content: [
+        <>
+          Precisando cancelar sua viagem? Acesse sua Conta HIGO e solicite o cancelamento do seu pacote. Quanto antes você cancelar, menor será a taxa cobrada.
+          <br />
+          Importante: As regras de reembolso variam de acordo com o momento do cancelamento. Consulte nossas políticas para mais detalhes sobre as multas que podem ser aplicadas.
+        </>
+      ]
+    },
+    {
+      title: "Para sua comodidade",
+      content: [
+        <>
+        Acesso fácil: Encontre a opção de cancelamento diretamente na sua Conta HIGO.
+        <br />
+        Clareza: Entenda as regras de reembolso de forma simples e objetiva.
+        <br />
+        Agilidade: Quanto mais cedo você cancelar, menores serão as possíveis taxas.
+        <br />
+        Lembre-se: Após a confirmação do voo, as regras de cancelamento podem mudar. Consulte nossas políticas para mais detalhes.
+
+        </>
+      ]
     },
     {
       title: "Taxas",
-      content: "As taxas aplicáveis incluem impostos e encargos administrativos, que serão detalhados no momento da compra."
+      content: [
+        <>
+        Taxas Adicionais: A taxa de serviço do HIGO é aplicada sobre o valor total do pacote no momento da compra. Demais taxas, como impostos locais, taxas de resort e outras, são de responsabilidade do cliente e devem ser pagas diretamente aos respectivos fornecedores ou órgãos públicos. O HIGO não se responsabiliza pelo cálculo, cobrança ou quitação dessas taxas adicionais.
+        <br />
+        Informação sobre Taxas: O HIGO disponibiliza as informações sobre taxas adicionais de que tem conhecimento para auxiliar o cliente na tomada de decisão. No entanto, a exatidão e atualização dessas informações não são garantidas, pois são fornecidas pelos próprios fornecedores ou autoridades.
+        <br />
+        Responsabilidade do Cliente: Ao adquirir um pacote, o cliente concorda em arcar com todas as taxas adicionais aplicáveis, conforme exigido pelos fornecedores ou autoridades competentes. É responsabilidade do cliente buscar informações atualizadas sobre essas taxas e efetuar os pagamentos diretamente aos responsáveis.
+        <br />
+        Isenção de Responsabilidade: O HIGO não se responsabiliza por quaisquer inconvenientes, prejuízos ou disputas relacionados a taxas adicionais, incluindo cobranças indevidas, alterações nas taxas ou divergências sobre sua aplicação. O cliente isenta o HIGO de qualquer responsabilidade financeira relacionada a essas taxas.
+        </>
+      ]
     },
     {
       title: "Formas de Pagamento",
-      content: "Aceitamos cartões de crédito, débito, PIX e boleto bancário. Parcelamento disponível conforme condições da operadora."
+      content: [
+        <>
+        Cartão de crédito:
+        <br />
+        Flexibilidade: Use até 2 cartões e parcele em até 12x.
+        Praticidade: Ideal para quem prefere o pagamento parcelado.
+        Clientes Apple Pay e Samsung Pay: Pagamento rápido e seguro.
+        Importante: Pode haver cobrança de juros, sempre informada antes da compra.
+        <br />
+        <br />
+        Boleto à vista:
+        <br />
+
+        Simples e seguro: Pagamento único, sem complicações.
+        <br />
+        Compensação rápida: Aprovação em até 3 dias úteis.
+        <br />
+        Atenção: Pagamento deve ser feito até a data de vencimento.
+        <br />
+        <br />
+        Pix:
+        <br />
+        Agilidade: Pagamento instantâneo e aprovação em até 4 horas.
+        <br />
+        Praticidade: Utilize o QR Code ou código Pix para finalizar a compra.
+        <br />
+        Importante: Código válido por 20 minutos.
+        <br />
+        <br />
+        HIGO Créditos:
+        <br />
+
+        Utilize seus créditos: Pague total ou parcialmente com seus HIGO Créditos.
+        <br />
+        Validade: Verifique a validade dos seus créditos antes de finalizar a compra.
+        <br />
+        <br />
+        Boleto parcelado:
+        <br />
+
+        Sem consulta: Sem consulta ao SPC e Serasa.
+        <br />
+        Flexibilidade: Parcelamento de acordo com a oferta.
+        <br />
+        Importante: Pode haver cobrança de juros, sempre informada antes da compra.
+        <br />
+        Importante sobre o boleto parcelado:
+        <br />
+        Primeira parcela: Deve ser paga em até 7 dias após a compra. Caso contrário, o pedido será cancelado e o valor pago convertido em HIGO Créditos.
+        <br />
+        Atraso em 3 parcelas: O pacote será cancelado e o valor pago convertido em HIGO Créditos com validade de 1 ano.
+
+        </>
+      ]
     },
     {
       title: "Validade",
-      content: "Os bilhetes possuem validade de acordo com a data da viagem escolhida. Não são transferíveis."
+      content: "Planeje sua viagem: Seu pacote é válido de 01 de agosto a 30 de novembro de 2026, exceto em feriados e alta temporada (janeiro a julho e dezembro). Para garantir sua viagem, sugerimos datas dentro do período de validade. Caso precise ajustar as datas, basta acessar seu formulário de viagem. Após a data de validade, o pacote expira."
     },
     {
       title: "Viagens individuais ou em grupo",
-      content: "Oferecemos opções para viagens individuais ou em grupo, com descontos para grupos acima de 10 pessoas."
+      content: [
+        <>
+        Viagem individual: Viaje como preferir! Adicione 40% ao valor do pacote e informe no formulário.
+        <br />
+        Viagem em grupo: Reúna seus amigos e familiares! Compre pacotes iguais e informe os números dos pedidos no formulário. Faremos o possível para acomodar todos no mesmo voo e hotel.
+        </>
+      ]
     },
     {
       title: "Regras para crianças",
-      content: "Crianças de até 2 anos viajam gratuitamente no colo. Acima dessa idade, é necessário adquirir uma passagem."
+      content: "Crianças de até 2 anos incompletos não pagam passagem aérea em voos nacionais. Em voos internacionais, pagam 10% do valor da tarifa do adulto. "
     },
     {
       title: "Documentação para a viagem",
-      content: "Os documentos necessários incluem RG ou passaporte válido. Para menores de idade, consulte as regras específicas."
+      content: [
+        <>
+Sua responsabilidade: É fundamental que você tenha todos os documentos necessários para a viagem. O HIGO não se responsabiliza por impedimentos de embarque causados pela falta de documentação.
+<br />
+Documentação comum:
+<br />
+<br />
+Carteira de Identidade (RG) ou Carteira Nacional de Habilitação (CNH): Válida e com foto.
+<br />
+Certidão de Nascimento: Para crianças menores de 12 anos. A partir dessa idade, é necessário apresentar1 o RG ou outro documento oficial com foto.
+        </>
+      ]
     }
   ];
   

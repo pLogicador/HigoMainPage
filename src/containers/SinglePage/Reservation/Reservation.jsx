@@ -67,6 +67,10 @@ export default function Reservation() {
         { slug: 'Marinas-Maceio-Hotel', price: '216' },
         { slug: 'Marina-Park-Hotel', price: '342' },
         { slug: 'Sun-Bay-Pipa-Hotéis', price: '165' },
+        { slug: 'Safira-Praia-Hotel', price: '171' },
+        { slug: 'Marezzi-Hotel', price: '92' },
+        { slug: 'Natal-Praia-Hotel', price: '87' },
+        { slug: 'Malibu-Plaza-Hotel', price: '175' },
       ];
 
       // Busca o pacote pelo slug

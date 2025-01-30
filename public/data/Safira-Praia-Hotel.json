@@ -1,0 +1,121 @@
+[
+	{
+		"id": 63288,
+		"agentId": 38076,
+		"title": "Safira Praia Hotel",
+		"slug": "Safira-Praia-Hotel",
+		"content": "",
+		"status": "publish",
+		"price": "165",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 150,
+		"contactNumber": "+55 21 3202-4000",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": true
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 52861,
+			"url": "/images/safira1.jpg",
+			"thumb_url": "/images/safira1.jpg"
+		},
+		"location": {
+			"id": 23076,
+			"lat": 51.5055,
+			"lng": -0.1473,
+			"formattedAddress": "Avenida do Coqueiral, 540 - Porto Seguro, Bahia - Brasil - 45810000",
+			"zipcode": "45810000",
+			"city": "Porto Seguro",
+			"state_long": "Bahia",
+			"state_short": "BH",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},"infosAdicionais": {
+			"titulo": "Ficou com alguma dúvida sobre o hotel?",
+			"pacote": {
+				"titulo": "A que distância Sun Bay Pipa Hotéis fica de Praia de Pipa?",
+				"descricao": "A distância de Sun Bay Pipa Hotéis até Praia de Pipa é de 2.2km."
+			},
+			"atracoes": {
+				"titulo": "",
+				"descricao": "",
+				"itens": [
+					{
+						"titulo": "Onde fica o Safira Praia Hotel?",
+						"descricao": "O Safira Praia Hotel está localizado na Praia de Taperapuan, a 500 metros da Orla da praia mais famosa de Porto Seguro, três quadras do Axé Moí."
+					},
+					{
+						"titulo": "Quais serviços são oferecidos no Safira Praia Hotel?",
+						"descricao": "O Safira Praia Hotel oferece acesso gratuito à internet sem fio Wi-Fi nas áreas sociais, café da manhã, estacionamento e recepção 24 horas. Aceita os principais cartões de crédito."
+					},
+					{
+						"titulo": "Quais são as acomodações do Safira Praia Hotel?",
+						"descricao": "Os apartamentos do Safira Praia Hotel são equipados com TV a cabo, ar condicionado, frigobar, cofre, telefone, fechadura eletrônica e secador de cabelo."
+					},
+					{
+						"titulo": "Quais são as comodidades do Safira Praia Hotel?",
+						"descricao": "O Safira Praia Hotel possui piscinas adulto e infantil, hidromassagem na área externa, sauna a vapor, sala de ginastica, salão de jogos e copa baby."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "",
+				"itens": [
+                    {
+						"nome": "· Quais atrações estão próximas ao Safira Praia Hotel?",
+						"descricao": "O Safira Praia Hotel fica a apenas 15 minutos do Aeroporto de Porto Seguro."
+					}
+				]
+			},
+			"chamadaParaAcao": " ",
+			"informacoesImportantes": {
+				"titulo": "",
+				"itens": [
+					"",
+					"",
+					"",
+					""
+				]
+			}
+		},
+		"gallery": [
+			{
+				"id": 98348,
+				"url": "/images/safira2.webp"
+			},
+			{
+				"id": 10832,
+				"url": "/images/safira3.webp"
+			}
+		]
+	}
+]

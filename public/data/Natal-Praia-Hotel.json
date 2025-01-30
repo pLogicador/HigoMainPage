@@ -1,0 +1,121 @@
+[
+	{
+		"id": 63288,
+		"agentId": 38076,
+		"title": "Natal Praia Hotel",
+		"slug": "Natal-Praia-Hotel",
+		"content": "",
+		"status": "publish",
+		"price": "87",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 150,
+		"contactNumber": "+55 21 3202-4000",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": true
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 14297,
+			"url": "/images/NatalPraia1.webp",
+			"thumb_url": "/images/NatalPraia1.webp"
+		},
+		"location": {
+			"id": 93702,
+			"lat": -33.8688,
+			"lng": 151.2093,
+			"formattedAddress": "Av Gov Silvio Pedroza, 19 - Natal, Rio Grande do Norte - Brasil - 59014100",
+			"zipcode": "59014100",
+			"city": "Natal",
+			"state_long": "Rio Grande do Norte",
+			"state_short": "RN",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},"infosAdicionais": {
+			"titulo": "Ficou com alguma dúvida sobre o hotel?",
+			"pacote": {
+				"titulo": "",
+				"descricao": ""
+			},
+			"atracoes": {
+				"titulo": "",
+				"descricao": "",
+				"itens": [
+					{
+						"titulo": "A que distância Natal Praia Hotel fica de Forte dos Reis Magos?",
+						"descricao": "A distância de Natal Praia Hotel até Forte dos Reis Magos é de 3.1km."
+					},
+					{
+						"titulo": "A que distância Natal Praia Hotel fica de Midway Mall Shopping?",
+						"descricao": "A distância de Natal Praia Hotel até Midway Mall Shopping é de 3.5km."
+					},
+					{
+						"titulo": "A que distância Natal Praia Hotel fica de Arena das Dunas?",
+						"descricao": "A distância de Natal Praia Hotel até Arena das Dunas é de 5.3km."
+					},
+					{
+						"titulo": "Onde fica o Natal Praia Hotel??",
+						"descricao": "O Natal Praia Hotel fica na área de Areia Preta, a apenas alguns passos de Praia do Meio e de Praia do Artista. Está a 9,3 km de Praia de Ponta Negra e a 0,3 km de Feira de Artesanato da Praia dos Artistas Praia do Meio."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "",
+				"itens": [
+                    {
+						"nome": "· Quais são as comodidades oferecidas pelo Natal Praia Hotel?",
+						"descricao": "O Natal Praia Hotel oferece Wi-Fi de cortesia, programas a cabo para sua diversão, telefones, serviço de arrumação nos quartos diariamente, chuveiros e secadores de cabelo nos banheiros, geladeiras e frigobares nos quartos e ar-condicionado."
+					}
+				]
+			},
+			"chamadaParaAcao": " ",
+			"informacoesImportantes": {
+				"titulo": "",
+				"itens": [
+					"",
+					"",
+					"",
+					""
+				]
+			}
+		},
+		"gallery": [
+			{
+				"id": 35180,
+				"url": "/images/NatalPraia2.webp"
+			},
+			{
+				"id": 27573,
+				"url": "/images/NatalPraia3.webp"
+			}
+		]
+	}
+]

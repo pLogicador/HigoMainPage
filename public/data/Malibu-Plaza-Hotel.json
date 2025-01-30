@@ -1,0 +1,121 @@
+[
+	{
+		"id": 63288,
+		"agentId": 38076,
+		"title": "Malibu Plaza Hotel",
+		"slug": "Malibu-Plaza-Hotel",
+		"content": "",
+		"status": "publish",
+		"price": "175",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 150,
+		"contactNumber": "+55 21 3202-4000",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": true
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 22340,
+			"url": "/images/malibu1.webp",
+			"thumb_url": "/images/malibu1.webp"
+		},
+		"location": {
+			"id": 93702,
+			"lat": -33.8688,
+			"lng": 151.2093,
+			"formattedAddress": "Av. Praia de Itapoan, s/n qd 19, Lote 12 Vilas do Atlântico - Lauro De Freitas, Bahia - Brasil - 42700000",
+			"zipcode": "42700000",
+			"city": "Lauro De Freitas",
+			"state_long": "Bahia",
+			"state_short": "BA",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},"infosAdicionais": {
+			"titulo": "Ficou com alguma dúvida sobre o hotel?",
+			"pacote": {
+				"titulo": "",
+				"descricao": ""
+			},
+			"atracoes": {
+				"titulo": "",
+				"descricao": "",
+				"itens": [
+					{
+						"titulo": "Onde fica o Malibu Plaza Hotel?",
+						"descricao": "O Malibu Plaza Hotel fica no coração de Lauro de Freitas, a 1 minuto de carro da Praia Vilas do Atlântico e a 10 minutos do Shopping Estrada do Côco. Está a 3,4 km do Parque Shopping Bahia e a 3,4 km da Praia de Busca Vida."
+					},
+					{
+						"titulo": "Quais são as comodidades oferecidas pelo Malibu Plaza Hotel?",
+						"descricao": "O Malibu Plaza Hotel oferece Wi-Fi de cortesia, serviços de concierge, loja de presentes banca de jornal, telefones, cofres e escrivaninhas nos quartos, além de frigobares e TVs LCD."
+					},
+					{
+						"titulo": "Quais são as atividades de lazer disponíveis no Malibu Plaza Hotel?",
+						"descricao": "O Malibu Plaza Hotel oferece uma piscina externa e uma academia para os hóspedes. Além disso, há um bar lounge para relaxar com uma bebida refrescante."
+					},
+					{
+						"titulo": "Quais são as opções de alimentação no Malibu Plaza Hotel?",
+						"descricao": "Os hóspedes podem saborear deliciosas refeições no Restaurante ou experimentar petiscos na cafeteria. O serviço de quarto 24 horas também está disponível."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "",
+				"itens": [
+                    {
+						"nome": "· Qual é a distância do Aeroporto Internacional Deputado Luís Eduardo Magalhães SSA para o Malibu Plaza Hotel?",
+						"descricao": "O Aeroporto Internacional Deputado Luís Eduardo Magalhães SSA fica a 10,5 km do Malibu Plaza Hotel."
+					}
+				]
+			},
+			"chamadaParaAcao": " ",
+			"informacoesImportantes": {
+				"titulo": "",
+				"itens": [
+					"",
+					"",
+					"",
+					""
+				]
+			}
+		},
+		"gallery": [
+			{
+				"id": 70509,
+				"url": "/images/malibu2.webp"
+			},
+			{
+				"id": 32412,
+				"url": "/images/malibu3.webp"
+			}
+		]
+	}
+]

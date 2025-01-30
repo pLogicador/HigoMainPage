@@ -19,6 +19,7 @@ import {
   AGENT_IMAGE_EDIT_PAGE,
   AGENT_PASSWORD_CHANGE_PAGE,
   AGENT_ACCOUNT_SETTINGS_PAGE,
+  CHECKOUT_PAGE
 } from './settings/constant';
 
 // protected route
@@ -75,6 +76,9 @@ const AgentPictureChangeForm = React.lazy(
 const ChangePassWord = React.lazy(
   () => import('containers/Agent/AccountSettings/ChangePassWordForm'),
 );
+const Checkout = React.lazy(
+  () => import('containers/Checkout/CheckoutPage')
+)
 
 export default function AppRoutes() {
   return (
@@ -93,6 +97,14 @@ export default function AppRoutes() {
           element={
             <React.Suspense fallback={<Loader />}>
               <ListingPage />
+            </React.Suspense>
+          }
+        />
+        <Route
+          path={CHECKOUT_PAGE}
+          element={
+            <React.Suspense fallback={<Loader />}>
+              <Checkout />
             </React.Suspense>
           }
         />

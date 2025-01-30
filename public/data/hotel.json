@@ -371,11 +371,11 @@
 	{
 		"id": 63811,
 		"agentId": 22353,
-		"title": "Four Seasons Hotel London at Park Lane",
-		"slug": "four-seasons-hotel-london-park-lane",
-		"content": "O Four Seasons Hotel London at Park Lane é um símbolo de luxo e sofisticação. Localizado no coração de Mayfair, oferece uma experiência única com acomodações requintadas, gastronomia de alto nível e um spa exclusivo. A localização central permite fácil acesso a atrações de Londres, tornando-o a escolha ideal para viagens de negócios ou lazer.",
+		"title": "Safira Praia Hotel",
+		"slug": "Safira-Praia-Hotel",
+		"content": "Safira PraiaHotel, localizado na Praia de Taperapuan, a 500 metros da Orla da praia mais famosa de Porto Seguro, três quadras do Axé Moí. É um hotel especialmente projetado para a família com toda estrutura de um 4 estrelas. Apartamentos equipados com TV a cabo, ar condicionado, frigobar, cofre, telefone, fechadura eletrônica, secador de cabelo. Possui piscinas adulto e infantil, hidromassagem na área externa, sauna a vapor, sala de ginastica, salão de jogos, copa baby. São fornecidos acesso gratuito à internet sem fio (Wi-Fi) nas áreas sociais, café da manhã, estacionamento. Apenas 15 minutos do Aeroporto de Porto Seguro. *Estacionamento rotativo, não garantimos vagas fixas *",
 		"status": "publish",
-		"price": "2000.00",
+		"price": "171",
 		"isNegotiable": false,
 		"propertyType": "Hotel",
 		"condition": "Excellent",
@@ -414,33 +414,29 @@
 		],
 		"image": {
 			"id": 52861,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11_thumb.jpg"
+			"url": "/images/safira1.jpg",
+			"thumb_url": "/images/safira1.jpg"
 		},
 		"location": {
 			"id": 23076,
 			"lat": 51.5055,
 			"lng": -0.1473,
-			"formattedAddress": "Park Lane, Mayfair, London W1K 7TN, United Kingdom",
-			"zipcode": "W1K 7TN",
-			"city": "London",
-			"state_long": "England",
-			"state_short": "ENG",
-			"country_long": "United Kingdom",
-			"country_short": "GB"
+			"formattedAddress": "Avenida do Coqueiral, 540 - Porto Seguro, Bahia - Brasil - 45810000",
+			"zipcode": "45810000",
+			"city": "Porto Seguro",
+			"state_long": "Bahia",
+			"state_short": "BH",
+			"country_long": "Brasil",
+			"country_short": "BR"
 		},
 		"gallery": [
 			{
 				"id": 98348,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12_thumb.jpg"
+				"url": "/images/safira2.webp"
 			},
 			{
 				"id": 10832,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-13_thumb.jpg"
-			},
-			{
-				"id": 70635,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-14_thumb.jpg"
+				"url": "/images/safira3.webp"
 			}
 		]
 	}
@@ -448,11 +444,11 @@
 	{
 		"id": 35137,
 		"agentId": 63123,
-		"title": "Badrutt's Palace Hotel",
-		"slug": "badrutts-palace-hotel-st-moritz",
-		"content": "Badrutt's Palace Hotel é um ícone de luxo e estilo na região dos Alpes suíços. Localizado em St. Moritz, o hotel oferece uma experiência única de hospitalidade de classe mundial com vistas deslumbrantes, gastronomia refinada e um spa exclusivo. Acomodação impecável e serviço de primeira linha fazem deste hotel o destino perfeito para quem busca luxo e tranquilidade.",
+		"title": "Marezzi Hotel",
+		"slug": "Marezzi-Hotel",
+		"content": "Localizada próximo do Farol e a poucos metros da Feira do Turista, um dos principais pontos turísticos de entretenimento de nossa cidade, o Marezzi Hotel possui ambiente aconchegante e acolhedor. A decoração reflete a cultura local, trazendo elementos que representam nosso estado. Nossos 64 apartamentos, possuem decoração harmoniosa, o que torna sua estada ainda mais prazerosa. Além disso, nossa estrutura possui recepção 24hs, piscina, e internet WI FI em todo o empreendimento. Comece o dia com o nosso café da manhã em nosso restaurante e deguste do melhor da culinária regional, com cardápio variado preparado com muito carinho.",
 		"status": "publish",
-		"price": "1200.00",
+		"price": "92",
 		"isNegotiable": false,
 		"propertyType": "Hotel",
 		"condition": "Excellent",
@@ -491,33 +487,29 @@
 		],
 		"image": {
 			"id": 91141,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-17_thumb.jpg"
+			"url": "/images/marezzi1.webp",
+			"thumb_url": "/images/marezzi1.webp"
 		},
 		"location": {
-			"id": 10393,
-			"lat": 46.4983,
-			"lng": 9.8375,
-			"formattedAddress": "Via Serlas 27, 7500 St. Moritz, Switzerland",
-			"zipcode": "7500",
-			"city": "St. Moritz",
-			"state_long": "Graubünden",
-			"state_short": "GR",
-			"country_long": "Switzerland",
-			"country_short": "CH"
+			"id": 23076,
+			"lat": 51.5055,
+			"lng": -0.1473,
+			"formattedAddress": "RUA WALDEMAR SILVA CARVALHO, 181 COROA DO MEIO - Aracaju, Sergipe - Brasil - 49035770",
+			"zipcode": "49035770",
+			"city": "Aracaju",
+			"state_long": "Sergipe",
+			"state_short": "SE",
+			"country_long": "Brasil",
+			"country_short": "BR"
 		},
 		"gallery": [
 			{
 				"id": 99115,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-18_thumb.jpg"
+				"url": "/images/marezzi2.webp"
 			},
 			{
 				"id": 27188,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-19_thumb.jpg"
-			},
-			{
-				"id": 33855,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-20_thumb.jpg"
+				"url": "/images/marezzi3.webp"
 			}
 		]
 	}
@@ -525,11 +517,11 @@
 	{
 		"id": 91552,
 		"agentId": 9488,
-		"title": "Shangri-La Hotel, Sydney",
-		"slug": "shangri-la-hotel-sydney",
-		"content": "O Shangri-La Hotel, localizado em Sydney, Austrália, é um destino luxuoso que oferece vistas deslumbrantes da cidade e da icônica Opera House. Com uma combinação de elegância moderna e hospitalidade impecável, o hotel oferece um serviço de alta qualidade, excelente gastronomia e acomodações sofisticadas, garantindo uma experiência única em Sydney.",
+		"title": "Natal Praia Hotel",
+		"slug": "Natal-Praia-Hotel",
+		"content": "Bem-vindo ao Site Oficial do Natal Praia Hotel, localizado em Natal, Rio Grande do Norte, entre as praias de Areia Preta e dos Artistas. O Natal Praia Hotel é destacado pelo ótimo atendimento ao cliente, melhor custo benefício e serviço profissional. Além de oferecer tudo o que você precisa para sua viagem: Boa localização para trabalho, turismo, praia, sol, piscinas, atividades, boa comida, conectividade e serviços de passeios turísticos. Dispomos de estacionamento (interno e externo) gratuito e rotativo mediante disponibilidade devido a vagas limitadas. O Natal Praia Hotel dispõe de acomodações com ar-condicionado, equipados com TV cabo, telefone e frigobar e acesso gratuito à internet sem fio (Wi-Fi), enquanto algumas suítes possuem também uma varanda. Há serviço de quarto e recepção disponíveis 24 horas. Estacionamento (interno e externo) gratuito e rotativo mediante disponibilidade devido a vagas limitadas. As praias da Redinha e Ponta Negra ficam a apenas 20 minutos de carro do Natal Praia, que oferece estacionamento gratuito no local. Os visitantes nas redondezas podem visitar os bares e restaurantes. Bem-vindo ao Site Oficial do Natal Praia Hotel, localizado em Natal, Rio Grande do Norte, entre as praias de Areia Preta e dos Artistas. O Natal Praia Hotel é destacado pelo ótimo atendimento ao cliente, melhor custo benefício e serviço profissional. Além de oferecer tudo o que você precisa para sua viagem: Boa localização para trabalho, turismo, praia, sol, piscinas, atividades, boa comida, conectividade e serviços de passeios turísticos. Faça a sua reserva com o melhor preço disponível!",
 		"status": "publish",
-		"price": "650.00",
+		"price": "87",
 		"isNegotiable": false,
 		"propertyType": "Hotel",
 		"condition": "Excellent",
@@ -568,33 +560,29 @@
 		],
 		"image": {
 			"id": 14297,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-3_thumb.jpg"
+			"url": "/images/NatalPraia1.webp",
+			"thumb_url": "/images/NatalPraia1.webp"
 		},
 		"location": {
 			"id": 93702,
 			"lat": -33.8688,
 			"lng": 151.2093,
-			"formattedAddress": "176 Cumberland St, The Rocks, Sydney, NSW 2000, Australia",
-			"zipcode": "2000",
-			"city": "Sydney",
-			"state_long": "New South Wales",
-			"state_short": "NSW",
-			"country_long": "Australia",
-			"country_short": "AU"
+			"formattedAddress": "Av Gov Silvio Pedroza, 19 - Natal, Rio Grande do Norte - Brasil - 59014100",
+			"zipcode": "59014100",
+			"city": "Natal",
+			"state_long": "Rio Grande do Norte",
+			"state_short": "RN",
+			"country_long": "Brasil",
+			"country_short": "BR"
 		},
 		"gallery": [
 			{
 				"id": 35180,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-4_thumb.jpg"
+				"url": "/images/NatalPraia2.webp"
 			},
 			{
 				"id": 27573,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-5_thumb.jpg"
-			},
-			{
-				"id": 68402,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-6_thumb.jpg"
+				"url": "/images/NatalPraia3.webp"
 			}
 		]
 	}
@@ -602,11 +590,11 @@
 	{
 		"id": 26601,
 		"agentId": 61604,
-		"title": "InterContinental, Tokyo Bay",
-		"slug": "intercontinental-tokyo-bay",
-		"content": "O InterContinental Tokyo Bay é um hotel de luxo à beira-mar, oferecendo vistas panorâmicas da Baía de Tóquio. Com uma mistura de design moderno e tradições japonesas, o hotel proporciona uma experiência de conforto e sofisticação, ideal para aqueles que buscam uma estadia luxuosa em Tóquio.",
+		"title": "Malibu Plaza Hotel",
+		"slug": "Malibu-Plaza-Hotel",
+		"content": "O MALIBU PLAZA HOTEL APRESENTA UM NOVO CONCEITO EM HOTELARIA NA AREA METROPOLITANA DE SALVADOR, COM A INFRA-ESTRUTURA COMPLETA PARA NEGOCIOS, CONFORTO E LAZER. LOCALIZACAO PRIVILEGIADA, NO CENTRO DE VILAS DO ATLANTICO, E FACIL ACESSO AOS MAIORES CENTROS COMERCIAIS DE SALVADOR E CAMACARI.O NOSSO HOSPEDE TAMBEM PODE CONTAR COM OS SERVICOS INTERNOS DE INTERNET WI-FI GRATUITA EM TODAS AS AREAS DO HOTEL, SALA DE REUNIAO, ROOM SERVICE, LAVANDERIA, ACADEMIA E PISCINA. O HOTEL POSSUI APARTAMENTOS DIVERSIFICADOS EM 5 CATEGORIAS, TODOS EQUIPADOS COM TELEFONES, INTERNET SEM FIO, MESA DE TRABALHO, AR CONDICIONADO SPLIT, COFRE, FRIGOBAR E TV A CABO, CAMAS DE CASAL OU SOLTEIRO COM POSSIBILIDADE DE ACOMODAR ATE 3 PESSOAS NA CATEGORIA SUPERIOR, ESTACIONAMENTO PRIVADO. SENDO A SUITE MASTER E MASTER PREMIUM COM O DIFERENCIAL DE UMA COZINHA AMERICANA. A GASTRONOMIA NO MALIBU PLAZA HOTEL PROCURA TRAZER AO PALADAR DO HOSPEDE O SABOR E A QUALIDADE DA COMIDA CASEIRA, TORNANDO SUA ESTADIA AINDA MAIS AGRADAVEL SERVIDAS NO MALIBU PLAZA CAFE, ABERTO AO PUBLICO EM GERAL. O CAFE DA MANHA, CORTESIA, DAS 06:00 AS 10:00, E SERVIDO COM FRUTAS, BOLOS, SUCOS, PÃES, FRIOS E COMIDAS TÍPICAS. NO JANTAR, DISPOMOS DE OPÇÕES VARIADAS PARA ATENDER AS NECESSIDADES DOS NOSSOS HOSPEDES. SERVIDO EM SISTEMA DE BUFFET DAS 18:00 AS 20:00, DE SEGUNDA A QUINTA, EM CARÁTER CORTESIA.",
 		"status": "publish",
-		"price": "180.00",
+		"price": "175.00",
 		"isNegotiable": false,
 		"propertyType": "Hotel",
 		"condition": "Excellent",
@@ -645,33 +633,29 @@
 		],
 		"image": {
 			"id": 22340,
-			"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9.jpg",
-			"thumb_url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-9_thumb.jpg"
+			"url": "/images/malibu1.webp",
+			"thumb_url": "/images/malibu1.webp"
 		},
 		"location": {
-			"id": 81726,
-			"lat": 35.6328,
-			"lng": 139.7749,
-			"formattedAddress": "1-16-2 Kaigan, Minato City, Tokyo 105-8576, Japan",
-			"zipcode": "105-8576",
-			"city": "Tokyo",
-			"state_long": "Tokyo",
-			"state_short": "TK",
-			"country_long": "Japan",
-			"country_short": "JP"
+			"id": 93702,
+			"lat": -33.8688,
+			"lng": 151.2093,
+			"formattedAddress": "Av. Praia de Itapoan, s/n qd 19, Lote 12 Vilas do Atlântico - Lauro De Freitas, Bahia - Brasil - 42700000",
+			"zipcode": "42700000",
+			"city": "Lauro De Freitas",
+			"state_long": "Bahia",
+			"state_short": "BA",
+			"country_long": "Brasil",
+			"country_short": "BR"
 		},
 		"gallery": [
 			{
 				"id": 70509,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-10_thumb.jpg"
+				"url": "/images/malibu2.webp"
 			},
 			{
 				"id": 32412,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-11_thumb.jpg"
-			},
-			{
-				"id": 12967,
-				"url": "http://s3.amazonaws.com/redqteam.com/tripfinder-images/hotel-12_thumb.jpg"
+				"url": "/images/malibu3.webp"
 			}
 		]
 	}

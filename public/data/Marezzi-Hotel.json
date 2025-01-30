@@ -1,0 +1,121 @@
+[
+	{
+		"id": 63288,
+		"agentId": 38076,
+		"title": "Marezzi Hotel",
+		"slug": "Marezzi-Hotel",
+		"content": "",
+		"status": "publish",
+		"price": "92",
+		"isNegotiable": false,
+		"propertyType": "Hotel",
+		"condition": "Excellent",
+		"rating": 5,
+		"ratingCount": 150,
+		"contactNumber": "+55 21 3202-4000",
+		"amenities": [
+			{
+				"id": 42453,
+				"guestRoom": 8
+			},
+			{
+				"id": 30289,
+				"bedRoom": 6
+			},
+			{
+				"id": 5821,
+				"wifiAvailability": true
+			},
+			{
+				"id": 22411,
+				"parkingAvailability": true
+			},
+			{
+				"id": 95762,
+				"poolAvailability": true
+			},
+			{
+				"id": 27621,
+				"airCondition": true
+			},
+			{
+				"id": 96437,
+				"extraBedFacility": true
+			}
+		],
+		"image": {
+			"id": 52861,
+			"url": "/images/marezzi1.webp",
+			"thumb_url": "/images/marezzi1.webp"
+		},
+		"location": {
+			"id": 23076,
+			"lat": 51.5055,
+			"lng": -0.1473,
+			"formattedAddress": "RUA WALDEMAR SILVA CARVALHO, 181 COROA DO MEIO - Aracaju, Sergipe - Brasil - 49035770",
+			"zipcode": "49035770",
+			"city": "Aracaju",
+			"state_long": "Sergipe",
+			"state_short": "SE",
+			"country_long": "Brasil",
+			"country_short": "BR"
+		},"infosAdicionais": {
+			"titulo": "Informações do estabelecimento",
+			"pacote": {
+				"titulo": "",
+				"descricao": ""
+			},
+			"atracoes": {
+				"titulo": "",
+				"descricao": "",
+				"itens": [
+					{
+						"titulo": "Onde fica o Marezzi Hotel?",
+						"descricao": "O Marezzi Hotel está localizado na Praia de Atalaia, a poucos metros da Feira do Turista."
+					},
+					{
+						"titulo": "A que distância Hotel Mar do Farol fica de Estádio Estadual Lourival Baptista?",
+						"descricao": "A distância de Hotel Mar do Farol até Estádio Estadual Lourival Baptista é de 5.2km."
+					},
+					{
+						"titulo": "Quais serviços o Marezzi Hotel oferece?",
+						"descricao": "O Marezzi Hotel oferece recepção 24hs, piscina, internet WI FI em todo o empreendimento e serviço de limpeza diário."
+					},
+					{
+						"titulo": "Quais são as acomodações do Marezzi Hotel?",
+						"descricao": "O Marezzi Hotel possui 64 apartamentos com decoração harmoniosa."
+					}
+				]
+			},
+			"hoteis": {
+				"titulo": "",
+				"itens": [
+                    {
+						"nome": "· Quais são as comodidades do Marezzi Hotel?",
+						"descricao": "O Marezzi Hotel possui as seguintes comodidades: recepção 24 horas, free wifi, aceita os principais cartões de crédito, serviço de limpeza diário, restaurante, piscina, estacionamento gratuito e acessibilidade para cadeira de rodas."
+					}
+				]
+			},
+			"chamadaParaAcao": " ",
+			"informacoesImportantes": {
+				"titulo": "",
+				"itens": [
+					"",
+					"",
+					"",
+					""
+				]
+			}
+		},
+		"gallery": [
+			{
+				"id": 99115,
+				"url": "/images/marezzi2.webp"
+			},
+			{
+				"id": 27188,
+				"url": "/images/marezzi3.webp"
+			}
+		]
+	}
+]

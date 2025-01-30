@@ -20,6 +20,7 @@ export const AGENT_PROFILE_DELETE = '/delete';
 export const PRICING_PLAN_PAGE = '/pricing-plan';
 export const PRIVACY_PAGE = '/privacy';
 export const ADD_HOTEL_PAGE = '/add-hotel';
+export const CHECKOUT_PAGE = '/checkout';
 
 // Login / Registration Page
 export const LOGIN_PAGE = '/sign-in';
