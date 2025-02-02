@@ -8,7 +8,11 @@ import PriceCardWrapper, {
   Button,
 } from './PriceCard.style';
 
+<<<<<<< HEAD
 export default function PriceCard({ className, data, buttonText }) {
+=======
+export default function PriceCard({ className, data, buttonText, onClick }) {
+>>>>>>> 4a75dac (refactor: fix button logic and update layout)
   let price, pricingPlan;
 
   if (data.type === 'annually') {
@@ -37,7 +41,11 @@ export default function PriceCard({ className, data, buttonText }) {
         ))}
       </PricingList>
       <PriceAction>
+<<<<<<< HEAD
         <Button>{buttonText}</Button>
+=======
+        <Button onClick={() => onClick(data)}>{buttonText}</Button>
+>>>>>>> 4a75dac (refactor: fix button logic and update layout)
       </PriceAction>
     </PriceCardWrapper>
   );
