@@ -10,11 +10,7 @@ import Navbar from 'components/Navbar/Navbar';
 import { AuthContext } from 'context/AuthProvider';
 import { LayoutContext } from 'context/LayoutProvider';
 import useWindowSize from 'library/hooks/useWindowSize';
-<<<<<<< HEAD
-// import { AGENT_PROFILE_PAGE } from 'settings/constant';
-=======
 //import { AGENT_PROFILE_PAGE } from 'settings/constant';
->>>>>>> 4a75dac (refactor: fix button logic and update layout)
 import AuthMenu from './AuthMenu';
 import MainMenu from './MainMenu';
 import MobileMenu from './MobileMenu';
@@ -67,10 +63,7 @@ export default function Header() {
         innerZ={10001}
         activeClass="isHeaderSticky"
       >
-<<<<<<< HEAD
-=======
         <>
->>>>>>> 4a75dac (refactor: fix button logic and update layout)
         {width > 991 ? (
           <Navbar
             logo={
@@ -149,10 +142,7 @@ export default function Header() {
             </Drawer>
           </MobileNavbar>
         )}
-<<<<<<< HEAD
-=======
         </>
->>>>>>> 4a75dac (refactor: fix button logic and update layout)
       </Sticky>
     </HeaderWrapper>
   );
