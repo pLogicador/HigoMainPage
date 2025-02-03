@@ -1,5 +1,8 @@
-import React, { useState } from 'react';
-import { Button } from 'antd';
+import React, { useState, useContext } from 'react';
+import { Button, message } from 'antd';
+import { AuthContext } from '../../../context/AuthProvider.jsx'; // Importando o contexto de autenticação
+import { LOGIN_PAGE } from '../../../settings/constant.js'
+import { useNavigate } from 'react-router-dom'; 
 import HtmlLabel from 'components/UI/HtmlLabel/HtmlLabel';
 import DatePickerRange from 'components/UI/DatePicker/ReactDates';
 import ViewWithPopup from 'components/UI/ViewWithPopup/ViewWithPopup';
@@ -18,6 +21,9 @@ const RenderReservationForm = () => {
     room: 0,
     guest: 0,
   });
+
+  const { loggedIn } = useContext(AuthContext); // Pegando o status de login do contexto
+  const navigate = useNavigate(); // Para redirecionar o usuário
 
   const handleIncrement = (type) => {
     setFormState({
@@ -50,9 +56,15 @@ const RenderReservationForm = () => {
   };
   const handleSubmit = (e) => {
     e.preventDefault();
-    alert(
-      `Data inicial: ${formState.startDate}\nData final: ${formState.endDate}\nQuartos: ${formState.room}\nHospedes: ${formState.guest}`,
-    );
+    if (!loggedIn) {
+      message.error('Você precisa estar logado para escolher o pacote.');
+      navigate(LOGIN_PAGE);
+
+    } else {
+      alert(
+        `Data inicial: ${formState.startDate}\nData final: ${formState.endDate}\nQuartos: ${formState.room}\nHospedes: ${formState.guest}`,
+      );
+    }
   };
 
   return (

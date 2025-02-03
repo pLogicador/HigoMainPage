@@ -1,6 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { Menu } from 'antd';
+import { UserOutlined } from '@ant-design/icons';  // Importando o ícone de usuário
+import { LOGIN_PAGE } from '../../../settings/constant'
 
 import {
   HOME_PAGE,
@@ -25,6 +27,15 @@ const menuItems = [
   {
     label: <NavLink to={PRICING_PLAN_PAGE}>Clube</NavLink>,
     key: 'menu-3',
+  },
+  {
+    label: (
+      <NavLink to={LOGIN_PAGE}>
+        <UserOutlined />
+        <span style={{ marginLeft: '8px' }}>Login</span>
+      </NavLink>
+    ),
+    key: 'menu-4',
   },
 ];
 
