@@ -204,18 +204,12 @@ export const TitleArea = styled.div`
   }
 
   a {
-<<<<<<< HEAD
-    color: ${themeGet('text.0', '#2C2C2C')};
-    font-size: 17px;
-    font-weight: 700;
-=======
     // city ​​title
     color: ${themeGet('text.0', '#2C2C2C')};
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     display: block;
     font-size: 25px;
     font-weight: 800;
->>>>>>> 4a75dac (refactor: fix button logic and update layout)
     margin-bottom: 2px;
     @media (max-width: 480px) {
       font-size: 15px;
@@ -228,19 +222,12 @@ export const TitleArea = styled.div`
 `;
 
 export const PriceArea = styled.div`
-<<<<<<< HEAD
-  color: ${themeGet('text.0', '#2C2C2C')};
-  font-size: 13px;
-  font-weight: 400;
-  margin-top: 1px;
-=======
   // price title
   color: ${themeGet('text.0', '#2C2C2C')};
   font-size: 21px;
   font-weight: 600;
   margin-top: 1px;
   margin-bottom: 1px;
->>>>>>> 4a75dac (refactor: fix button logic and update layout)
   white-space: nowrap;
   width: 100%;
   overflow: hidden;
@@ -248,10 +235,7 @@ export const PriceArea = styled.div`
 `;
 
 export const RatingArea = styled.div`
-<<<<<<< HEAD
-=======
   // Rating title
->>>>>>> 4a75dac (refactor: fix button logic and update layout)
   display: flex;
   align-items: center;
   color: ${themeGet('text.0', '#2C2C2C')};
@@ -314,11 +298,8 @@ export const ButtonGroup = styled.div`
     font-weight: 700;
     color: ${themeGet('primary.0', '#008489')};
     transition: all 0.3s ease;
-<<<<<<< HEAD
-=======
     margin-top: 15px; // space in the 'a' of the rating
 
->>>>>>> 4a75dac (refactor: fix button logic and update layout)
     &:hover,
     &:focus {
       outline: 0;
